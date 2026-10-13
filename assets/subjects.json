@@ -1,0 +1,62 @@
+[
+  {
+    "id": "politics",
+    "name": "政治",
+    "icon": "book",
+    "color": "#E85D75",
+    "total": 355,
+    "enabled": true,
+    "order": 1,
+    "kind": "normal"
+  },
+  {
+    "id": "english",
+    "name": "英语",
+    "icon": "language",
+    "color": "#4D9DE0",
+    "total": 330,
+    "enabled": true,
+    "order": 2,
+    "kind": "normal"
+  },
+  {
+    "id": "math",
+    "name": "高数",
+    "icon": "calculator",
+    "color": "#9B7EDE",
+    "total": 336,
+    "enabled": true,
+    "order": 3,
+    "kind": "normal"
+  },
+  {
+    "id": "math-real",
+    "name": "高数真题",
+    "icon": "calculator",
+    "color": "#5FB8A8",
+    "total": 160,
+    "enabled": true,
+    "order": 4,
+    "kind": "real"
+  },
+  {
+    "id": "english-real",
+    "name": "英语真题",
+    "icon": "language",
+    "color": "#5BA3C7",
+    "total": 660,
+    "enabled": true,
+    "order": 5,
+    "kind": "real"
+  },
+  {
+    "id": "politics-real",
+    "name": "政治真题",
+    "icon": "book",
+    "color": "#F2A65A",
+    "total": 407,
+    "enabled": true,
+    "order": 5,
+    "kind": "real"
+  }
+]

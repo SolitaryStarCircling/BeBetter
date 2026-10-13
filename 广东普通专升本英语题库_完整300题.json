@@ -1,0 +1,4782 @@
+[
+ {
+  "id": "001",
+  "type": "填空",
+  "stem": "The little girl was deeply ____ (move) by the story her grandmother told her.",
+  "options": [],
+  "answer": "moved",
+  "explanation": "考查非谓语动词作表语。修饰人（女孩）的内心感受，用过去分词 moved，意为\"被感动\"。",
+  "knowledge_point": "非谓语动词-过去分词作表语",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "改编(据2024真题考点)"
+ },
+ {
+  "id": "002",
+  "type": "填空",
+  "stem": "The bridge ____ (build) last year connects the two towns.",
+  "options": [],
+  "answer": "built",
+  "explanation": "考查非谓语动词作后置定语。bridge 与 build 是被动关系，且动作已完成，用过去分词 built。",
+  "knowledge_point": "非谓语动词-过去分词作定语",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "改编(据2024真题考点)"
+ },
+ {
+  "id": "003",
+  "type": "填空",
+  "stem": "He ____ (see) a movie with his friends yesterday evening.",
+  "options": [],
+  "answer": "saw",
+  "explanation": "考查谓语动词时态。由 yesterday evening 可知用一般过去时，see 的过去式为 saw。",
+  "knowledge_point": "时态-一般过去时",
+  "chapter": "语法",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "004",
+  "type": "填空",
+  "stem": "It is a great honor for me to be invited to such ____ important meeting.",
+  "options": [],
+  "answer": "an",
+  "explanation": "考查冠词。meeting 为可数名词单数，important 以元音音素开头，用不定冠词 an。",
+  "knowledge_point": "冠词",
+  "chapter": "语法",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "005",
+  "type": "填空",
+  "stem": "The house, ____ roof was damaged in the storm, has been repaired.",
+  "options": [],
+  "answer": "whose",
+  "explanation": "考查定语从句。先行词 house 与 roof 存在所属关系，用关系代词 whose。",
+  "knowledge_point": "定语从句-关系代词",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "006",
+  "type": "填空",
+  "stem": "My brother is determined ____ (finish) the task before Friday.",
+  "options": [],
+  "answer": "to finish",
+  "explanation": "考查非谓语动词。固定搭配 be determined to do sth.，用不定式 to finish。",
+  "knowledge_point": "非谓语动词-不定式",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "改编(据2024真题考点)"
+ },
+ {
+  "id": "007",
+  "type": "填空",
+  "stem": "She succeeded ____ passing the driving test on her first try.",
+  "options": [],
+  "answer": "in",
+  "explanation": "考查介词固定搭配。succeed in doing sth. 意为\"成功做某事\"。",
+  "knowledge_point": "介词固定搭配",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "改编(据2024真题考点)"
+ },
+ {
+  "id": "008",
+  "type": "填空",
+  "stem": "There are many ____ (member) in this club.",
+  "options": [],
+  "answer": "members",
+  "explanation": "考查名词复数。由 many 可知用复数形式 members。",
+  "knowledge_point": "名词复数",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "009",
+  "type": "填空",
+  "stem": "I told ____ (I) that I must study harder.",
+  "options": [],
+  "answer": "myself",
+  "explanation": "考查反身代词。主语 I 与宾语指同一人，用反身代词 myself。",
+  "knowledge_point": "代词-反身代词",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "010",
+  "type": "填空",
+  "stem": "The students are ____ (excite) about the coming sports meeting.",
+  "options": [],
+  "answer": "excited",
+  "explanation": "考查分词形容词。修饰人（students）的内心感受用 excited；exciting 修饰事物。",
+  "knowledge_point": "分词形容词 -ed/-ing",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "改编(据2023真题考点)"
+ },
+ {
+  "id": "011",
+  "type": "单选",
+  "stem": "The novel is so interesting that it is worth ____ a second time.",
+  "options": [
+   "A. to read",
+   "B. reading",
+   "C. being read",
+   "D. to be read"
+  ],
+  "answer": "B",
+  "explanation": "考查固定搭配 be worth doing，用主动形式表被动含义，故选 reading。",
+  "knowledge_point": "非谓语动词-be worth doing",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "012",
+  "type": "单选",
+  "stem": "The teacher, together with his students, ____ going to visit the museum tomorrow.",
+  "options": [
+   "A. is",
+   "B. are",
+   "C. was",
+   "D. were"
+  ],
+  "answer": "A",
+  "explanation": "考查主谓一致。together with 后接成分不影响谓语单复数，主语是 the teacher（单数），且 tomorrow 表将来，用 is going to。",
+  "knowledge_point": "主谓一致",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "013",
+  "type": "单选",
+  "stem": "The doctor suggested that he ____ more exercise to improve his health.",
+  "options": [
+   "A. takes",
+   "B. take",
+   "C. took",
+   "D. taking"
+  ],
+  "answer": "B",
+  "explanation": "考查虚拟语气。suggest 表\"建议\"时，宾语从句用 (should) + 动词原形，should 可省略，故选 take。",
+  "knowledge_point": "虚拟语气",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "014",
+  "type": "单选",
+  "stem": "It was not until midnight ____ they reached the campsite.",
+  "options": [
+   "A. that",
+   "B. when",
+   "C. while",
+   "D. as"
+  ],
+  "answer": "A",
+  "explanation": "考查强调句型 It was + 被强调部分 + that。强调时间状语 not until midnight，用 that。",
+  "knowledge_point": "强调句型",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "015",
+  "type": "单选",
+  "stem": "I don't know the meaning of this word. I need to ____ it in the dictionary.",
+  "options": [
+   "A. look for",
+   "B. look after",
+   "C. look up",
+   "D. look out"
+  ],
+  "answer": "C",
+  "explanation": "考查动词短语辨析。look up 意为\"查阅\"，符合\"查字典\"语境。",
+  "knowledge_point": "动词短语辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "016",
+  "type": "单选",
+  "stem": "The old man lives alone, but he doesn't feel ____ because he has many friends.",
+  "options": [
+   "A. lonely",
+   "B. alone",
+   "C. along",
+   "D. lone"
+  ],
+  "answer": "A",
+  "explanation": "考查近义词辨析。alone 强调客观\"独自\"，lonely 强调主观\"孤独\"。句意转折，选 lonely。",
+  "knowledge_point": "近义词辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "017",
+  "type": "单选",
+  "stem": "We should make full use of our time to study, because time ____ will never return.",
+  "options": [
+   "A. losing",
+   "B. lost",
+   "C. being lost",
+   "D. having lost"
+  ],
+  "answer": "B",
+  "explanation": "考查非谓语动词作定语。time 与 lose 是被动关系，用过去分词 lost 作后置定语，意为\"逝去的时间\"。",
+  "knowledge_point": "非谓语动词-过去分词作定语",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "018",
+  "type": "单选",
+  "stem": "She has a gift for music and she dreams of becoming a famous ____.",
+  "options": [
+   "A. musician",
+   "B. physicist",
+   "C. chemist",
+   "D. biologist"
+  ],
+  "answer": "A",
+  "explanation": "考查词义辨析。由\"音乐天赋\"可推知梦想成为音乐家 musician。",
+  "knowledge_point": "名词辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "019",
+  "type": "单选",
+  "stem": "She is always complaining about something. She has become a real ____.",
+  "options": [
+   "A. pleasure",
+   "B. treasure",
+   "C. measure",
+   "D. nuisance"
+  ],
+  "answer": "D",
+  "explanation": "考查词义辨析。由\"总在抱怨\"可推知她成了令人讨厌的人，nuisance 意为\"讨厌的人/事\"。",
+  "knowledge_point": "名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "原题(网传，需核对)"
+ },
+ {
+  "id": "020",
+  "type": "单选",
+  "stem": "____ the bad weather, they still went to school on time.",
+  "options": [
+   "A. Despite",
+   "B. Because of",
+   "C. Thanks to",
+   "D. As"
+  ],
+  "answer": "A",
+  "explanation": "考查介词辨析。句意表转折\"尽管天气不好，仍按时上学\"，Despite 意为\"尽管\"，后接名词短语。",
+  "knowledge_point": "介词辨析",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "021",
+  "type": "单选",
+  "stem": "Not only the students but also the teacher ____ fond of playing basketball.",
+  "options": [
+   "A. is",
+   "B. are",
+   "C. was",
+   "D. were"
+  ],
+  "answer": "A",
+  "explanation": "考查主谓一致。not only...but also... 连接并列主语时遵循就近原则，与 the teacher（单数）一致，用 is。",
+  "knowledge_point": "主谓一致-就近原则",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "022",
+  "type": "单选",
+  "stem": "By the time you get back, I ____ all the housework.",
+  "options": [
+   "A. will finish",
+   "B. have finished",
+   "C. will have finished",
+   "D. finish"
+  ],
+  "answer": "C",
+  "explanation": "考查时态。by the time 引导时间状语从句表将来完成，主句用将来完成时 will have finished。",
+  "knowledge_point": "时态-将来完成时",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "023",
+  "type": "单选",
+  "stem": "The reason ____ he was late was that he missed the early bus.",
+  "options": [
+   "A. why",
+   "B. which",
+   "C. that",
+   "D. because"
+  ],
+  "answer": "A",
+  "explanation": "考查定语从句。先行词 reason 在从句中作原因状语，用关系副词 why 引导。",
+  "knowledge_point": "定语从句-关系副词",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "024",
+  "type": "单选",
+  "stem": "Hardly had he arrived at the station ____ the train left.",
+  "options": [
+   "A. when",
+   "B. than",
+   "C. then",
+   "D. that"
+  ],
+  "answer": "A",
+  "explanation": "考查固定结构 hardly...when...，意为\"一……就……\"，hardly 位于句首时主句部分倒装。",
+  "knowledge_point": "倒装句",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "025",
+  "type": "单选",
+  "stem": "The manager, as well as his assistants, ____ to attend the meeting.",
+  "options": [
+   "A. is",
+   "B. are",
+   "C. have",
+   "D. were"
+  ],
+  "answer": "A",
+  "explanation": "考查主谓一致。as well as 连接并列主语时谓语与前面的主语 the manager 一致，用单数 is。",
+  "knowledge_point": "主谓一致",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "026",
+  "type": "单选",
+  "stem": "I would rather you ____ here with me now.",
+  "options": [
+   "A. stay",
+   "B. stayed",
+   "C. staying",
+   "D. to stay"
+  ],
+  "answer": "B",
+  "explanation": "考查虚拟语气。would rather 后接从句表对现在/将来的虚拟，用一般过去时 stayed。",
+  "knowledge_point": "虚拟语气",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "027",
+  "type": "单选",
+  "stem": "This is the most interesting book ____ I have ever read.",
+  "options": [
+   "A. which",
+   "B. that",
+   "C. what",
+   "D. whose"
+  ],
+  "answer": "B",
+  "explanation": "考查定语从句。先行词被最高级修饰时，关系代词只能用 that。",
+  "knowledge_point": "定语从句-that 的用法",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "028",
+  "type": "单选",
+  "stem": "The population of China is larger than ____ of any other country in the world.",
+  "options": [
+   "A. it",
+   "B. this",
+   "C. that",
+   "D. those"
+  ],
+  "answer": "C",
+  "explanation": "考查代词。用 that 指代前文的 the population（单数不可数名词），避免重复。",
+  "knowledge_point": "代词-替代",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "029",
+  "type": "单选",
+  "stem": "____ is known to all, the earth moves around the sun.",
+  "options": [
+   "A. It",
+   "B. As",
+   "C. Which",
+   "D. What"
+  ],
+  "answer": "B",
+  "explanation": "考查非限制性定语从句。As is known to all 为固定结构，as 指代整个主句。",
+  "knowledge_point": "定语从句-as 的用法",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "030",
+  "type": "单选",
+  "stem": "He was about to go out ____ it began to rain.",
+  "options": [
+   "A. when",
+   "B. while",
+   "C. as",
+   "D. then"
+  ],
+  "answer": "A",
+  "explanation": "考查固定结构 be about to do...when...，意为\"正要做某事，这时……\"，when 表\"这时\"。",
+  "knowledge_point": "连词-when 的用法",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "031",
+  "type": "单选",
+  "stem": "When the boy found his lost dog, he was so excited that he couldn't ____ his tears.",
+  "options": [
+   "A. hold back",
+   "B. hold on",
+   "C. hold up",
+   "D. hold out"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。hold back 意为\"抑制、控制（情感/眼泪）\"，符合语境。",
+  "knowledge_point": "完形-动词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "032",
+  "type": "单选",
+  "stem": "The little girl was afraid of the dark, so she always slept with the light ____ on.",
+  "options": [
+   "A. turn",
+   "B. turned",
+   "C. turning",
+   "D. to turn"
+  ],
+  "answer": "B",
+  "explanation": "考查 with 复合结构。light 与 turn on 是被动关系，用过去分词 turned 作宾语补足语。",
+  "knowledge_point": "完形-非谓语作宾补",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "033",
+  "type": "单选",
+  "stem": "To our great ____, the project was completed ahead of schedule.",
+  "options": [
+   "A. surprise",
+   "B. surprises",
+   "C. surprising",
+   "D. surprised"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 to one's surprise，意为\"令某人惊讶的是\"，名词用原形。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "034",
+  "type": "单选",
+  "stem": "He ____ me of his decision to quit the job last week.",
+  "options": [
+   "A. informed",
+   "B. reminded",
+   "C. warned",
+   "D. accused"
+  ],
+  "answer": "A",
+  "explanation": "考查动词搭配。inform sb. of sth. 意为\"通知某人某事\"，符合语境。",
+  "knowledge_point": "完形-动词辨析与搭配",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "035",
+  "type": "单选",
+  "stem": "The two brothers look so ____ that many people mistake one for the other.",
+  "options": [
+   "A. likely",
+   "B. alike",
+   "C. similar",
+   "D. same"
+  ],
+  "answer": "B",
+  "explanation": "考查近义词辨析。alike 只作表语，意为\"相像的\"；similar 需接 to；same 需接 the。look alike 符合语境。",
+  "knowledge_point": "完形-近义词辨析",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "036",
+  "type": "单选",
+  "stem": "____ I get the money, I will pay you back immediately.",
+  "options": [
+   "A. Unless",
+   "B. As soon as",
+   "C. Although",
+   "D. So that"
+  ],
+  "answer": "B",
+  "explanation": "考查连词辨析。as soon as 意为\"一……就……\"，符合\"一拿到钱就还\"的语境。",
+  "knowledge_point": "完形-连词辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "037",
+  "type": "单选",
+  "stem": "It was not until the rain stopped ____ the match continued.",
+  "options": [
+   "A. when",
+   "B. that",
+   "C. which",
+   "D. and"
+  ],
+  "answer": "B",
+  "explanation": "考查强调句型 It was not until...that...，强调时间状语从句，用 that。",
+  "knowledge_point": "完形-强调句型",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "038",
+  "type": "单选",
+  "stem": "His new book has attracted the ____ of many young readers.",
+  "options": [
+   "A. attention",
+   "B. attempt",
+   "C. attendance",
+   "D. attitude"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。attract one's attention 意为\"吸引某人的注意\"，符合语境。",
+  "knowledge_point": "完形-名词辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "039",
+  "type": "单选",
+  "stem": "She was the only one who ____ the terrible accident.",
+  "options": [
+   "A. survived",
+   "B. remained",
+   "C. existed",
+   "D. stayed"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。survive 意为\"幸存\"，是及物动词，符合\"从事故中幸存\"的语境。",
+  "knowledge_point": "完形-动词辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "040",
+  "type": "单选",
+  "stem": "The more you practice, the ____ you will become at speaking English.",
+  "options": [
+   "A. more fluent",
+   "B. fluenter",
+   "C. fluent",
+   "D. most fluent"
+  ],
+  "answer": "A",
+  "explanation": "考查\"the+比较级, the+比较级\"结构。fluent 为双音节词，比较级用 more fluent。",
+  "knowledge_point": "完形-比较级结构",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "041",
+  "type": "单选",
+  "stem": "____ his old age, he still works in the garden every day.",
+  "options": [
+   "A. Because of",
+   "B. In spite of",
+   "C. In case of",
+   "D. Instead of"
+  ],
+  "answer": "B",
+  "explanation": "考查介词短语辨析。in spite of 意为\"尽管\"，表让步，符合\"尽管年迈仍劳作\"的语境。",
+  "knowledge_point": "完形-介词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "042",
+  "type": "单选",
+  "stem": "It is important that every student ____ the school rules.",
+  "options": [
+   "A. observes",
+   "B. observe",
+   "C. observed",
+   "D. observing"
+  ],
+  "answer": "B",
+  "explanation": "考查虚拟语气。It is important that... 句型中，从句用 (should) + 动词原形，故用 observe。",
+  "knowledge_point": "完形-虚拟语气",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "043",
+  "type": "单选",
+  "stem": "The manager was satisfied with the work the new clerk had ____.",
+  "options": [
+   "A. carried out",
+   "B. carried on",
+   "C. carried away",
+   "D. carried off"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。carry out 意为\"执行、完成\"，符合\"完成工作\"的语境。",
+  "knowledge_point": "完形-动词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "044",
+  "type": "单选",
+  "stem": "Nobody can tell exactly when the custom first came into ____.",
+  "options": [
+   "A. being",
+   "B. power",
+   "C. effect",
+   "D. use"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配。come into being 意为\"形成、产生\"，符合语境。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "045",
+  "type": "单选",
+  "stem": "____ in the queue for half an hour, the old man suddenly realized he had left his wallet at home.",
+  "options": [
+   "A. To wait",
+   "B. Having waited",
+   "C. Wait",
+   "D. Waited"
+  ],
+  "answer": "B",
+  "explanation": "考查非谓语动词作状语。wait 的动作先于 realize 发生，用现在分词完成式 Having waited。",
+  "knowledge_point": "完形-非谓语作状语",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "046",
+  "type": "单选",
+  "stem": "The government has taken measures to ____ the environment from pollution.",
+  "options": [
+   "A. protect",
+   "B. prevent",
+   "C. provide",
+   "D. produce"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。protect...from... 意为\"保护……免受……\"，符合语境。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "047",
+  "type": "单选",
+  "stem": "I can't ____ the difference between the two words.",
+  "options": [
+   "A. say",
+   "B. speak",
+   "C. tell",
+   "D. talk"
+  ],
+  "answer": "C",
+  "explanation": "考查动词辨析。tell the difference between 为固定搭配，意为\"分辨……的差别\"。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "048",
+  "type": "单选",
+  "stem": "The ____ of the fire is still unknown.",
+  "options": [
+   "A. reason",
+   "B. cause",
+   "C. excuse",
+   "D. result"
+  ],
+  "answer": "B",
+  "explanation": "考查名词辨析。cause 指导致某事发生的直接原因；reason 指做某事的理由。火灾的\"起因\"用 cause。",
+  "knowledge_point": "词汇-近义词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "049",
+  "type": "单选",
+  "stem": "You'd better take an umbrella ____ it rains.",
+  "options": [
+   "A. in case",
+   "B. so that",
+   "C. even if",
+   "D. as if"
+  ],
+  "answer": "A",
+  "explanation": "考查连词辨析。in case 意为\"以防、万一\"，符合\"带伞以防下雨\"的语境。",
+  "knowledge_point": "词汇-连词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "050",
+  "type": "单选",
+  "stem": "His speech made a deep ____ on all the listeners.",
+  "options": [
+   "A. impression",
+   "B. expression",
+   "C. attention",
+   "D. effect"
+  ],
+  "answer": "A",
+  "explanation": "考查名词搭配。make a deep impression on 意为\"给……留下深刻印象\"。",
+  "knowledge_point": "词汇-名词搭配",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "051",
+  "type": "单选",
+  "stem": "The weather here is ____ from that in my hometown.",
+  "options": [
+   "A. different",
+   "B. similar",
+   "C. same",
+   "D. familiar"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词辨析与搭配。be different from 意为\"与……不同\"。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "052",
+  "type": "单选",
+  "stem": "He is ____ to his job and works until late at night.",
+  "options": [
+   "A. devoted",
+   "B. attracted",
+   "C. opposed",
+   "D. exposed"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词搭配。be devoted to 意为\"专心于、献身于\"，符合语境。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "053",
+  "type": "单选",
+  "stem": "The meeting has been ____ off until next Monday.",
+  "options": [
+   "A. put",
+   "B. cut",
+   "C. taken",
+   "D. turned"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。put off 意为\"推迟\"，符合语境。",
+  "knowledge_point": "词汇-动词短语辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "054",
+  "type": "单选",
+  "stem": "____ of the students in our class passed the exam.",
+  "options": [
+   "A. Two third",
+   "B. Two thirds",
+   "C. Second three",
+   "D. Second thirds"
+  ],
+  "answer": "B",
+  "explanation": "考查分数表达。三分之二用 two thirds，分子大于 1 时分母加 s。",
+  "knowledge_point": "词汇-数词",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "055",
+  "type": "单选",
+  "stem": "The doctor advised him to give up ____.",
+  "options": [
+   "A. smoke",
+   "B. to smoke",
+   "C. smoking",
+   "D. smoked"
+  ],
+  "answer": "C",
+  "explanation": "考查非谓语动词。give up 后接动名词 smoking，意为\"戒烟\"。",
+  "knowledge_point": "词汇-动词搭配",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "056",
+  "type": "单选",
+  "stem": "The two brothers are so ____ in appearance that I can hardly tell them apart.",
+  "options": [
+   "A. identical",
+   "B. likely",
+   "C. similar",
+   "D. same"
+  ],
+  "answer": "A",
+  "explanation": "考查近义词辨析。identical 意为\"完全相同的\"，程度比 similar 更深，符合\"几乎分不出\"的语境；same 需搭配 the。",
+  "knowledge_point": "词汇-近义词辨析",
+  "chapter": "词汇",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "057",
+  "type": "单选",
+  "stem": "We should ____ every opportunity to learn English well.",
+  "options": [
+   "A. make use of",
+   "B. make up of",
+   "C. make fun of",
+   "D. make room for"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。make use of 意为\"利用\"，符合\"利用每个机会\"的语境。",
+  "knowledge_point": "词汇-动词短语辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "058",
+  "type": "单选",
+  "stem": "The committee ____ of twelve members from different departments.",
+  "options": [
+   "A. consists",
+   "B. composes",
+   "C. constitutes",
+   "D. includes"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析与搭配。consist of 意为\"由……组成\"，无被动语态；be composed of 也表\"组成\"但需被动，故选 consists。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "059",
+  "type": "单选",
+  "stem": "It is ____ to learn English well if you keep practicing every day.",
+  "options": [
+   "A. possible",
+   "B. impossible",
+   "C. probable",
+   "D. likely"
+  ],
+  "answer": "A",
+  "explanation": "考查句型与形容词辨析。It is possible to do sth. 为固定句型；probable/likely 不用于此结构。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "060",
+  "type": "单选",
+  "stem": "The new policy will come into ____ next month.",
+  "options": [
+   "A. effect",
+   "B. effort",
+   "C. affect",
+   "D. afford"
+  ],
+  "answer": "A",
+  "explanation": "考查易混词辨析。come into effect 意为\"生效\"；注意 affect 是动词\"影响\"，effort 是\"努力\"。",
+  "knowledge_point": "词汇-易混词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "061",
+  "type": "填空",
+  "stem": "By the time the teacher arrived, the students ____ (clean) the classroom.",
+  "options": [],
+  "answer": "had cleaned",
+  "explanation": "考查时态。by the time 引导过去时间，主句动作先于从句，用过去完成时 had cleaned。",
+  "knowledge_point": "时态-过去完成时",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "062",
+  "type": "填空",
+  "stem": "The windows ____ (wash) by Tom every Sunday.",
+  "options": [],
+  "answer": "are washed",
+  "explanation": "考查被动语态。windows 与 wash 是被动关系，every Sunday 表一般现在时，用 are washed。",
+  "knowledge_point": "语态-一般现在时被动",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "063",
+  "type": "填空",
+  "stem": "She is one of the girls who ____ (be) good at singing.",
+  "options": [],
+  "answer": "are",
+  "explanation": "考查主谓一致。定语从句先行词是 the girls（复数），关系代词 who 指代 girls，故用 are。",
+  "knowledge_point": "主谓一致-定语从句",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "064",
+  "type": "填空",
+  "stem": "____ (give) more time, we could have finished the work better.",
+  "options": [],
+  "answer": "Given",
+  "explanation": "考查非谓语动词作条件状语。we 与 give 是被动关系，用过去分词 Given。",
+  "knowledge_point": "非谓语动词-过去分词作状语",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "065",
+  "type": "填空",
+  "stem": "He suggested that the meeting ____ (put) off until next week.",
+  "options": [],
+  "answer": "be put",
+  "explanation": "考查虚拟语气与被动。suggest 表建议时从句用 (should)+动词原形，meeting 与 put off 被动，故 be put。",
+  "knowledge_point": "虚拟语气-被动",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "066",
+  "type": "填空",
+  "stem": "This is the third time that I ____ (visit) the Great Wall.",
+  "options": [],
+  "answer": "have visited",
+  "explanation": "考查时态。It/This is the first/second/... time that... 句型中，从句用现在完成时。",
+  "knowledge_point": "时态-现在完成时",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "067",
+  "type": "填空",
+  "stem": "The book ____ (write) in 1990 is still popular today.",
+  "options": [],
+  "answer": "written",
+  "explanation": "考查非谓语动词作定语。book 与 write 是被动关系，用过去分词 written 作后置定语。",
+  "knowledge_point": "非谓语动词-过去分词作定语",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "068",
+  "type": "填空",
+  "stem": "Not only ____ (he, like) music, but he also enjoys painting.",
+  "options": [],
+  "answer": "does he like",
+  "explanation": "考查倒装。not only 位于句首，主句部分倒装，一般现在时用 does he like。",
+  "knowledge_point": "倒装句",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "069",
+  "type": "填空",
+  "stem": "He would rather stay at home than ____ (go) out in such bad weather.",
+  "options": [],
+  "answer": "go",
+  "explanation": "考查固定结构 would rather do than do，than 后接动词原形 go。",
+  "knowledge_point": "固定结构-would rather",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "070",
+  "type": "填空",
+  "stem": "The news that he told us ____ (make) everyone happy.",
+  "options": [],
+  "answer": "made",
+  "explanation": "考查时态与主谓一致。news 为不可数名词作主语，用单数；语境为过去，用 made。",
+  "knowledge_point": "主谓一致-不可数名词",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "071",
+  "type": "填空",
+  "stem": "____ (face) with so many difficulties, we must stay calm.",
+  "options": [],
+  "answer": "Faced",
+  "explanation": "考查非谓语动词。be faced with 为固定搭配，作状语时省略 be，用 Faced。",
+  "knowledge_point": "非谓语动词-be faced with",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "072",
+  "type": "填空",
+  "stem": "It is high time that we ____ (take) action to protect the environment.",
+  "options": [],
+  "answer": "took",
+  "explanation": "考查虚拟语气。It is (high) time that... 句型中，从句用一般过去时表虚拟，用 took。",
+  "knowledge_point": "虚拟语气-It is time that",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "073",
+  "type": "填空",
+  "stem": "The harder you work, the ____ (great) progress you will make.",
+  "options": [],
+  "answer": "greater",
+  "explanation": "考查比较级。the+比较级, the+比较级 结构，great 的比较级为 greater。",
+  "knowledge_point": "形容词比较级",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "074",
+  "type": "填空",
+  "stem": "He spoke ____ (loud) that everyone in the hall could hear him.",
+  "options": [],
+  "answer": "so loudly",
+  "explanation": "考查 so...that... 结构与副词。修饰动词 spoke 用副词 loudly，so loudly that 表结果。",
+  "knowledge_point": "副词-结果状语从句",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "075",
+  "type": "填空",
+  "stem": "Either you or he ____ (be) going to be responsible for the accident.",
+  "options": [],
+  "answer": "is",
+  "explanation": "考查主谓一致。either...or... 遵循就近原则，与 he（单数）一致，用 is。",
+  "knowledge_point": "主谓一致-就近原则",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "076",
+  "type": "填空",
+  "stem": "The number of students in our school ____ (be) increasing year by year.",
+  "options": [],
+  "answer": "is",
+  "explanation": "考查主谓一致。the number of 后接名词作主语，谓语用单数 is。",
+  "knowledge_point": "主谓一致-the number of",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "077",
+  "type": "填空",
+  "stem": "It was in the library ____ I met my old friend yesterday.",
+  "options": [],
+  "answer": "that",
+  "explanation": "考查强调句型。It was + 被强调部分（地点状语）+ that，用 that。",
+  "knowledge_point": "强调句型",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "078",
+  "type": "填空",
+  "stem": "The children are looking forward to ____ (hear) from their parents.",
+  "options": [],
+  "answer": "hearing",
+  "explanation": "考查非谓语动词。look forward to 中 to 是介词，后接动名词 hearing。",
+  "knowledge_point": "非谓语动词-动名词",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "079",
+  "type": "填空",
+  "stem": "____ (not, know) what to do, she turned to her teacher for help.",
+  "options": [],
+  "answer": "Not knowing",
+  "explanation": "考查非谓语动词作原因状语。she 与 know 是主动关系，用现在分词，否定形式 Not knowing。",
+  "knowledge_point": "非谓语动词-现在分词",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "080",
+  "type": "填空",
+  "stem": "No sooner had I sat down ____ the phone rang.",
+  "options": [],
+  "answer": "than",
+  "explanation": "考查固定结构 no sooner...than...，意为\"一……就……\"，no sooner 位于句首主句倒装。",
+  "knowledge_point": "固定结构-no sooner than",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "081",
+  "type": "填空",
+  "stem": "He is the only one of the students who ____ (have) passed the exam.",
+  "options": [],
+  "answer": "has",
+  "explanation": "考查主谓一致。先行词是 the only one，定语从句谓语用单数 has。",
+  "knowledge_point": "主谓一致-定语从句",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "082",
+  "type": "填空",
+  "stem": "____ (compare) with last year, the price of rice has gone up a lot.",
+  "options": [],
+  "answer": "Compared",
+  "explanation": "考查非谓语动词。price 与 compare 是被动关系，用过去分词 Compared。",
+  "knowledge_point": "非谓语动词-过去分词作状语",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "083",
+  "type": "填空",
+  "stem": "You can't imagine what great difficulty I had ____ (find) your house.",
+  "options": [],
+  "answer": "finding",
+  "explanation": "考查固定结构 have difficulty (in) doing sth.，介词 in 省略，用动名词 finding。",
+  "knowledge_point": "固定结构-have difficulty doing",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "084",
+  "type": "填空",
+  "stem": "The teacher insisted that the student ____ (do) his homework himself.",
+  "options": [],
+  "answer": "(should) do",
+  "explanation": "考查虚拟语气。insist 表\"坚持要求\"时，宾语从句用 (should)+动词原形。",
+  "knowledge_point": "虚拟语气-insist",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "085",
+  "type": "填空",
+  "stem": "Great changes ____ (take) place in my hometown in the past ten years.",
+  "options": [],
+  "answer": "have taken",
+  "explanation": "考查时态。in the past ten years 与现在完成时连用，changes 作主语，用 have taken。",
+  "knowledge_point": "时态-现在完成时",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "086",
+  "type": "填空",
+  "stem": "What he said at the meeting was ____ (great) importance.",
+  "options": [],
+  "answer": "of great",
+  "explanation": "考查固定表达。be of + 抽象名词 = be + 形容词，be of great importance 意为\"非常重要\"。",
+  "knowledge_point": "固定结构-be of + 名词",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "087",
+  "type": "填空",
+  "stem": "I'll never forget the day ____ we first met in the small village.",
+  "options": [],
+  "answer": "when",
+  "explanation": "考查定语从句。先行词 the day 在从句中作时间状语，用关系副词 when。",
+  "knowledge_point": "定语从句-关系副词",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "088",
+  "type": "填空",
+  "stem": "She was praised for ____ (she) honesty and hard work.",
+  "options": [],
+  "answer": "her",
+  "explanation": "考查代词。修饰名词 honesty 用形容词性物主代词 her。",
+  "knowledge_point": "代词-物主代词",
+  "chapter": "语法",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "089",
+  "type": "填空",
+  "stem": "The more careful you are, the ____ (few) mistakes you will make.",
+  "options": [],
+  "answer": "fewer",
+  "explanation": "考查比较级。mistakes 为可数名词，few 的比较级为 fewer。",
+  "knowledge_point": "形容词比较级",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "090",
+  "type": "填空",
+  "stem": "____ (see) from the top of the hill, the city looks very beautiful.",
+  "options": [],
+  "answer": "Seen",
+  "explanation": "考查非谓语动词作状语。city 与 see 是被动关系，用过去分词 Seen。",
+  "knowledge_point": "非谓语动词-过去分词作状语",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "091",
+  "type": "填空",
+  "stem": "Only in this way ____ (can, you) solve the problem.",
+  "options": [],
+  "answer": "can you",
+  "explanation": "考查倒装。only + 状语 位于句首，主句部分倒装，用 can you。",
+  "knowledge_point": "倒装句",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "092",
+  "type": "填空",
+  "stem": "The boy stood there, ____ (tremble) with cold.",
+  "options": [],
+  "answer": "trembling",
+  "explanation": "考查非谓语动词作伴随状语。boy 与 tremble 是主动关系，用现在分词 trembling。",
+  "knowledge_point": "非谓语动词-现在分词作状语",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "093",
+  "type": "填空",
+  "stem": "I regret ____ (tell) you that you have failed the exam.",
+  "options": [],
+  "answer": "to tell",
+  "explanation": "考查非谓语动词。regret to do 意为\"遗憾地要做某事\"，regret doing 意为\"后悔做过\"，此处选 to tell。",
+  "knowledge_point": "非谓语动词-regret",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "094",
+  "type": "填空",
+  "stem": "It was not long ____ he realized that he had made a mistake.",
+  "options": [],
+  "answer": "before",
+  "explanation": "考查固定结构 It was not long before... 意为\"不久就……\"。",
+  "knowledge_point": "固定结构-not long before",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "095",
+  "type": "填空",
+  "stem": "The music sounds ____ (beauty), and we all enjoy it.",
+  "options": [],
+  "answer": "beautiful",
+  "explanation": "考查形容词作表语。sound 为系动词，后接形容词 beautiful，不用副词。",
+  "knowledge_point": "系动词+形容词",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "096",
+  "type": "填空",
+  "stem": "My teacher advised that I ____ (read) more English books.",
+  "options": [],
+  "answer": "(should) read",
+  "explanation": "考查虚拟语气。advise 表建议时，宾语从句用 (should)+动词原形。",
+  "knowledge_point": "虚拟语气-advise",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "097",
+  "type": "填空",
+  "stem": "He asked me ____ I had finished my homework.",
+  "options": [],
+  "answer": "whether/if",
+  "explanation": "考查宾语从句。ask 后的宾语从句表\"是否\"，用 whether 或 if。",
+  "knowledge_point": "宾语从句-连词",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "098",
+  "type": "填空",
+  "stem": "We found the little boy ____ (lie) on the ground.",
+  "options": [],
+  "answer": "lying",
+  "explanation": "考查非谓语动词作宾补。boy 与 lie 是主动关系且动作正在进行，用现在分词 lying。",
+  "knowledge_point": "非谓语动词-现在分词作宾补",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "099",
+  "type": "填空",
+  "stem": "____ is known to everybody, practice makes perfect.",
+  "options": [],
+  "answer": "As",
+  "explanation": "考查定语从句。As is known to everybody 为固定结构，as 指代整个主句。",
+  "knowledge_point": "定语从句-as 的用法",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "100",
+  "type": "填空",
+  "stem": "The plan requires that we ____ (work) together closely.",
+  "options": [],
+  "answer": "(should) work",
+  "explanation": "考查虚拟语气。require 后接宾语从句用 (should)+动词原形。",
+  "knowledge_point": "虚拟语气-require",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "101",
+  "type": "单选",
+  "stem": "The poor old man had no choice but ____ for help from passers-by.",
+  "options": [
+   "A. ask",
+   "B. to ask",
+   "C. asking",
+   "D. asked"
+  ],
+  "answer": "B",
+  "explanation": "考查固定结构 have no choice but to do sth.，but 前有实义动词，后接带 to 的不定式。",
+  "knowledge_point": "完形-固定结构",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "102",
+  "type": "单选",
+  "stem": "She devoted all her spare time ____ English literature.",
+  "options": [
+   "A. study",
+   "B. studying",
+   "C. to study",
+   "D. to studying"
+  ],
+  "answer": "D",
+  "explanation": "考查固定搭配 devote...to...，to 是介词，后接动名词 studying。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "103",
+  "type": "单选",
+  "stem": "____ the heavy rain, the sports meeting was put off.",
+  "options": [
+   "A. Because",
+   "B. Thanks to",
+   "C. Due to",
+   "D. Owing"
+  ],
+  "answer": "C",
+  "explanation": "考查介词短语辨析。due to 意为\"由于\"，后接名词短语，表原因。",
+  "knowledge_point": "完形-介词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "104",
+  "type": "单选",
+  "stem": "He was late again, which made his teacher very ____.",
+  "options": [
+   "A. angry",
+   "B. angrily",
+   "C. anger",
+   "D. being angry"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词作宾补。make sb.+形容词，用 angry 作 his teacher 的补足语。",
+  "knowledge_point": "完形-形容词作宾补",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "105",
+  "type": "单选",
+  "stem": "It's no use ____ over spilt milk.",
+  "options": [
+   "A. cry",
+   "B. to cry",
+   "C. crying",
+   "D. cried"
+  ],
+  "answer": "C",
+  "explanation": "考查固定句型 It's no use doing sth.，用动名词 crying。",
+  "knowledge_point": "完形-固定句型",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "106",
+  "type": "单选",
+  "stem": "The boy pretended ____ when his mother came in.",
+  "options": [
+   "A. to sleep",
+   "B. sleeping",
+   "C. slept",
+   "D. to be sleeping"
+  ],
+  "answer": "D",
+  "explanation": "考查非谓语动词。pretend to do 表\"假装做\"；\"妈妈进来时\"强调正在进行，用 to be sleeping。",
+  "knowledge_point": "完形-非谓语动词",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "107",
+  "type": "单选",
+  "stem": "I'm looking forward to ____ from you soon.",
+  "options": [
+   "A. hear",
+   "B. hearing",
+   "C. heard",
+   "D. be heard"
+  ],
+  "answer": "B",
+  "explanation": "考查固定搭配 look forward to doing，to 是介词，用动名词 hearing。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "108",
+  "type": "单选",
+  "stem": "The teacher told us that light ____ faster than sound.",
+  "options": [
+   "A. travels",
+   "B. traveled",
+   "C. was traveling",
+   "D. has traveled"
+  ],
+  "answer": "A",
+  "explanation": "考查时态。宾语从句描述客观真理，用一般现在时 travels。",
+  "knowledge_point": "完形-时态",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "109",
+  "type": "单选",
+  "stem": "You'd better have your bad tooth ____ at once.",
+  "options": [
+   "A. pull out",
+   "B. to pull out",
+   "C. pulled out",
+   "D. pulling out"
+  ],
+  "answer": "C",
+  "explanation": "考查 have sth. done 结构。tooth 与 pull out 是被动关系，用过去分词 pulled out。",
+  "knowledge_point": "完形-have sth. done",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "110",
+  "type": "单选",
+  "stem": "____ it or not, the little girl can speak three languages.",
+  "options": [
+   "A. Believe",
+   "B. Believing",
+   "C. To believe",
+   "D. Believed"
+  ],
+  "answer": "A",
+  "explanation": "考查固定结构 believe it or not，意为\"信不信由你\"。",
+  "knowledge_point": "完形-固定结构",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "111",
+  "type": "单选",
+  "stem": "He is too young to ____ such a difficult problem.",
+  "options": [
+   "A. work on",
+   "B. work out",
+   "C. work for",
+   "D. work in"
+  ],
+  "answer": "B",
+  "explanation": "考查动词短语辨析。work out 意为\"解决、算出\"，符合\"解决难题\"的语境。",
+  "knowledge_point": "完形-动词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "112",
+  "type": "单选",
+  "stem": "The two friends haven't seen each other for years, but they still keep in ____.",
+  "options": [
+   "A. touch",
+   "B. mind",
+   "C. heart",
+   "D. line"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 keep in touch，意为\"保持联系\"。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "113",
+  "type": "单选",
+  "stem": "____ from the moon, the earth looks like a blue ball.",
+  "options": [
+   "A. Seeing",
+   "B. Seen",
+   "C. To see",
+   "D. Having seen"
+  ],
+  "answer": "B",
+  "explanation": "考查非谓语动词作状语。earth 与 see 是被动关系，用过去分词 Seen。",
+  "knowledge_point": "完形-非谓语动词",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "114",
+  "type": "单选",
+  "stem": "I have no idea ____ he will come or not.",
+  "options": [
+   "A. if",
+   "B. whether",
+   "C. that",
+   "D. what"
+  ],
+  "answer": "B",
+  "explanation": "考查同位语从句。or not 前只能用 whether，不能用 if。",
+  "knowledge_point": "完形-同位语从句",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "115",
+  "type": "单选",
+  "stem": "The accident ____ because the driver was too careless.",
+  "options": [
+   "A. came about",
+   "B. came across",
+   "C. came up",
+   "D. came out"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。come about 意为\"发生\"，符合\"事故的发生\"语境。",
+  "knowledge_point": "完形-动词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "116",
+  "type": "单选",
+  "stem": "He found it hard to ____ the changes in his new school.",
+  "options": [
+   "A. adapt to",
+   "B. add to",
+   "C. lead to",
+   "D. refer to"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。adapt to 意为\"适应\"，符合\"适应变化\"的语境。",
+  "knowledge_point": "完形-动词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "117",
+  "type": "单选",
+  "stem": "____ your help, we couldn't have finished the work on time.",
+  "options": [
+   "A. But for",
+   "B. As for",
+   "C. Except for",
+   "D. Thanks for"
+  ],
+  "answer": "A",
+  "explanation": "考查介词短语辨析。but for 意为\"要不是\"，常与虚拟语气连用，符合语境。",
+  "knowledge_point": "完形-介词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "118",
+  "type": "单选",
+  "stem": "The boss made the workers ____ ten hours a day.",
+  "options": [
+   "A. work",
+   "B. to work",
+   "C. working",
+   "D. worked"
+  ],
+  "answer": "A",
+  "explanation": "考查 make sb. do sth. 结构，make 后接不带 to 的不定式作宾补。",
+  "knowledge_point": "完形-非谓语动词",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "119",
+  "type": "单选",
+  "stem": "We must take ____ to prevent the river from being polluted.",
+  "options": [
+   "A. measures",
+   "B. actions",
+   "C. steps",
+   "D. ways"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 take measures to do sth.，意为\"采取措施做某事\"。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "120",
+  "type": "单选",
+  "stem": "The problem is ____ we can get enough money for the project.",
+  "options": [
+   "A. that",
+   "B. what",
+   "C. whether",
+   "D. which"
+  ],
+  "answer": "C",
+  "explanation": "考查表语从句。句意表\"问题在于是否能筹到钱\"，用 whether 表\"是否\"。",
+  "knowledge_point": "完形-表语从句",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "121",
+  "type": "单选",
+  "stem": "She was so tired that she couldn't help ____ asleep during class.",
+  "options": [
+   "A. fall",
+   "B. to fall",
+   "C. falling",
+   "D. fell"
+  ],
+  "answer": "C",
+  "explanation": "考查固定结构 can't help doing，意为\"忍不住做某事\"。",
+  "knowledge_point": "完形-固定结构",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "122",
+  "type": "单选",
+  "stem": "____ the teacher's help, we made great progress.",
+  "options": [
+   "A. With",
+   "B. Under",
+   "C. By",
+   "D. For"
+  ],
+  "answer": "A",
+  "explanation": "考查介词搭配。with one's help 意为\"在某人的帮助下\"。",
+  "knowledge_point": "完形-介词搭配",
+  "chapter": "语言运用",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "123",
+  "type": "单选",
+  "stem": "I would appreciate it if you could ____ my letter at your earliest convenience.",
+  "options": [
+   "A. reply",
+   "B. answer",
+   "C. reply to",
+   "D. respond"
+  ],
+  "answer": "C",
+  "explanation": "考查动词搭配。reply to + 宾语，意为\"回复（信/问题）\"；reply 是不及物动词，需加 to。",
+  "knowledge_point": "完形-动词搭配",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "124",
+  "type": "单选",
+  "stem": "The number of people invited ____ fifty, but a number of them ____ absent.",
+  "options": [
+   "A. were; was",
+   "B. was; was",
+   "C. was; were",
+   "D. were; were"
+  ],
+  "answer": "C",
+  "explanation": "考查主谓一致。the number of 用单数 was；a number of 用复数 were。",
+  "knowledge_point": "完形-主谓一致",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "125",
+  "type": "单选",
+  "stem": "It was because of his carelessness ____ he failed the exam.",
+  "options": [
+   "A. so",
+   "B. that",
+   "C. why",
+   "D. which"
+  ],
+  "answer": "B",
+  "explanation": "考查强调句型。It was + 被强调部分（原因状语）+ that，用 that。",
+  "knowledge_point": "完形-强调句型",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "126",
+  "type": "单选",
+  "stem": "The famous writer's new book will ____ next month.",
+  "options": [
+   "A. come out",
+   "B. come in",
+   "C. come on",
+   "D. come up with"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。come out 意为\"出版、发行\"，符合\"新书出版\"的语境。",
+  "knowledge_point": "完形-动词短语辨析",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "127",
+  "type": "单选",
+  "stem": "We should do everything we can ____ those in need.",
+  "options": [
+   "A. help",
+   "B. helping",
+   "C. to help",
+   "D. helped"
+  ],
+  "answer": "C",
+  "explanation": "考查不定式作目的状语。we can (do) 是定语从句修饰 everything，to help 表目的。",
+  "knowledge_point": "完形-不定式作状语",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "128",
+  "type": "单选",
+  "stem": "He went to bed early ____ get up early the next morning.",
+  "options": [
+   "A. so that",
+   "B. in order to",
+   "C. so as",
+   "D. such that"
+  ],
+  "answer": "B",
+  "explanation": "考查目的状语。in order to 后接动词原形，表目的；so that 需接从句。",
+  "knowledge_point": "完形-目的状语",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "129",
+  "type": "单选",
+  "stem": "The village ____ I grew up has changed a lot.",
+  "options": [
+   "A. which",
+   "B. where",
+   "C. that",
+   "D. when"
+  ],
+  "answer": "B",
+  "explanation": "考查定语从句。先行词 village 在从句中作地点状语，用关系副词 where。",
+  "knowledge_point": "完形-定语从句",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "130",
+  "type": "单选",
+  "stem": "Hardly ____ the office when it began to rain heavily.",
+  "options": [
+   "A. did I leave",
+   "B. I left",
+   "C. had I left",
+   "D. I had left"
+  ],
+  "answer": "C",
+  "explanation": "考查倒装与时态。hardly...when... 中 hardly 位于句首用部分倒装，且用过去完成时 had I left。",
+  "knowledge_point": "完形-倒装",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "131",
+  "type": "单选",
+  "stem": "The singer, along with his team, ____ to give a concert in our city next week.",
+  "options": [
+   "A. is",
+   "B. are",
+   "C. were",
+   "D. have been"
+  ],
+  "answer": "A",
+  "explanation": "考查主谓一致。along with 后接成分不影响谓语，主语 the singer 是单数，用 is。",
+  "knowledge_point": "完形-主谓一致",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "132",
+  "type": "单选",
+  "stem": "____ it is true or not, we should be careful.",
+  "options": [
+   "A. If",
+   "B. Whether",
+   "C. That",
+   "D. What"
+  ],
+  "answer": "B",
+  "explanation": "考查让步状语从句。whether...or not 表\"无论是否\"，引导让步状语从句。",
+  "knowledge_point": "完形-让步状语从句",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "133",
+  "type": "单选",
+  "stem": "He stood up ____ the guests could see him clearly.",
+  "options": [
+   "A. in case",
+   "B. so that",
+   "C. even though",
+   "D. as long as"
+  ],
+  "answer": "B",
+  "explanation": "考查目的状语从句。so that 引导目的状语从句，意为\"以便\"。",
+  "knowledge_point": "完形-目的状语从句",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "134",
+  "type": "单选",
+  "stem": "The book is well worth ____ a second time.",
+  "options": [
+   "A. reading",
+   "B. to read",
+   "C. being read",
+   "D. to be read"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 be worth doing，用主动形式表被动含义。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "135",
+  "type": "单选",
+  "stem": "It's strange that he ____ such a silly mistake again.",
+  "options": [
+   "A. makes",
+   "B. made",
+   "C. should make",
+   "D. will make"
+  ],
+  "answer": "C",
+  "explanation": "考查虚拟语气。It is strange that... 句型中，从句用 should + 动词原形表惊讶。",
+  "knowledge_point": "完形-虚拟语气",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "136",
+  "type": "单选",
+  "stem": "____ the moment, he is busy preparing for the coming exam.",
+  "options": [
+   "A. In",
+   "B. On",
+   "C. At",
+   "D. For"
+  ],
+  "answer": "C",
+  "explanation": "考查固定搭配 at the moment，意为\"此刻、目前\"。",
+  "knowledge_point": "完形-介词搭配",
+  "chapter": "语言运用",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "137",
+  "type": "单选",
+  "stem": "The teacher entered the classroom, ____ by a group of students.",
+  "options": [
+   "A. following",
+   "B. followed",
+   "C. to follow",
+   "D. follow"
+  ],
+  "answer": "B",
+  "explanation": "考查非谓语动词作伴随状语。teacher 与 follow 是被动关系，用过去分词 followed。",
+  "knowledge_point": "完形-非谓语动词",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "138",
+  "type": "单选",
+  "stem": "He is ____ a good teacher ____ all the students respect him.",
+  "options": [
+   "A. such; that",
+   "B. so; that",
+   "C. such; as",
+   "D. too; to"
+  ],
+  "answer": "A",
+  "explanation": "考查结果状语从句。such a/an + adj. + n. + that... 结构，用 such...that...。",
+  "knowledge_point": "完形-结果状语从句",
+  "chapter": "语言运用",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "139",
+  "type": "单选",
+  "stem": "We can't afford ____ such an expensive car.",
+  "options": [
+   "A. buy",
+   "B. buying",
+   "C. to buy",
+   "D. bought"
+  ],
+  "answer": "C",
+  "explanation": "考查固定搭配 afford to do sth.，意为\"负担得起做某事\"。",
+  "knowledge_point": "完形-固定搭配",
+  "chapter": "语言运用",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "140",
+  "type": "单选",
+  "stem": "____ your homework, you can go out to play.",
+  "options": [
+   "A. Finish",
+   "B. Finishing",
+   "C. Finished",
+   "D. Having finished"
+  ],
+  "answer": "D",
+  "explanation": "考查非谓语动词作状语。finish 先于 go out 发生，且是主动关系，用现在分词完成式 Having finished。",
+  "knowledge_point": "完形-非谓语动词",
+  "chapter": "语言运用",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "141",
+  "type": "单选",
+  "stem": "The word \"smog\" is a ____ of \"smoke\" and \"fog\".",
+  "options": [
+   "A. combination",
+   "B. communication",
+   "C. comparison",
+   "D. competition"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。combination 意为\"结合\"，smog 是 smoke 与 fog 的结合。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "142",
+  "type": "单选",
+  "stem": "She has a good ____ of humor and often makes us laugh.",
+  "options": [
+   "A. sense",
+   "B. feeling",
+   "C. mood",
+   "D. attitude"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 a sense of humor，意为\"幽默感\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "143",
+  "type": "单选",
+  "stem": "The two paintings are very ____, so I can't tell which is the original.",
+  "options": [
+   "A. similar",
+   "B. same",
+   "C. alike",
+   "D. identical"
+  ],
+  "answer": "A",
+  "explanation": "考查近义词辨析。similar 意为\"相似的\"，be similar to/in 常用；same 需 the；alike 只作表语；identical 程度过强。",
+  "knowledge_point": "词汇-近义词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "144",
+  "type": "单选",
+  "stem": "You should ____ the instructions carefully before using the machine.",
+  "options": [
+   "A. look through",
+   "B. look over",
+   "C. look into",
+   "D. look after"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。look through 意为\"浏览、仔细查看\"，符合\"仔细阅读说明\"的语境。",
+  "knowledge_point": "词汇-动词短语辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "145",
+  "type": "单选",
+  "stem": "He was ____ to be chosen as the monitor because of his ability.",
+  "options": [
+   "A. likely",
+   "B. possible",
+   "C. probable",
+   "D. maybe"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词辨析。be likely to do 中主语可以是人；possible/probable 的主语一般是 it。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "146",
+  "type": "单选",
+  "stem": "The old photo reminded me ____ my childhood.",
+  "options": [
+   "A. of",
+   "B. to",
+   "C. with",
+   "D. about"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 remind sb. of sth.，意为\"使某人想起某事\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "147",
+  "type": "单选",
+  "stem": "It is ____ that he will win the game, for he is the best player.",
+  "options": [
+   "A. certain",
+   "B. sure",
+   "C. surely",
+   "D. certainly"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词辨析。It is certain that... 为固定句型；sure 的主语一般是人。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "148",
+  "type": "单选",
+  "stem": "The scientist made a great ____ to the development of modern physics.",
+  "options": [
+   "A. contribution",
+   "B. invention",
+   "C. discovery",
+   "D. progress"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 make a contribution to，意为\"对……做出贡献\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "149",
+  "type": "单选",
+  "stem": "He speaks English so well that he is often ____ as a native speaker.",
+  "options": [
+   "A. taken",
+   "B. regarded",
+   "C. thought",
+   "D. looked"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 be taken as，意为\"被当作、被认为是\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "150",
+  "type": "单选",
+  "stem": "The young man was ____ of stealing money from the company.",
+  "options": [
+   "A. accused",
+   "B. charged",
+   "C. blamed",
+   "D. punished"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配。accuse sb. of sth. 用 of；charge sb. with sth. 用 with，故选 accused。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "151",
+  "type": "单选",
+  "stem": "We had a heated ____ about whether to go camping this weekend.",
+  "options": [
+   "A. discussion",
+   "B. decision",
+   "C. description",
+   "D. decoration"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。discussion 意为\"讨论\"，符合\"热烈讨论\"的语境。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "152",
+  "type": "单选",
+  "stem": "The police are looking ____ the case of the missing child.",
+  "options": [
+   "A. into",
+   "B. for",
+   "C. after",
+   "D. up"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。look into 意为\"调查\"，符合\"调查案件\"的语境。",
+  "knowledge_point": "词汇-动词短语辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "153",
+  "type": "单选",
+  "stem": "I couldn't agree with him ____ his opinion on this matter.",
+  "options": [
+   "A. on",
+   "B. with",
+   "C. to",
+   "D. for"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 agree with sb. on sth.，意为\"在某事上同意某人\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "154",
+  "type": "单选",
+  "stem": "The library is a good place for students to ____ knowledge.",
+  "options": [
+   "A. acquire",
+   "B. require",
+   "C. inquire",
+   "D. request"
+  ],
+  "answer": "A",
+  "explanation": "考查形近词辨析。acquire 意为\"获得（知识）\"；require 意为\"需要\"；inquire 意为\"询问\"。",
+  "knowledge_point": "词汇-形近词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "155",
+  "type": "单选",
+  "stem": "The medicine has a good ____ on my headache.",
+  "options": [
+   "A. effect",
+   "B. affect",
+   "C. effort",
+   "D. afford"
+  ],
+  "answer": "A",
+  "explanation": "考查易混词辨析。have an effect on 意为\"对……有效果\"；affect 是动词。",
+  "knowledge_point": "词汇-易混词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "156",
+  "type": "单选",
+  "stem": "We should learn to ____ our own feelings and stay calm.",
+  "options": [
+   "A. control",
+   "B. avoid",
+   "C. express",
+   "D. hide"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。control 意为\"控制\"，符合\"控制情绪保持冷静\"的语境。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "157",
+  "type": "单选",
+  "stem": "The teacher asked us to pay ____ to the pronunciation of the new words.",
+  "options": [
+   "A. attention",
+   "B. notice",
+   "C. care",
+   "D. mind"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 pay attention to，意为\"注意\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "158",
+  "type": "单选",
+  "stem": "His parents were very ____ with his exam results.",
+  "options": [
+   "A. pleased",
+   "B. pleasant",
+   "C. pleasing",
+   "D. please"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词辨析。be pleased with 意为\"对……满意\"，修饰人的感受。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "159",
+  "type": "单选",
+  "stem": "The two countries signed an agreement to ____ the cultural exchange.",
+  "options": [
+   "A. promote",
+   "B. prevent",
+   "C. protect",
+   "D. provide"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。promote 意为\"促进\"，符合\"促进文化交流\"的语境。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "160",
+  "type": "单选",
+  "stem": "This kind of plant is ____ to the local area, so you can't find it elsewhere.",
+  "options": [
+   "A. unique",
+   "B. common",
+   "C. usual",
+   "D. general"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词辨析。be unique to 意为\"为……所独有\"，符合\"仅本地才有\"的语境。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "161",
+  "type": "单选",
+  "stem": "The manager was satisfied with the ____ of the new employee's work.",
+  "options": [
+   "A. quality",
+   "B. quantity",
+   "C. amount",
+   "D. number"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。quality 意为\"质量\"，符合\"对工作质量满意\"的语境。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "162",
+  "type": "单选",
+  "stem": "You should ____ yourself from those bad habits.",
+  "options": [
+   "A. get rid of",
+   "B. get along with",
+   "C. get down to",
+   "D. get over"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。get rid of 意为\"摆脱、戒除\"，符合\"改掉坏习惯\"的语境。",
+  "knowledge_point": "词汇-动词短语辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "163",
+  "type": "单选",
+  "stem": "The two students ____ each other in the exam by copying answers.",
+  "options": [
+   "A. cheated",
+   "B. treated",
+   "C. beat",
+   "D. defeated"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。cheat 意为\"作弊\"，符合\"考试抄袭作弊\"的语境。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "164",
+  "type": "单选",
+  "stem": "It's a great ____ to be invited to speak at the meeting.",
+  "options": [
+   "A. honor",
+   "B. chance",
+   "C. pleasure",
+   "D. pride"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。honor 意为\"荣誉\"，符合\"被邀请发言是种荣誉\"的语境。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "165",
+  "type": "单选",
+  "stem": "The little girl is very ____; she always shares her toys with others.",
+  "options": [
+   "A. generous",
+   "B. greedy",
+   "C. guilty",
+   "D. gentle"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词辨析。generous 意为\"慷慨的\"，符合\"分享玩具\"的语境。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "166",
+  "type": "单选",
+  "stem": "We must finish the task within two weeks, or we will ____ the deadline.",
+  "options": [
+   "A. miss",
+   "B. lose",
+   "C. leave",
+   "D. forget"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。miss the deadline 意为\"错过截止日期\"，为固定搭配。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "167",
+  "type": "单选",
+  "stem": "The price of the house is beyond our ____, so we have to give it up.",
+  "options": [
+   "A. reach",
+   "B. touch",
+   "C. range",
+   "D. ability"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 beyond one's reach，意为\"超出某人的能力/承受范围\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "168",
+  "type": "单选",
+  "stem": "She is very ____ about her work and never makes careless mistakes.",
+  "options": [
+   "A. careful",
+   "B. careless",
+   "C. helpful",
+   "D. hopeful"
+  ],
+  "answer": "A",
+  "explanation": "考查形容词辨析。careful 意为\"细心的\"，符合\"从不犯粗心错误\"的语境。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "169",
+  "type": "单选",
+  "stem": "The government will build more schools to meet the ____ of the growing population.",
+  "options": [
+   "A. needs",
+   "B. wants",
+   "C. hopes",
+   "D. ideas"
+  ],
+  "answer": "A",
+  "explanation": "考查名词搭配。meet the needs of 意为\"满足……的需要\"，为固定搭配。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "170",
+  "type": "单选",
+  "stem": "He was too nervous to give a clear ____ of what had happened.",
+  "options": [
+   "A. description",
+   "B. decision",
+   "C. direction",
+   "D. destination"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。description 意为\"描述\"，符合\"清晰描述发生的事\"的语境。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "171",
+  "type": "单选",
+  "stem": "Please ____ the lights before you leave the classroom.",
+  "options": [
+   "A. turn off",
+   "B. turn on",
+   "C. turn up",
+   "D. turn down"
+  ],
+  "answer": "A",
+  "explanation": "考查动词短语辨析。turn off 意为\"关掉\"，符合\"离开前关灯\"的语境。",
+  "knowledge_point": "词汇-动词短语辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "172",
+  "type": "单选",
+  "stem": "His behavior at the party was really ____; everyone felt uncomfortable.",
+  "options": [
+   "A. embarrassing",
+   "B. embarrassed",
+   "C. encouraging",
+   "D. encouraged"
+  ],
+  "answer": "A",
+  "explanation": "考查分词形容词。修饰事物（behavior）用 embarrassing，意为\"令人尴尬的\"。",
+  "knowledge_point": "词汇-分词形容词",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "173",
+  "type": "单选",
+  "stem": "We should take full ____ of the Internet to improve our study.",
+  "options": [
+   "A. advantage",
+   "B. advance",
+   "C. use",
+   "D. benefit"
+  ],
+  "answer": "A",
+  "explanation": "考查固定搭配 take advantage of，意为\"利用\"。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "174",
+  "type": "单选",
+  "stem": "The news of her success quickly ____ all over the town.",
+  "options": [
+   "A. spread",
+   "B. expanded",
+   "C. extended",
+   "D. stretched"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。spread 意为\"传播、扩散\"，符合\"消息传遍全镇\"的语境。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "175",
+  "type": "单选",
+  "stem": "I'm ____ to know whether he has passed the driving test.",
+  "options": [
+   "A. eager",
+   "B. worried",
+   "C. anxious",
+   "D. curious"
+  ],
+  "answer": "D",
+  "explanation": "考查形容词辨析。be curious to know 意为\"很想知道\"；anxious 表\"焦虑\"，语义不符。",
+  "knowledge_point": "词汇-形容词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "176",
+  "type": "单选",
+  "stem": "The old temple has a long ____ of over a thousand years.",
+  "options": [
+   "A. history",
+   "B. story",
+   "C. time",
+   "D. period"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。have a long history 意为\"有悠久的历史\"。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "177",
+  "type": "单选",
+  "stem": "The manager asked me to ____ the meeting because he was ill.",
+  "options": [
+   "A. attend",
+   "B. join",
+   "C. take part in",
+   "D. all of the above"
+  ],
+  "answer": "A",
+  "explanation": "考查动词辨析。attend 专指\"出席（会议、上学等）\"；join 指加入组织；take part in 指参加活动。此处用 attend。",
+  "knowledge_point": "词汇-动词辨析",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "178",
+  "type": "单选",
+  "stem": "It is our ____ to protect the environment for future generations.",
+  "options": [
+   "A. responsibility",
+   "B. possibility",
+   "C. ability",
+   "D. reality"
+  ],
+  "answer": "A",
+  "explanation": "考查名词辨析。responsibility 意为\"责任\"，符合\"保护环境是我们的责任\"的语境。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "179",
+  "type": "单选",
+  "stem": "The two teams will ____ against each other in the final match.",
+  "options": [
+   "A. compete",
+   "B. complete",
+   "C. compare",
+   "D. compose"
+  ],
+  "answer": "A",
+  "explanation": "考查形近词辨析。compete against 意为\"与……竞争\"；complete 意为\"完成\"。",
+  "knowledge_point": "词汇-形近词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "180",
+  "type": "单选",
+  "stem": "He has a strong ____ in himself and believes he can succeed.",
+  "options": [
+   "A. faith",
+   "B. trust",
+   "C. belief",
+   "D. confidence"
+  ],
+  "answer": "D",
+  "explanation": "考查名词辨析。have confidence in oneself 意为\"对自己有信心\"，为固定搭配。",
+  "knowledge_point": "词汇-名词辨析",
+  "chapter": "词汇",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "181",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nTom is a 15-year-old student who loves reading. Every morning, he gets up at six and reads English for half an hour before breakfast. After school, he often goes to the library and reads for two hours. His favorite books are about science and history. He believes that reading can open his mind and help him understand the world better. Last year, he won first prize in a reading competition in his city.\n\nHow old is Tom?",
+  "options": [
+   "A. Thirteen",
+   "B. Fourteen",
+   "C. Fifteen",
+   "D. Sixteen"
+  ],
+  "answer": "C",
+  "explanation": "考查细节理解。根据首句 Tom is a 15-year-old student 可知答案。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "182",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nTom is a 15-year-old student who loves reading. Every morning, he gets up at six and reads English for half an hour before breakfast. After school, he often goes to the library and reads for two hours. His favorite books are about science and history. He believes that reading can open his mind and help him understand the world better. Last year, he won first prize in a reading competition in his city.\n\nWhat does Tom often do after school?",
+  "options": [
+   "A. Plays basketball",
+   "B. Reads in the library",
+   "C. Watches TV",
+   "D. Does his homework"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 After school, he often goes to the library and reads 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "183",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nTom is a 15-year-old student who loves reading. Every morning, he gets up at six and reads English for half an hour before breakfast. After school, he often goes to the library and reads for two hours. His favorite books are about science and history. He believes that reading can open his mind and help him understand the world better. Last year, he won first prize in a reading competition in his city.\n\nWhat kind of books does Tom like best?",
+  "options": [
+   "A. Novels and poems",
+   "B. Science and history",
+   "C. English and math",
+   "D. Sports and music"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 His favorite books are about science and history 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "184",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nTom is a 15-year-old student who loves reading. Every morning, he gets up at six and reads English for half an hour before breakfast. After school, he often goes to the library and reads for two hours. His favorite books are about science and history. He believes that reading can open his mind and help him understand the world better. Last year, he won first prize in a reading competition in his city.\n\nWhat did Tom win last year?",
+  "options": [
+   "A. A science prize",
+   "B. First prize in a reading competition",
+   "C. A history award",
+   "D. A school scholarship"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 he won first prize in a reading competition 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "185",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nTom is a 15-year-old student who loves reading. Every morning, he gets up at six and reads English for half an hour before breakfast. After school, he often goes to the library and reads for two hours. His favorite books are about science and history. He believes that reading can open his mind and help him understand the world better. Last year, he won first prize in a reading competition in his city.\n\nWhat can we learn about Tom from the passage?",
+  "options": [
+   "A. He dislikes going to school",
+   "B. He benefits a lot from reading",
+   "C. He has few friends",
+   "D. He wants to become a writer"
+  ],
+  "answer": "B",
+  "explanation": "考查推理判断。全文强调 Tom 热爱阅读并从中受益，故选 B。",
+  "knowledge_point": "阅读-推理判断",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "186",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRecycling is one of the easiest ways to protect the environment. By recycling paper, we can save trees and reduce waste. Recycling plastic helps keep our rivers and oceans clean. Many cities now provide special bins for people to separate their rubbish. However, recycling alone is not enough. We should also try to reduce the things we use and reuse what we can. Small actions, if done by everyone, can make a big difference to our planet.\n\nWhat is the passage mainly about?",
+  "options": [
+   "A. How to plant more trees",
+   "B. The importance of recycling",
+   "C. How to clean rivers",
+   "D. The dangers of plastic"
+  ],
+  "answer": "B",
+  "explanation": "考查主旨大意。全文围绕\"回收利用保护环境\"展开，故选 B。",
+  "knowledge_point": "阅读-主旨大意",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "187",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRecycling is one of the easiest ways to protect the environment. By recycling paper, we can save trees and reduce waste. Recycling plastic helps keep our rivers and oceans clean. Many cities now provide special bins for people to separate their rubbish. However, recycling alone is not enough. We should also try to reduce the things we use and reuse what we can. Small actions, if done by everyone, can make a big difference to our planet.\n\nWhat can we save by recycling paper?",
+  "options": [
+   "A. Water",
+   "B. Trees",
+   "C. Oil",
+   "D. Electricity"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 By recycling paper, we can save trees 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "188",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRecycling is one of the easiest ways to protect the environment. By recycling paper, we can save trees and reduce waste. Recycling plastic helps keep our rivers and oceans clean. Many cities now provide special bins for people to separate their rubbish. However, recycling alone is not enough. We should also try to reduce the things we use and reuse what we can. Small actions, if done by everyone, can make a big difference to our planet.\n\nWhat does the word \"separate\" in the passage mean?",
+  "options": [
+   "A. Throw away",
+   "B. Divide into groups",
+   "C. Collect together",
+   "D. Burn up"
+  ],
+  "answer": "B",
+  "explanation": "考查词义猜测。separate 意为\"分开、分类\"，即把垃圾分类投放。",
+  "knowledge_point": "阅读-词义猜测",
+  "chapter": "阅读",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "189",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRecycling is one of the easiest ways to protect the environment. By recycling paper, we can save trees and reduce waste. Recycling plastic helps keep our rivers and oceans clean. Many cities now provide special bins for people to separate their rubbish. However, recycling alone is not enough. We should also try to reduce the things we use and reuse what we can. Small actions, if done by everyone, can make a big difference to our planet.\n\nAccording to the passage, what should we do besides recycling?",
+  "options": [
+   "A. Use more plastic bags",
+   "B. Reduce and reuse",
+   "C. Stop recycling paper",
+   "D. Throw away old things"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 We should also try to reduce... and reuse 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "190",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRecycling is one of the easiest ways to protect the environment. By recycling paper, we can save trees and reduce waste. Recycling plastic helps keep our rivers and oceans clean. Many cities now provide special bins for people to separate their rubbish. However, recycling alone is not enough. We should also try to reduce the things we use and reuse what we can. Small actions, if done by everyone, can make a big difference to our planet.\n\nWhat is the writer's attitude toward protecting the environment?",
+  "options": [
+   "A. Doubtful",
+   "B. Positive and encouraging",
+   "C. Unconcerned",
+   "D. Negative"
+  ],
+  "answer": "B",
+  "explanation": "考查观点态度。作者呼吁大家行动起来，态度积极鼓励，故选 B。",
+  "knowledge_point": "阅读-观点态度",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "191",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nLi Hua, a delivery worker in Shenzhen, became famous online after a short video showed him reciting English poems while delivering packages. He never went to college, but he has kept learning English by himself for over ten years. Every day, he spends his free time reading and memorizing new words. He says English opens a door for him to know the world. Now he plans to take an English exam to improve himself.\n\nWhy did Li Hua become famous online?",
+  "options": [
+   "A. He delivers packages very fast",
+   "B. He recited English poems in a video",
+   "C. He is the best delivery worker",
+   "D. He went to a famous college"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 after a short video showed him reciting English poems 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "192",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nLi Hua, a delivery worker in Shenzhen, became famous online after a short video showed him reciting English poems while delivering packages. He never went to college, but he has kept learning English by himself for over ten years. Every day, he spends his free time reading and memorizing new words. He says English opens a door for him to know the world. Now he plans to take an English exam to improve himself.\n\nHow long has Li Hua been learning English by himself?",
+  "options": [
+   "A. Less than five years",
+   "B. About ten years",
+   "C. Over ten years",
+   "D. Since he was a child"
+  ],
+  "answer": "C",
+  "explanation": "考查细节理解。根据 he has kept learning English by himself for over ten years 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "193",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nLi Hua, a delivery worker in Shenzhen, became famous online after a short video showed him reciting English poems while delivering packages. He never went to college, but he has kept learning English by himself for over ten years. Every day, he spends his free time reading and memorizing new words. He says English opens a door for him to know the world. Now he plans to take an English exam to improve himself.\n\nWhy does Li Hua keep learning English?",
+  "options": [
+   "A. To find a better job only",
+   "B. To open a door to know the world",
+   "C. To become an actor",
+   "D. To make short videos"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 English opens a door for him to know the world 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "194",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nLi Hua, a delivery worker in Shenzhen, became famous online after a short video showed him reciting English poems while delivering packages. He never went to college, but he has kept learning English by himself for over ten years. Every day, he spends his free time reading and memorizing new words. He says English opens a door for him to know the world. Now he plans to take an English exam to improve himself.\n\nWhat does Li Hua plan to do now?",
+  "options": [
+   "A. Go to college",
+   "B. Stop learning English",
+   "C. Take an English exam",
+   "D. Change his job"
+  ],
+  "answer": "C",
+  "explanation": "考查细节理解。根据 he plans to take an English exam 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "195",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nLi Hua, a delivery worker in Shenzhen, became famous online after a short video showed him reciting English poems while delivering packages. He never went to college, but he has kept learning English by himself for over ten years. Every day, he spends his free time reading and memorizing new words. He says English opens a door for him to know the world. Now he plans to take an English exam to improve himself.\n\nWhat can we learn from Li Hua's story?",
+  "options": [
+   "A. Success needs no effort",
+   "B. Hard work and self-learning pay off",
+   "C. Only college students can succeed",
+   "D. Famous people never give up"
+  ],
+  "answer": "B",
+  "explanation": "考查推理判断。李华虽未上大学却坚持自学英语多年并获认可，说明努力自学有回报。",
+  "knowledge_point": "阅读-推理判断",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "196",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Internet has changed the way people learn. Today, students can take online courses from top universities without leaving home. They can watch videos, do exercises and even talk with teachers through the screen. However, online learning also has problems. Some students find it hard to stay focused at home. Others miss the chance to discuss with classmates face to face. So many teachers suggest a mix of online and classroom learning, which may work best.\n\nWhat is the main topic of the passage?",
+  "options": [
+   "A. The history of the Internet",
+   "B. The changes brought by online learning",
+   "C. How to make friends online",
+   "D. The future of universities"
+  ],
+  "answer": "B",
+  "explanation": "考查主旨大意。文章围绕\"网络学习带来的改变及其问题\"展开，故选 B。",
+  "knowledge_point": "阅读-主旨大意",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "197",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Internet has changed the way people learn. Today, students can take online courses from top universities without leaving home. They can watch videos, do exercises and even talk with teachers through the screen. However, online learning also has problems. Some students find it hard to stay focused at home. Others miss the chance to discuss with classmates face to face. So many teachers suggest a mix of online and classroom learning, which may work best.\n\nWhat can students do in online courses?",
+  "options": [
+   "A. Only read books",
+   "B. Watch videos and do exercises",
+   "C. Only listen to music",
+   "D. Play games"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 They can watch videos, do exercises... 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "198",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Internet has changed the way people learn. Today, students can take online courses from top universities without leaving home. They can watch videos, do exercises and even talk with teachers through the screen. However, online learning also has problems. Some students find it hard to stay focused at home. Others miss the chance to discuss with classmates face to face. So many teachers suggest a mix of online and classroom learning, which may work best.\n\nWhat is one problem of online learning mentioned in the passage?",
+  "options": [
+   "A. It is too expensive",
+   "B. It is hard to stay focused at home",
+   "C. There are no teachers",
+   "D. It takes too little time"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 Some students find it hard to stay focused at home 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "199",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Internet has changed the way people learn. Today, students can take online courses from top universities without leaving home. They can watch videos, do exercises and even talk with teachers through the screen. However, online learning also has problems. Some students find it hard to stay focused at home. Others miss the chance to discuss with classmates face to face. So many teachers suggest a mix of online and classroom learning, which may work best.\n\nWhat do many teachers suggest?",
+  "options": [
+   "A. Only online learning",
+   "B. Only classroom learning",
+   "C. A mix of both",
+   "D. No learning at all"
+  ],
+  "answer": "C",
+  "explanation": "考查细节理解。根据 a mix of online and classroom learning 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "200",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Internet has changed the way people learn. Today, students can take online courses from top universities without leaving home. They can watch videos, do exercises and even talk with teachers through the screen. However, online learning also has problems. Some students find it hard to stay focused at home. Others miss the chance to discuss with classmates face to face. So many teachers suggest a mix of online and classroom learning, which may work best.\n\nWhat is the writer's opinion about online learning?",
+  "options": [
+   "A. It is completely useless",
+   "B. It is perfect with no problems",
+   "C. It has advantages and disadvantages",
+   "D. It should be stopped"
+  ],
+  "answer": "C",
+  "explanation": "考查观点态度。文章既讲了网络学习的优点也讲了问题，故选 C。",
+  "knowledge_point": "阅读-观点态度",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "201",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRobots are playing a bigger role in our daily life. In some restaurants, robots can serve food to customers. In hospitals, they help doctors carry medicine. Some robots can even clean the floor at home while the owner is away. However, scientists say that robots will not take the place of humans completely. They can do simple and repeated jobs, but they still cannot think or create like humans.\n\nWhat is the passage mainly about?",
+  "options": [
+   "A. How to make robots",
+   "B. The roles of robots in daily life",
+   "C. The history of robots",
+   "D. Robots will replace humans"
+  ],
+  "answer": "B",
+  "explanation": "考查主旨大意。文章围绕\"机器人在日常生活中的作用\"展开，故选 B。",
+  "knowledge_point": "阅读-主旨大意",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "202",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRobots are playing a bigger role in our daily life. In some restaurants, robots can serve food to customers. In hospitals, they help doctors carry medicine. Some robots can even clean the floor at home while the owner is away. However, scientists say that robots will not take the place of humans completely. They can do simple and repeated jobs, but they still cannot think or create like humans.\n\nWhat can robots do in hospitals?",
+  "options": [
+   "A. Do operations",
+   "B. Help doctors carry medicine",
+   "C. Take care of patients",
+   "D. Write reports"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 they help doctors carry medicine 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "203",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRobots are playing a bigger role in our daily life. In some restaurants, robots can serve food to customers. In hospitals, they help doctors carry medicine. Some robots can even clean the floor at home while the owner is away. However, scientists say that robots will not take the place of humans completely. They can do simple and repeated jobs, but they still cannot think or create like humans.\n\nAccording to scientists, what can't robots do?",
+  "options": [
+   "A. Serve food",
+   "B. Carry medicine",
+   "C. Clean the floor",
+   "D. Think or create like humans"
+  ],
+  "answer": "D",
+  "explanation": "考查细节理解。根据 they still cannot think or create like humans 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "204",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRobots are playing a bigger role in our daily life. In some restaurants, robots can serve food to customers. In hospitals, they help doctors carry medicine. Some robots can even clean the floor at home while the owner is away. However, scientists say that robots will not take the place of humans completely. They can do simple and repeated jobs, but they still cannot think or create like humans.\n\nWhat does the phrase \"take the place of\" mean?",
+  "options": [
+   "A. Take care of",
+   "B. Replace",
+   "C. Help",
+   "D. Improve"
+  ],
+  "answer": "B",
+  "explanation": "考查词义猜测。take the place of 意为\"取代、代替\"，即 replace。",
+  "knowledge_point": "阅读-词义猜测",
+  "chapter": "阅读",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "205",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRobots are playing a bigger role in our daily life. In some restaurants, robots can serve food to customers. In hospitals, they help doctors carry medicine. Some robots can even clean the floor at home while the owner is away. However, scientists say that robots will not take the place of humans completely. They can do simple and repeated jobs, but they still cannot think or create like humans.\n\nWhat kind of jobs are robots best at doing?",
+  "options": [
+   "A. Creative jobs",
+   "B. Simple and repeated jobs",
+   "C. Teaching jobs",
+   "D. Management jobs"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 They can do simple and repeated jobs 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "206",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRegular exercise is good for both our body and mind. It can make our heart stronger and help us keep a healthy weight. Studies also show that exercise can reduce stress and make us feel happier. Doctors advise that adults should do at least 150 minutes of exercise a week. But remember, the most important thing is to keep doing it, not to do too much at one time. Even a short walk every day is better than nothing.\n\nWhat is the main idea of the passage?",
+  "options": [
+   "A. The benefits of regular exercise",
+   "B. How to lose weight quickly",
+   "C. Different kinds of sports",
+   "D. The dangers of too much exercise"
+  ],
+  "answer": "A",
+  "explanation": "考查主旨大意。文章主要讲\"规律运动的好处\"，故选 A。",
+  "knowledge_point": "阅读-主旨大意",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "207",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRegular exercise is good for both our body and mind. It can make our heart stronger and help us keep a healthy weight. Studies also show that exercise can reduce stress and make us feel happier. Doctors advise that adults should do at least 150 minutes of exercise a week. But remember, the most important thing is to keep doing it, not to do too much at one time. Even a short walk every day is better than nothing.\n\nHow much exercise should adults do each week according to doctors?",
+  "options": [
+   "A. At least 100 minutes",
+   "B. At least 150 minutes",
+   "C. At most 150 minutes",
+   "D. About 300 minutes"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 at least 150 minutes of exercise a week 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "208",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRegular exercise is good for both our body and mind. It can make our heart stronger and help us keep a healthy weight. Studies also show that exercise can reduce stress and make us feel happier. Doctors advise that adults should do at least 150 minutes of exercise a week. But remember, the most important thing is to keep doing it, not to do too much at one time. Even a short walk every day is better than nothing.\n\nWhat can exercise do for our mind?",
+  "options": [
+   "A. Make us more tired",
+   "B. Reduce stress and make us happier",
+   "C. Make us forget things",
+   "D. Cause more worries"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 exercise can reduce stress and make us feel happier 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "209",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRegular exercise is good for both our body and mind. It can make our heart stronger and help us keep a healthy weight. Studies also show that exercise can reduce stress and make us feel happier. Doctors advise that adults should do at least 150 minutes of exercise a week. But remember, the most important thing is to keep doing it, not to do too much at one time. Even a short walk every day is better than nothing.\n\nWhat is the most important thing about exercise according to the passage?",
+  "options": [
+   "A. Doing as much as possible at once",
+   "B. Keeping doing it regularly",
+   "C. Only doing it at the weekend",
+   "D. Doing it only when you are free"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 the most important thing is to keep doing it 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "210",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nRegular exercise is good for both our body and mind. It can make our heart stronger and help us keep a healthy weight. Studies also show that exercise can reduce stress and make us feel happier. Doctors advise that adults should do at least 150 minutes of exercise a week. But remember, the most important thing is to keep doing it, not to do too much at one time. Even a short walk every day is better than nothing.\n\nWhat does the writer suggest about \"a short walk every day\"?",
+  "options": [
+   "A. It is useless",
+   "B. It is better than doing nothing",
+   "C. It is too tiring",
+   "D. It is a waste of time"
+  ],
+  "answer": "B",
+  "explanation": "考查推理判断。作者说\"每天短走也比不做强\"，故选 B。",
+  "knowledge_point": "阅读-推理判断",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "211",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Spring Festival is the most important traditional festival in China. Before the festival, people clean their houses and buy new clothes. On New Year's Eve, family members get together and have a big dinner. Children like the festival best because they can get lucky money in red envelopes from their elders. In recent years, more and more people also choose to travel during the holiday.\n\nWhat is the most important traditional festival in China?",
+  "options": [
+   "A. The Mid-Autumn Festival",
+   "B. The Spring Festival",
+   "C. The Dragon Boat Festival",
+   "D. The Lantern Festival"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据首句 The Spring Festival is the most important 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "212",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Spring Festival is the most important traditional festival in China. Before the festival, people clean their houses and buy new clothes. On New Year's Eve, family members get together and have a big dinner. Children like the festival best because they can get lucky money in red envelopes from their elders. In recent years, more and more people also choose to travel during the holiday.\n\nWhat do people do before the Spring Festival?",
+  "options": [
+   "A. Travel abroad",
+   "B. Clean houses and buy new clothes",
+   "C. Have a big dinner",
+   "D. Give lucky money"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 people clean their houses and buy new clothes 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "213",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Spring Festival is the most important traditional festival in China. Before the festival, people clean their houses and buy new clothes. On New Year's Eve, family members get together and have a big dinner. Children like the festival best because they can get lucky money in red envelopes from their elders. In recent years, more and more people also choose to travel during the holiday.\n\nWhy do children like the Spring Festival best?",
+  "options": [
+   "A. They can eat dumplings",
+   "B. They can get lucky money",
+   "C. They can watch fireworks",
+   "D. They can buy new clothes"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 they can get lucky money in red envelopes 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "214",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Spring Festival is the most important traditional festival in China. Before the festival, people clean their houses and buy new clothes. On New Year's Eve, family members get together and have a big dinner. Children like the festival best because they can get lucky money in red envelopes from their elders. In recent years, more and more people also choose to travel during the holiday.\n\nWhat does the phrase \"get together\" mean?",
+  "options": [
+   "A. Get up",
+   "B. Gather",
+   "C. Go away",
+   "D. Get along"
+  ],
+  "answer": "B",
+  "explanation": "考查词义猜测。get together 意为\"团聚、聚在一起\"，即 gather。",
+  "knowledge_point": "阅读-词义猜测",
+  "chapter": "阅读",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "215",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nThe Spring Festival is the most important traditional festival in China. Before the festival, people clean their houses and buy new clothes. On New Year's Eve, family members get together and have a big dinner. Children like the festival best because they can get lucky money in red envelopes from their elders. In recent years, more and more people also choose to travel during the holiday.\n\nWhat new change is mentioned in the passage?",
+  "options": [
+   "A. People stop celebrating",
+   "B. More people travel during the holiday",
+   "C. Children no longer get money",
+   "D. Families no longer have dinner together"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 more and more people also choose to travel 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "216",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nZhang Guimei is a teacher who has devoted her life to education in the mountains of Yunnan. In 2008, she set up China's first free high school for girls. Over the years, she has helped thousands of girls from poor families go to university. Although she is not in good health, she still gets up early every day to wake the students. She says that as long as she can move, she will keep teaching.\n\nWhat did Zhang Guimei do in 2008?",
+  "options": [
+   "A. Went to university",
+   "B. Set up a free high school for girls",
+   "C. Became a doctor",
+   "D. Left the mountains"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 In 2008, she set up China's first free high school for girls 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "217",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nZhang Guimei is a teacher who has devoted her life to education in the mountains of Yunnan. In 2008, she set up China's first free high school for girls. Over the years, she has helped thousands of girls from poor families go to university. Although she is not in good health, she still gets up early every day to wake the students. She says that as long as she can move, she will keep teaching.\n\nWho has Zhang Guimei helped?",
+  "options": [
+   "A. Poor boys",
+   "B. Girls from poor families",
+   "C. Old people",
+   "D. Disabled children"
+  ],
+  "answer": "B",
+  "explanation": "考查细节理解。根据 she has helped thousands of girls from poor families 可知。",
+  "knowledge_point": "阅读-细节理解",
+  "chapter": "阅读",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "218",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nZhang Guimei is a teacher who has devoted her life to education in the mountains of Yunnan. In 2008, she set up China's first free high school for girls. Over the years, she has helped thousands of girls from poor families go to university. Although she is not in good health, she still gets up early every day to wake the students. She says that as long as she can move, she will keep teaching.\n\nWhat does the phrase \"as long as\" mean?",
+  "options": [
+   "A. As far as",
+   "B. Only if / so long as",
+   "C. As soon as",
+   "D. Because"
+  ],
+  "answer": "B",
+  "explanation": "考查词义猜测。as long as 意为\"只要\"，表条件，故选 B。",
+  "knowledge_point": "阅读-词义猜测",
+  "chapter": "阅读",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "219",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nZhang Guimei is a teacher who has devoted her life to education in the mountains of Yunnan. In 2008, she set up China's first free high school for girls. Over the years, she has helped thousands of girls from poor families go to university. Although she is not in good health, she still gets up early every day to wake the students. She says that as long as she can move, she will keep teaching.\n\nWhich word can best describe Zhang Guimei?",
+  "options": [
+   "A. Selfish",
+   "B. Hard-working and selfless",
+   "C. Lazy",
+   "D. Proud"
+  ],
+  "answer": "B",
+  "explanation": "考查推理判断。张桂梅为山区教育奉献一生，虽身体不好仍坚持，故选 B。",
+  "knowledge_point": "阅读-推理判断",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "220",
+  "type": "单选",
+  "stem": "阅读下面短文，回答问题：\n\nZhang Guimei is a teacher who has devoted her life to education in the mountains of Yunnan. In 2008, she set up China's first free high school for girls. Over the years, she has helped thousands of girls from poor families go to university. Although she is not in good health, she still gets up early every day to wake the students. She says that as long as she can move, she will keep teaching.\n\nWhat is the best title for this passage?",
+  "options": [
+   "A. A Teacher Devoted to Girls' Education",
+   "B. The Life in the Mountains",
+   "C. How to Go to University",
+   "D. A Famous School in Yunnan"
+  ],
+  "answer": "A",
+  "explanation": "考查主旨大意/标题。文章讲述张桂梅为女孩教育奉献的故事，A 最贴切。",
+  "knowledge_point": "阅读-主旨大意",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "221",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__1__的最佳选项。\n\nGood habits are important for our health. __1__ First, go to bed early and get up early. __2__ Second, eat a balanced diet. __3__ Third, exercise regularly. __4__ Finally, keep a happy mood. __5__",
+  "options": [
+   "A. It gives your body enough energy and keeps you strong.",
+   "B. A good sleep helps your body rest and recover.",
+   "C. Here are some habits that can help you stay healthy.",
+   "D. If you develop these habits, you will enjoy a healthy life.",
+   "E. A cheerful mind can make your life brighter.",
+   "F. This can make your heart stronger and keep you fit."
+  ],
+  "answer": "C",
+  "explanation": "考查语篇逻辑。空格位于总起位置，C 引出下文列举的好习惯。",
+  "knowledge_point": "选句匹配-总起句",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "222",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__2__的最佳选项。\n\nGood habits are important for our health. __1__ First, go to bed early and get up early. __2__ Second, eat a balanced diet. __3__ Third, exercise regularly. __4__ Finally, keep a happy mood. __5__",
+  "options": [
+   "A. It gives your body enough energy and keeps you strong.",
+   "B. A good sleep helps your body rest and recover.",
+   "C. Here are some habits that can help you stay healthy.",
+   "D. If you develop these habits, you will enjoy a healthy life.",
+   "E. A cheerful mind can make your life brighter.",
+   "F. This can make your heart stronger and keep you fit."
+  ],
+  "answer": "B",
+  "explanation": "考查语篇逻辑。前文讲\"早睡早起\"，B 说明良好睡眠的好处，衔接紧密。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "223",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__3__的最佳选项。\n\nGood habits are important for our health. __1__ First, go to bed early and get up early. __2__ Second, eat a balanced diet. __3__ Third, exercise regularly. __4__ Finally, keep a happy mood. __5__",
+  "options": [
+   "A. It gives your body enough energy and keeps you strong.",
+   "B. A good sleep helps your body rest and recover.",
+   "C. Here are some habits that can help you stay healthy.",
+   "D. If you develop these habits, you will enjoy a healthy life.",
+   "E. A cheerful mind can make your life brighter.",
+   "F. This can make your heart stronger and keep you fit."
+  ],
+  "answer": "A",
+  "explanation": "考查语篇逻辑。前文讲\"均衡饮食\"，A 说明饮食提供能量，衔接紧密。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "224",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__4__的最佳选项。\n\nGood habits are important for our health. __1__ First, go to bed early and get up early. __2__ Second, eat a balanced diet. __3__ Third, exercise regularly. __4__ Finally, keep a happy mood. __5__",
+  "options": [
+   "A. It gives your body enough energy and keeps you strong.",
+   "B. A good sleep helps your body rest and recover.",
+   "C. Here are some habits that can help you stay healthy.",
+   "D. If you develop these habits, you will enjoy a healthy life.",
+   "E. A cheerful mind can make your life brighter.",
+   "F. This can make your heart stronger and keep you fit."
+  ],
+  "answer": "F",
+  "explanation": "考查语篇逻辑。前文讲\"规律锻炼\"，F 说明锻炼让心脏更强、身体更健康。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "225",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__5__的最佳选项。\n\nGood habits are important for our health. __1__ First, go to bed early and get up early. __2__ Second, eat a balanced diet. __3__ Third, exercise regularly. __4__ Finally, keep a happy mood. __5__",
+  "options": [
+   "A. It gives your body enough energy and keeps you strong.",
+   "B. A good sleep helps your body rest and recover.",
+   "C. Here are some habits that can help you stay healthy.",
+   "D. If you develop these habits, you will enjoy a healthy life.",
+   "E. A cheerful mind can make your life brighter.",
+   "F. This can make your heart stronger and keep you fit."
+  ],
+  "answer": "E",
+  "explanation": "考查语篇逻辑。前文讲\"保持愉快心情\"，E 说明开朗心态让生活更美好。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "226",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__1__的最佳选项。\n\nLearning English well takes time and effort. __1__ First, read English every day. __2__ Second, listen to English songs or news. __3__ Third, don't be afraid of making mistakes. __4__ Finally, practice speaking with others as often as possible. __5__",
+  "options": [
+   "A. Reading can enlarge your vocabulary and improve your understanding.",
+   "B. Here are some useful ways to help you learn English better.",
+   "C. This can improve your listening and help you get used to the sounds.",
+   "D. Mistakes are a natural part of learning and can help you improve.",
+   "E. The more you speak, the more confident and fluent you will become.",
+   "F. Watching movies in English is also a good choice."
+  ],
+  "answer": "B",
+  "explanation": "考查语篇逻辑。空格位于总起位置，B 引出下文的学习方法。",
+  "knowledge_point": "选句匹配-总起句",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "227",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__2__的最佳选项。\n\nLearning English well takes time and effort. __1__ First, read English every day. __2__ Second, listen to English songs or news. __3__ Third, don't be afraid of making mistakes. __4__ Finally, practice speaking with others as often as possible. __5__",
+  "options": [
+   "A. Reading can enlarge your vocabulary and improve your understanding.",
+   "B. Here are some useful ways to help you learn English better.",
+   "C. This can improve your listening and help you get used to the sounds.",
+   "D. Mistakes are a natural part of learning and can help you improve.",
+   "E. The more you speak, the more confident and fluent you will become.",
+   "F. Watching movies in English is also a good choice."
+  ],
+  "answer": "A",
+  "explanation": "考查语篇逻辑。前文讲\"每天阅读\"，A 说明阅读能扩大词汇量。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "228",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__3__的最佳选项。\n\nLearning English well takes time and effort. __1__ First, read English every day. __2__ Second, listen to English songs or news. __3__ Third, don't be afraid of making mistakes. __4__ Finally, practice speaking with others as often as possible. __5__",
+  "options": [
+   "A. Reading can enlarge your vocabulary and improve your understanding.",
+   "B. Here are some useful ways to help you learn English better.",
+   "C. This can improve your listening and help you get used to the sounds.",
+   "D. Mistakes are a natural part of learning and can help you improve.",
+   "E. The more you speak, the more confident and fluent you will become.",
+   "F. Watching movies in English is also a good choice."
+  ],
+  "answer": "C",
+  "explanation": "考查语篇逻辑。前文讲\"听英文歌/新闻\"，C 说明可提高听力。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "229",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__4__的最佳选项。\n\nLearning English well takes time and effort. __1__ First, read English every day. __2__ Second, listen to English songs or news. __3__ Third, don't be afraid of making mistakes. __4__ Finally, practice speaking with others as often as possible. __5__",
+  "options": [
+   "A. Reading can enlarge your vocabulary and improve your understanding.",
+   "B. Here are some useful ways to help you learn English better.",
+   "C. This can improve your listening and help you get used to the sounds.",
+   "D. Mistakes are a natural part of learning and can help you improve.",
+   "E. The more you speak, the more confident and fluent you will become.",
+   "F. Watching movies in English is also a good choice."
+  ],
+  "answer": "D",
+  "explanation": "考查语篇逻辑。前文讲\"别怕犯错\"，D 说明错误是学习的自然部分。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "230",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__5__的最佳选项。\n\nLearning English well takes time and effort. __1__ First, read English every day. __2__ Second, listen to English songs or news. __3__ Third, don't be afraid of making mistakes. __4__ Finally, practice speaking with others as often as possible. __5__",
+  "options": [
+   "A. Reading can enlarge your vocabulary and improve your understanding.",
+   "B. Here are some useful ways to help you learn English better.",
+   "C. This can improve your listening and help you get used to the sounds.",
+   "D. Mistakes are a natural part of learning and can help you improve.",
+   "E. The more you speak, the more confident and fluent you will become.",
+   "F. Watching movies in English is also a good choice."
+  ],
+  "answer": "E",
+  "explanation": "考查语篇逻辑。前文讲\"多与他人说英语\"，E 说明多说能更流利自信。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "231",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__1__的最佳选项。\n\nTraveling is a wonderful way to relax and learn. __1__ Before you go, plan your trip carefully. __2__ When you arrive, try the local food. __3__ Also, don't forget to take photos of the beautiful places. __4__ Finally, be polite to the local people. __5__",
+  "options": [
+   "A. It can help you avoid trouble and save time.",
+   "B. Here are some tips for a pleasant trip.",
+   "C. Tasting local food is a great way to experience the culture.",
+   "D. Photos can keep your wonderful memories alive.",
+   "E. Showing respect can make your trip smoother and friendlier.",
+   "F. Remember to buy some gifts for your friends."
+  ],
+  "answer": "B",
+  "explanation": "考查语篇逻辑。空格位于总起位置，B 引出下文的旅行建议。",
+  "knowledge_point": "选句匹配-总起句",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "232",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__2__的最佳选项。\n\nTraveling is a wonderful way to relax and learn. __1__ Before you go, plan your trip carefully. __2__ When you arrive, try the local food. __3__ Also, don't forget to take photos of the beautiful places. __4__ Finally, be polite to the local people. __5__",
+  "options": [
+   "A. It can help you avoid trouble and save time.",
+   "B. Here are some tips for a pleasant trip.",
+   "C. Tasting local food is a great way to experience the culture.",
+   "D. Photos can keep your wonderful memories alive.",
+   "E. Showing respect can make your trip smoother and friendlier.",
+   "F. Remember to buy some gifts for your friends."
+  ],
+  "answer": "A",
+  "explanation": "考查语篇逻辑。前文讲\"仔细规划行程\"，A 说明规划能避免麻烦、节省时间。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "233",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__3__的最佳选项。\n\nTraveling is a wonderful way to relax and learn. __1__ Before you go, plan your trip carefully. __2__ When you arrive, try the local food. __3__ Also, don't forget to take photos of the beautiful places. __4__ Finally, be polite to the local people. __5__",
+  "options": [
+   "A. It can help you avoid trouble and save time.",
+   "B. Here are some tips for a pleasant trip.",
+   "C. Tasting local food is a great way to experience the culture.",
+   "D. Photos can keep your wonderful memories alive.",
+   "E. Showing respect can make your trip smoother and friendlier.",
+   "F. Remember to buy some gifts for your friends."
+  ],
+  "answer": "C",
+  "explanation": "考查语篇逻辑。前文讲\"品尝当地美食\"，C 说明美食能体验当地文化。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "234",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__4__的最佳选项。\n\nTraveling is a wonderful way to relax and learn. __1__ Before you go, plan your trip carefully. __2__ When you arrive, try the local food. __3__ Also, don't forget to take photos of the beautiful places. __4__ Finally, be polite to the local people. __5__",
+  "options": [
+   "A. It can help you avoid trouble and save time.",
+   "B. Here are some tips for a pleasant trip.",
+   "C. Tasting local food is a great way to experience the culture.",
+   "D. Photos can keep your wonderful memories alive.",
+   "E. Showing respect can make your trip smoother and friendlier.",
+   "F. Remember to buy some gifts for your friends."
+  ],
+  "answer": "D",
+  "explanation": "考查语篇逻辑。前文讲\"拍照片\"，D 说明照片能留住美好回忆。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "235",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__5__的最佳选项。\n\nTraveling is a wonderful way to relax and learn. __1__ Before you go, plan your trip carefully. __2__ When you arrive, try the local food. __3__ Also, don't forget to take photos of the beautiful places. __4__ Finally, be polite to the local people. __5__",
+  "options": [
+   "A. It can help you avoid trouble and save time.",
+   "B. Here are some tips for a pleasant trip.",
+   "C. Tasting local food is a great way to experience the culture.",
+   "D. Photos can keep your wonderful memories alive.",
+   "E. Showing respect can make your trip smoother and friendlier.",
+   "F. Remember to buy some gifts for your friends."
+  ],
+  "answer": "E",
+  "explanation": "考查语篇逻辑。前文讲\"对当地人礼貌\"，E 说明尊重让旅途更顺畅友好。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "236",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__1__的最佳选项。\n\nFriends are an important part of our life. __1__ A true friend is always there for you when you need help. __2__ To keep a friendship, we should be honest with each other. __3__ We should also learn to listen. __4__ Remember, friendship is like a plant. __5__",
+  "options": [
+   "A. Being honest helps build trust between friends.",
+   "B. Here are some thoughts about friendship.",
+   "C. If you water it with care, it will grow strong.",
+   "D. They can share your happiness and sadness.",
+   "E. Listening shows that you care about your friend.",
+   "F. Making new friends is not always easy."
+  ],
+  "answer": "B",
+  "explanation": "考查语篇逻辑。空格位于总起位置，B 引出下文关于友谊的观点。",
+  "knowledge_point": "选句匹配-总起句",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "237",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__2__的最佳选项。\n\nFriends are an important part of our life. __1__ A true friend is always there for you when you need help. __2__ To keep a friendship, we should be honest with each other. __3__ We should also learn to listen. __4__ Remember, friendship is like a plant. __5__",
+  "options": [
+   "A. Being honest helps build trust between friends.",
+   "B. Here are some thoughts about friendship.",
+   "C. If you water it with care, it will grow strong.",
+   "D. They can share your happiness and sadness.",
+   "E. Listening shows that you care about your friend.",
+   "F. Making new friends is not always easy."
+  ],
+  "answer": "D",
+  "explanation": "考查语篇逻辑。前文讲\"真朋友总在你需要时出现\"，D 说明朋友能分享喜怒哀乐。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "238",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__3__的最佳选项。\n\nFriends are an important part of our life. __1__ A true friend is always there for you when you need help. __2__ To keep a friendship, we should be honest with each other. __3__ We should also learn to listen. __4__ Remember, friendship is like a plant. __5__",
+  "options": [
+   "A. Being honest helps build trust between friends.",
+   "B. Here are some thoughts about friendship.",
+   "C. If you water it with care, it will grow strong.",
+   "D. They can share your happiness and sadness.",
+   "E. Listening shows that you care about your friend.",
+   "F. Making new friends is not always easy."
+  ],
+  "answer": "A",
+  "explanation": "考查语篇逻辑。前文讲\"彼此坦诚\"，A 说明坦诚能建立信任。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "239",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__4__的最佳选项。\n\nFriends are an important part of our life. __1__ A true friend is always there for you when you need help. __2__ To keep a friendship, we should be honest with each other. __3__ We should also learn to listen. __4__ Remember, friendship is like a plant. __5__",
+  "options": [
+   "A. Being honest helps build trust between friends.",
+   "B. Here are some thoughts about friendship.",
+   "C. If you water it with care, it will grow strong.",
+   "D. They can share your happiness and sadness.",
+   "E. Listening shows that you care about your friend.",
+   "F. Making new friends is not always easy."
+  ],
+  "answer": "E",
+  "explanation": "考查语篇逻辑。前文讲\"学会倾听\"，E 说明倾听体现对朋友的关心。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "240",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__5__的最佳选项。\n\nFriends are an important part of our life. __1__ A true friend is always there for you when you need help. __2__ To keep a friendship, we should be honest with each other. __3__ We should also learn to listen. __4__ Remember, friendship is like a plant. __5__",
+  "options": [
+   "A. Being honest helps build trust between friends.",
+   "B. Here are some thoughts about friendship.",
+   "C. If you water it with care, it will grow strong.",
+   "D. They can share your happiness and sadness.",
+   "E. Listening shows that you care about your friend.",
+   "F. Making new friends is not always easy."
+  ],
+  "answer": "C",
+  "explanation": "考查语篇逻辑。前文把友谊比作植物，C 说明用心浇灌才能茁壮成长。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "241",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__1__的最佳选项。\n\nEveryone can do something to protect the environment. __1__ First, save water and electricity. __2__ Second, use public transportation instead of driving. __3__ Third, sort your rubbish and recycle. __4__ Finally, plant more trees. __5__",
+  "options": [
+   "A. This can reduce air pollution and save energy.",
+   "B. Here are some small things we can do in daily life.",
+   "C. Recycling can help turn waste into useful things again.",
+   "D. Trees can clean the air and provide homes for animals.",
+   "E. Turning off the tap and lights when not in use can save a lot.",
+   "F. Protecting the environment is everyone's duty."
+  ],
+  "answer": "B",
+  "explanation": "考查语篇逻辑。空格位于总起位置，B 引出下文日常环保小事。",
+  "knowledge_point": "选句匹配-总起句",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "242",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__2__的最佳选项。\n\nEveryone can do something to protect the environment. __1__ First, save water and electricity. __2__ Second, use public transportation instead of driving. __3__ Third, sort your rubbish and recycle. __4__ Finally, plant more trees. __5__",
+  "options": [
+   "A. This can reduce air pollution and save energy.",
+   "B. Here are some small things we can do in daily life.",
+   "C. Recycling can help turn waste into useful things again.",
+   "D. Trees can clean the air and provide homes for animals.",
+   "E. Turning off the tap and lights when not in use can save a lot.",
+   "F. Protecting the environment is everyone's duty."
+  ],
+  "answer": "E",
+  "explanation": "考查语篇逻辑。前文讲\"节约水电\"，E 说明随手关水龙头和灯能节省很多。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "243",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__3__的最佳选项。\n\nEveryone can do something to protect the environment. __1__ First, save water and electricity. __2__ Second, use public transportation instead of driving. __3__ Third, sort your rubbish and recycle. __4__ Finally, plant more trees. __5__",
+  "options": [
+   "A. This can reduce air pollution and save energy.",
+   "B. Here are some small things we can do in daily life.",
+   "C. Recycling can help turn waste into useful things again.",
+   "D. Trees can clean the air and provide homes for animals.",
+   "E. Turning off the tap and lights when not in use can save a lot.",
+   "F. Protecting the environment is everyone's duty."
+  ],
+  "answer": "A",
+  "explanation": "考查语篇逻辑。前文讲\"乘坐公共交通\"，A 说明能减少污染、节省能源。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "244",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__4__的最佳选项。\n\nEveryone can do something to protect the environment. __1__ First, save water and electricity. __2__ Second, use public transportation instead of driving. __3__ Third, sort your rubbish and recycle. __4__ Finally, plant more trees. __5__",
+  "options": [
+   "A. This can reduce air pollution and save energy.",
+   "B. Here are some small things we can do in daily life.",
+   "C. Recycling can help turn waste into useful things again.",
+   "D. Trees can clean the air and provide homes for animals.",
+   "E. Turning off the tap and lights when not in use can save a lot.",
+   "F. Protecting the environment is everyone's duty."
+  ],
+  "answer": "C",
+  "explanation": "考查语篇逻辑。前文讲\"垃圾分类回收\"，C 说明回收能让废物再利用。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "245",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__5__的最佳选项。\n\nEveryone can do something to protect the environment. __1__ First, save water and electricity. __2__ Second, use public transportation instead of driving. __3__ Third, sort your rubbish and recycle. __4__ Finally, plant more trees. __5__",
+  "options": [
+   "A. This can reduce air pollution and save energy.",
+   "B. Here are some small things we can do in daily life.",
+   "C. Recycling can help turn waste into useful things again.",
+   "D. Trees can clean the air and provide homes for animals.",
+   "E. Turning off the tap and lights when not in use can save a lot.",
+   "F. Protecting the environment is everyone's duty."
+  ],
+  "answer": "D",
+  "explanation": "考查语篇逻辑。前文讲\"种更多树\"，D 说明树木能净化空气、为动物提供家园。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "246",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__1__的最佳选项。\n\nManaging time well is important for success. __1__ First, make a to-do list every morning. __2__ Second, do the most important things first. __3__ Third, avoid spending too much time on your phone. __4__ Finally, review what you have done at the end of the day. __5__",
+  "options": [
+   "A. It helps you know clearly what you need to do.",
+   "B. Here are some ways to manage your time better.",
+   "C. This helps you focus on what matters most.",
+   "D. This can help you see your progress and plan for tomorrow.",
+   "E. It can take away a lot of your valuable time.",
+   "F. Getting up early is also helpful."
+  ],
+  "answer": "B",
+  "explanation": "考查语篇逻辑。空格位于总起位置，B 引出下文的时间管理方法。",
+  "knowledge_point": "选句匹配-总起句",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "247",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__2__的最佳选项。\n\nManaging time well is important for success. __1__ First, make a to-do list every morning. __2__ Second, do the most important things first. __3__ Third, avoid spending too much time on your phone. __4__ Finally, review what you have done at the end of the day. __5__",
+  "options": [
+   "A. It helps you know clearly what you need to do.",
+   "B. Here are some ways to manage your time better.",
+   "C. This helps you focus on what matters most.",
+   "D. This can help you see your progress and plan for tomorrow.",
+   "E. It can take away a lot of your valuable time.",
+   "F. Getting up early is also helpful."
+  ],
+  "answer": "A",
+  "explanation": "考查语篇逻辑。前文讲\"列待办清单\"，A 说明清单能让人清楚该做什么。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "248",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__3__的最佳选项。\n\nManaging time well is important for success. __1__ First, make a to-do list every morning. __2__ Second, do the most important things first. __3__ Third, avoid spending too much time on your phone. __4__ Finally, review what you have done at the end of the day. __5__",
+  "options": [
+   "A. It helps you know clearly what you need to do.",
+   "B. Here are some ways to manage your time better.",
+   "C. This helps you focus on what matters most.",
+   "D. This can help you see your progress and plan for tomorrow.",
+   "E. It can take away a lot of your valuable time.",
+   "F. Getting up early is also helpful."
+  ],
+  "answer": "C",
+  "explanation": "考查语篇逻辑。前文讲\"先做最重要的事\"，C 说明这样能聚焦重点。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "249",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__4__的最佳选项。\n\nManaging time well is important for success. __1__ First, make a to-do list every morning. __2__ Second, do the most important things first. __3__ Third, avoid spending too much time on your phone. __4__ Finally, review what you have done at the end of the day. __5__",
+  "options": [
+   "A. It helps you know clearly what you need to do.",
+   "B. Here are some ways to manage your time better.",
+   "C. This helps you focus on what matters most.",
+   "D. This can help you see your progress and plan for tomorrow.",
+   "E. It can take away a lot of your valuable time.",
+   "F. Getting up early is also helpful."
+  ],
+  "answer": "E",
+  "explanation": "考查语篇逻辑。前文讲\"别在手机上花太多时间\"，E 说明手机会夺走宝贵时间。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "250",
+  "type": "单选",
+  "stem": "阅读下面短文，从选项A-F中选出填入空白处__5__的最佳选项。\n\nManaging time well is important for success. __1__ First, make a to-do list every morning. __2__ Second, do the most important things first. __3__ Third, avoid spending too much time on your phone. __4__ Finally, review what you have done at the end of the day. __5__",
+  "options": [
+   "A. It helps you know clearly what you need to do.",
+   "B. Here are some ways to manage your time better.",
+   "C. This helps you focus on what matters most.",
+   "D. This can help you see your progress and plan for tomorrow.",
+   "E. It can take away a lot of your valuable time.",
+   "F. Getting up early is also helpful."
+  ],
+  "answer": "D",
+  "explanation": "考查语篇逻辑。前文讲\"回顾一天所做的事\"，D 说明回顾能看到进步、规划明天。",
+  "knowledge_point": "选句匹配-衔接",
+  "chapter": "阅读",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "251",
+  "type": "判断",
+  "stem": "句子 \"He suggested to take a taxi to the airport.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "suggest 后接动名词，应改为 He suggested taking a taxi。",
+  "knowledge_point": "非谓语动词-suggest doing",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "252",
+  "type": "判断",
+  "stem": "句子 \"Neither he nor his friends was late for school.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "neither...nor... 遵循就近原则，与 his friends（复数）一致，应用 were。",
+  "knowledge_point": "主谓一致-就近原则",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "253",
+  "type": "判断",
+  "stem": "句子 \"If I had known your address, I would have visited you.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "对过去情况的虚拟，从句用 had done，主句用 would have done，用法正确。",
+  "knowledge_point": "虚拟语气-过去虚拟",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "254",
+  "type": "判断",
+  "stem": "句子 \"The teacher made the naughty boy to stand outside.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "make sb. do sth. 中宾补用不带 to 的不定式，应去掉 to。",
+  "knowledge_point": "非谓语动词-make sb do",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "255",
+  "type": "判断",
+  "stem": "句子 \"She has gone to Beijing three times.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "has gone to 表\"去了还没回来\"，不能与次数连用；应改为 has been to。",
+  "knowledge_point": "现在完成时-have been/gone",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "256",
+  "type": "判断",
+  "stem": "句子 \"The meeting will hold next Monday.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "meeting 与 hold 是被动关系，应用被动语态 will be held。",
+  "knowledge_point": "被动语态",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "257",
+  "type": "判断",
+  "stem": "句子 \"He is used to get up early every morning.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "be used to 中 to 是介词，后接动名词，应改为 getting up。",
+  "knowledge_point": "固定结构-be used to doing",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "258",
+  "type": "判断",
+  "stem": "句子 \"It was in the park where I lost my wallet.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "强调句型应用 that，不用 where，应改为 It was in the park that...",
+  "knowledge_point": "强调句型",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "259",
+  "type": "判断",
+  "stem": "句子 \"No matter what happens, I will support you.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "no matter what 引导让步状语从句，用法正确。",
+  "knowledge_point": "让步状语从句",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "260",
+  "type": "判断",
+  "stem": "句子 \"The number of the students are increasing.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "the number of 后接名词作主语时谓语用单数，应改为 is。",
+  "knowledge_point": "主谓一致-the number of",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "261",
+  "type": "判断",
+  "stem": "句子 \"Hardly had he entered the room when the phone rang.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "hardly...when... 结构，hardly 位于句首主句倒装，用法正确。",
+  "knowledge_point": "倒装句-hardly when",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "262",
+  "type": "判断",
+  "stem": "句子 \"I have two sisters, both of whom are teachers.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "both of whom 引导非限制性定语从句，指代人用 whom，用法正确。",
+  "knowledge_point": "定语从句-介词+关系代词",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "263",
+  "type": "判断",
+  "stem": "句子 \"She insisted that she was right and would not give in.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "insist 表\"坚持认为\"时，宾语从句用陈述语气，用法正确。",
+  "knowledge_point": "虚拟语气-insist 辨析",
+  "chapter": "语法",
+  "difficulty": 5,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "264",
+  "type": "判断",
+  "stem": "句子 \"The reason why he was late was because he missed the bus.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "the reason...was 后应接 that，不能用 because，应改为 was that。",
+  "knowledge_point": "表语从句-the reason...that",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "265",
+  "type": "判断",
+  "stem": "句子 \"Reading is as important as writing.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "as...as... 同级比较结构，用法正确。",
+  "knowledge_point": "形容词同级比较",
+  "chapter": "语法",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "266",
+  "type": "判断",
+  "stem": "句子 \"He is the tallest of the two boys.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "两者比较用比较级，应改为 the taller of the two boys。",
+  "knowledge_point": "形容词比较级",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "267",
+  "type": "判断",
+  "stem": "句子 \"I would rather to stay at home than go out.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "would rather 后接动词原形，应去掉 to。",
+  "knowledge_point": "固定结构-would rather",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "268",
+  "type": "判断",
+  "stem": "句子 \"The news are exciting.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "news 是不可数名词，谓语用单数 is。",
+  "knowledge_point": "主谓一致-不可数名词",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "269",
+  "type": "判断",
+  "stem": "句子 \"It is no good to worry about the result.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "It is no good 后接动名词，应改为 worrying about。",
+  "knowledge_point": "固定结构-It is no good doing",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "270",
+  "type": "判断",
+  "stem": "句子 \"Only after he finished the work did he go home.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "only + 状语 位于句首，主句部分倒装，用法正确。",
+  "knowledge_point": "倒装句-only 状语",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "271",
+  "type": "判断",
+  "stem": "句子 \"She is the girl whom I think is the best student.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "关系代词在从句中作主语，应用 who，不能用 whom。",
+  "knowledge_point": "定语从句-关系代词作主语",
+  "chapter": "语法",
+  "difficulty": 5,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "272",
+  "type": "判断",
+  "stem": "句子 \"There is a lot of people in the hall.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "people 是复数名词，There be 句型应用 are。",
+  "knowledge_point": "主谓一致-people",
+  "chapter": "语法",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "273",
+  "type": "判断",
+  "stem": "句子 \"The teacher together with the students was praised.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "together with 后接成分不影响谓语，主语 the teacher 是单数，用 was，用法正确。",
+  "knowledge_point": "主谓一致-together with",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "274",
+  "type": "判断",
+  "stem": "句子 \"I don't think he is right, isn't he?\" 反意疑问句正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "think 否定前移时，反意疑问句与从句一致用肯定形式 is he。",
+  "knowledge_point": "反意疑问句-否定前移",
+  "chapter": "语法",
+  "difficulty": 5,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "275",
+  "type": "判断",
+  "stem": "句子 \"Being ill, he didn't go to school yesterday.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "现在分词短语 Being ill 作原因状语，用法正确。",
+  "knowledge_point": "非谓语动词-现在分词作状语",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "276",
+  "type": "判断",
+  "stem": "句子 \"The problem is too difficult for me to solve it.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "too...to... 结构中 solve 的宾语即 the problem，不能再加 it。",
+  "knowledge_point": "固定结构-too...to...",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "277",
+  "type": "判断",
+  "stem": "句子 \"By the end of last year, they have learned 2000 words.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "by the end of last year 与过去完成时连用，应改为 had learned。",
+  "knowledge_point": "时态-过去完成时",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "278",
+  "type": "判断",
+  "stem": "句子 \"He ran so fast that nobody could catch him.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "so...that... 结果状语从句，用法正确。",
+  "knowledge_point": "结果状语从句-so that",
+  "chapter": "语法",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "279",
+  "type": "判断",
+  "stem": "句子 \"The book is worth to read.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "be worth 后接动名词，应改为 worth reading。",
+  "knowledge_point": "固定结构-be worth doing",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "280",
+  "type": "判断",
+  "stem": "句子 \"Whoever breaks the law should be punished.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "whoever 引导主语从句，意为\"任何……的人\"，用法正确。",
+  "knowledge_point": "名词性从句-whoever",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "281",
+  "type": "判断",
+  "stem": "句子 \"I prefer staying at home than going out.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "prefer doing 后接 to doing，应改为 prefer staying at home to going out。",
+  "knowledge_point": "固定结构-prefer...to...",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "282",
+  "type": "判断",
+  "stem": "句子 \"She has a good knowledge of English.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "a knowledge of 为固定搭配，表示\"对……的了解\"，用法正确。",
+  "knowledge_point": "词汇-固定搭配",
+  "chapter": "词汇",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "283",
+  "type": "判断",
+  "stem": "句子 \"It is high time we go to bed.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "It is (high) time 后从句用一般过去时表虚拟，应改为 went。",
+  "knowledge_point": "虚拟语气-It is time that",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "284",
+  "type": "判断",
+  "stem": "句子 \"Each of the students have their own books.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "each of + 复数名词作主语，谓语用单数 has。",
+  "knowledge_point": "主谓一致-each of",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "285",
+  "type": "判断",
+  "stem": "句子 \"He didn't come to school because he was ill.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "because 引导原因状语从句，用法正确。",
+  "knowledge_point": "原因状语从句",
+  "chapter": "语法",
+  "difficulty": 1,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "286",
+  "type": "判断",
+  "stem": "句子 \"The man who we met yesterday is my uncle.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "who 引导定语从句，在从句中作宾语，用法正确。",
+  "knowledge_point": "定语从句-关系代词",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "287",
+  "type": "判断",
+  "stem": "句子 \"She is more cleverer than her brother.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "more 和 -er 不能同时使用，应改为 cleverer 或 more clever。",
+  "knowledge_point": "形容词比较级",
+  "chapter": "语法",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "288",
+  "type": "判断",
+  "stem": "句子 \"Not only did he sing but also he danced.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "not only 位于句首时主句部分倒装，用法正确。",
+  "knowledge_point": "倒装句-not only",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "289",
+  "type": "判断",
+  "stem": "句子 \"I'm looking forward to hearing from you.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "对",
+  "explanation": "look forward to 中 to 是介词，后接动名词 hearing，用法正确。",
+  "knowledge_point": "固定结构-look forward to doing",
+  "chapter": "语法",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "290",
+  "type": "判断",
+  "stem": "句子 \"The knife needs to sharpen.\" 语法正确。",
+  "options": [
+   "对",
+   "错"
+  ],
+  "answer": "错",
+  "explanation": "need 表\"需要\"且主语是物时，用 need doing 或 need to be done，应改为 needs sharpening。",
+  "knowledge_point": "非谓语动词-need doing",
+  "chapter": "语法",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "291",
+  "type": "简答",
+  "stem": "假定你是校英语社团负责人，请写一则英文通知，通知全体学生参加即将举行的英语演讲比赛，说明时间、地点及报名方式。词数约 100。",
+  "options": [],
+  "answer": "Notice\nOur school English club will hold an English speech contest in the school hall at 2 p.m. next Friday. The topic is \"My Dream\". Students who want to take part should sign up at the club office before this Friday. Everyone is welcome to come and watch. Please get ready in advance.\nThe English Club",
+  "explanation": "通知须含标题 Notice、正文（时间、地点、活动、报名方式）和落款，格式规范，信息完整。",
+  "knowledge_point": "写作-通知",
+  "chapter": "写作",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "292",
+  "type": "简答",
+  "stem": "假定你是李华，请给外教 Mr. Smith 写一封邀请信，邀请他参加你校本周六下午在图书馆举行的英语角活动。词数约 100。",
+  "options": [],
+  "answer": "Dear Mr. Smith,\nI'm writing to invite you to our English Corner, which will be held in the school library at 3 p.m. this Saturday. The topic is \"My Favorite Book\". It would be a great honor if you could come and share your ideas with us. I'm sure your joining will make the activity more interesting. Looking forward to your early reply.\nYours sincerely,\nLi Hua",
+  "explanation": "邀请信需含写信目的、活动时间地点、邀请内容、期待回复，语气礼貌得体。",
+  "knowledge_point": "写作-邀请信",
+  "chapter": "写作",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "293",
+  "type": "简答",
+  "stem": "假定你是李华，你的朋友王明写信向你请教学习英语的方法，请给他写一封建议信。词数约 100。",
+  "options": [],
+  "answer": "Dear Wang Ming,\nI'm glad to hear from you. Here are some suggestions on learning English. First, read English aloud every day to improve your pronunciation. Second, listen to English songs or news to train your listening. Third, don't be afraid of making mistakes and try to speak more. I hope my advice will be helpful to you. Best wishes!\nYours,\nLi Hua",
+  "explanation": "建议信需包含开场、若干条具体建议（可用 First/Second/Third 分层）和结尾祝福。",
+  "knowledge_point": "写作-建议信",
+  "chapter": "写作",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "294",
+  "type": "简答",
+  "stem": "假定你是李华，因生病未能按时参加与朋友 Tom 约定的见面，请给他写一封道歉信。词数约 100。",
+  "options": [],
+  "answer": "Dear Tom,\nI'm terribly sorry that I failed to meet you yesterday. I caught a bad cold and had to stay in bed all day, so I couldn't go out. I hope you can forgive me. Would it be possible for us to meet again this Sunday afternoon? Please let me know if it is convenient for you. Once again, I'm sorry for the trouble.\nYours,\nLi Hua",
+  "explanation": "道歉信需表达歉意、解释原因、提出补救办法并再次致歉，语气诚恳。",
+  "knowledge_point": "写作-道歉信",
+  "chapter": "写作",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "295",
+  "type": "简答",
+  "stem": "假定你是李华，你的朋友 Jack 在你生病期间帮助了你，请给他写一封感谢信。词数约 100。",
+  "options": [],
+  "answer": "Dear Jack,\nI'm writing to express my heartfelt thanks for your help during my illness. You not only sent me to the hospital but also helped me with my lessons. Without your help, I would have fallen far behind. I'm so lucky to have a friend like you. I hope I can do something for you in return some day.\nYours sincerely,\nLi Hua",
+  "explanation": "感谢信需表达感谢、说明被感谢的具体事情及其影响，结尾可表达回报意愿。",
+  "knowledge_point": "写作-感谢信",
+  "chapter": "写作",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "296",
+  "type": "简答",
+  "stem": "假定你是李华，学校正在招募志愿者帮助社区老人，请写一封申请信。词数约 100。",
+  "options": [],
+  "answer": "Dear Sir or Madam,\nI'm writing to apply for the position of a volunteer to help the elderly in our community. I'm warm-hearted and good at communicating with old people. Besides, I'm free on weekends. I believe I'm fit for the job and will do my best to help. I would be grateful if you could give me the chance.\nYours faithfully,\nLi Hua",
+  "explanation": "申请信需表明申请意向、说明自身优势与条件、表达期望，格式规范。",
+  "knowledge_point": "写作-申请信",
+  "chapter": "写作",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "297",
+  "type": "简答",
+  "stem": "假定你是李华，想了解某英语培训机构的课程，请写一封电子邮件询问课程安排、费用等信息。词数约 100。",
+  "options": [],
+  "answer": "Dear Sir or Madam,\nI'm writing to ask for some information about your English courses. Could you tell me when the courses begin and how long they last? I'd also like to know how much the courses cost and whether there is a discount for students. I would appreciate it if you could reply as soon as possible.\nYours faithfully,\nLi Hua",
+  "explanation": "咨询邮件需说明写信目的、提出具体问题（时间、时长、费用等），语气礼貌。",
+  "knowledge_point": "写作-电子邮件",
+  "chapter": "写作",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "298",
+  "type": "简答",
+  "stem": "假定你是李华，要外出办事，请给室友写一张英文便条，请其帮忙转告电话内容或代收快递。词数约 60。",
+  "options": [],
+  "answer": "Dear Wang,\nI have to go out on business this afternoon. Could you please answer the phone for me? If someone calls, please write down the message. Also, my package may arrive today, so please help me sign for it. Thank you very much.\nLi Hua",
+  "explanation": "便条需简洁说明委托事项（接电话、记留言、收快递）并表达感谢，语言简短。",
+  "knowledge_point": "写作-便条",
+  "chapter": "写作",
+  "difficulty": 2,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "299",
+  "type": "简答",
+  "stem": "假定你在班级活动中要发表一段关于环保的英文演讲，请写一篇简短演讲稿，呼吁同学们从小事做起保护环境。词数约 100。",
+  "options": [],
+  "answer": "Dear classmates,\nToday I want to talk about protecting the environment. Our earth is facing serious problems, such as pollution and the waste of resources. As students, we can do small things every day: turn off the lights, save water and recycle paper. If everyone does a little, we can make a big difference. Let's act now for a greener future. Thank you!",
+  "explanation": "演讲稿需有称呼、开场、主体（问题+行动呼吁）和致谢，语言有号召力。",
+  "knowledge_point": "写作-演讲稿",
+  "chapter": "写作",
+  "difficulty": 4,
+  "source": "新编，需核对"
+ },
+ {
+  "id": "300",
+  "type": "简答",
+  "stem": "假定你是李华，请用英语向外国朋友介绍你的家乡，包括位置、风景、特产等。词数约 100。",
+  "options": [],
+  "answer": "My hometown is a beautiful city in Guangdong Province. It is famous for its pleasant weather and delicious food. There are many parks and rivers where people can relax. The most famous local food is rice noodles, which attracts visitors from all over the country. I love my hometown and I'm proud of it. Welcome to visit my hometown!",
+  "explanation": "介绍类写作需涵盖位置、风景、特产等要点，条理清晰，语言通顺。",
+  "knowledge_point": "写作-介绍说明",
+  "chapter": "写作",
+  "difficulty": 3,
+  "source": "新编，需核对"
+ }
+]

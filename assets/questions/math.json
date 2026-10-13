@@ -1,0 +1,5142 @@
+[
+  {
+    "id": "math-001",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "单选",
+    "stem": "函数 f(x)=√(x-1)+1/(x-3) 的定义域是（ ）。",
+    "options": [
+      "[1,+∞)",
+      "[1,3)∪(3,+∞)",
+      "(1,3)∪(3,+∞)",
+      "[1,3]∪(3,+∞)"
+    ],
+    "answer": "B",
+    "explanation": "根号要求 x-1≥0 即 x≥1，分母要求 x≠3，取交集得 [1,3)∪(3,+∞)。",
+    "difficulty": 1,
+    "tags": [
+      "函数的定义域"
+    ]
+  },
+  {
+    "id": "math-002",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "单选",
+    "stem": "lim(x→0) sin3x/x =（ ）。",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "1/3"
+    ],
+    "answer": "C",
+    "explanation": "sin3x～3x（x→0），故极限为 3。",
+    "difficulty": 1,
+    "tags": [
+      "第一个重要极限"
+    ]
+  },
+  {
+    "id": "math-003",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "单选",
+    "stem": "当 x→0 时，下列函数中与 x 等价无穷小的是（ ）。",
+    "options": [
+      "1-cosx",
+      "sinx",
+      "√(1+x)-1",
+      "ln(1+x²)"
+    ],
+    "answer": "B",
+    "explanation": "sinx～x；1-cosx～x²/2；√(1+x)-1～x/2；ln(1+x²)～x²。",
+    "difficulty": 1,
+    "tags": [
+      "等价无穷小"
+    ]
+  },
+  {
+    "id": "math-004",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "单选",
+    "stem": "lim(x→∞) (1+2/x)^x =（ ）。",
+    "options": [
+      "e",
+      "e²",
+      "e^(1/2)",
+      "1"
+    ],
+    "answer": "B",
+    "explanation": "(1+2/x)^x=[(1+2/x)^(x/2)]²→e²。",
+    "difficulty": 3,
+    "tags": [
+      "第二个重要极限"
+    ]
+  },
+  {
+    "id": "math-005",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "单选",
+    "stem": "x=0 是函数 f(x)=sinx/x 的（ ）。",
+    "options": [
+      "连续点",
+      "可去间断点",
+      "跳跃间断点",
+      "无穷间断点"
+    ],
+    "answer": "B",
+    "explanation": "lim(x→0) sinx/x=1 存在但 f(0) 无定义，属可去间断点。",
+    "difficulty": 3,
+    "tags": [
+      "间断点的分类"
+    ]
+  },
+  {
+    "id": "math-006",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "单选",
+    "stem": "lim(x→0) (e^x-1-x)/x² =（ ）。",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "∞"
+    ],
+    "answer": "B",
+    "explanation": "e^x=1+x+x²/2+o(x²)，分子～x²/2，极限为 1/2。",
+    "difficulty": 4,
+    "tags": [
+      "洛必达法则与等价无穷小"
+    ]
+  },
+  {
+    "id": "math-007",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "填空",
+    "stem": "lim(x→0) ln(1+2x)/x = ______。",
+    "options": [],
+    "answer": "2",
+    "explanation": "ln(1+2x)～2x（x→0），故极限为 2。",
+    "difficulty": 1,
+    "tags": [
+      "等价无穷小替换"
+    ]
+  },
+  {
+    "id": "math-008",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "填空",
+    "stem": "设 f(x)=x²，g(x)=sinx，则复合函数 f(g(x)) = ______。",
+    "options": [],
+    "answer": "sin²x",
+    "explanation": "f(g(x))=(g(x))²=sin²x。",
+    "difficulty": 1,
+    "tags": [
+      "复合函数"
+    ]
+  },
+  {
+    "id": "math-009",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "填空",
+    "stem": "lim(x→1) (x²-1)/(x-1) = ______。",
+    "options": [],
+    "answer": "2",
+    "explanation": "(x²-1)/(x-1)=x+1（x≠1），x→1 时极限为 2。",
+    "difficulty": 1,
+    "tags": [
+      "极限的四则运算"
+    ]
+  },
+  {
+    "id": "math-010",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "填空",
+    "stem": "lim(x→0) (1-cosx)/x² = ______。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "1-cosx～x²/2（x→0），极限为 1/2。",
+    "difficulty": 2,
+    "tags": [
+      "等价无穷小"
+    ]
+  },
+  {
+    "id": "math-011",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "填空",
+    "stem": "函数 y=(x²-1)/(x²-3x+2) 的可去间断点为 x = ______。",
+    "options": [],
+    "answer": "1",
+    "explanation": "y=(x-1)(x+1)/[(x-1)(x-2)]，x=1 处极限存在但无定义，为可去间断点；x=2 为无穷间断点。",
+    "difficulty": 3,
+    "tags": [
+      "间断点的分类"
+    ]
+  },
+  {
+    "id": "math-012",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "填空",
+    "stem": "lim(x→0) (tanx-sinx)/x³ = ______。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "tanx-sinx=sinx(1-cosx)/cosx～x·(x²/2)=x³/2，极限为 1/2。",
+    "difficulty": 4,
+    "tags": [
+      "等价无穷小综合"
+    ]
+  },
+  {
+    "id": "math-013",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→2) (x²-4)/(x-2)。",
+    "options": [],
+    "answer": "4",
+    "explanation": "(x²-4)/(x-2)=x+2（x≠2），代入得 4。",
+    "difficulty": 1,
+    "tags": [
+      "极限的四则运算"
+    ]
+  },
+  {
+    "id": "math-014",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) sin5x/(3x)。",
+    "options": [],
+    "answer": "5/3",
+    "explanation": "sin5x～5x，原式=lim 5x/(3x)=5/3。",
+    "difficulty": 1,
+    "tags": [
+      "第一个重要极限"
+    ]
+  },
+  {
+    "id": "math-015",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→∞) (3x²+2x+1)/(x²+x)。",
+    "options": [],
+    "answer": "3",
+    "explanation": "分子分母同除 x²，得 (3+2/x+1/x²)/(1+1/x)→3。",
+    "difficulty": 1,
+    "tags": [
+      "x→∞ 时有理函数的极限"
+    ]
+  },
+  {
+    "id": "math-016",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) (e^(2x)-1)/x。",
+    "options": [],
+    "answer": "2",
+    "explanation": "e^(2x)-1～2x（x→0），极限为 2。",
+    "difficulty": 1,
+    "tags": [
+      "等价无穷小"
+    ]
+  },
+  {
+    "id": "math-017",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) [√(1+x)-√(1-x)]/x。",
+    "options": [],
+    "answer": "1",
+    "explanation": "分子有理化：原式=lim 2x/{x[√(1+x)+√(1-x)]}=2/2=1。",
+    "difficulty": 3,
+    "tags": [
+      "有理化求极限"
+    ]
+  },
+  {
+    "id": "math-018",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) (1+x)^(3/x)。",
+    "options": [],
+    "answer": "e³",
+    "explanation": "(1+x)^(3/x)=[(1+x)^(1/x)]³→e³。",
+    "difficulty": 3,
+    "tags": [
+      "第二个重要极限"
+    ]
+  },
+  {
+    "id": "math-019",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) arcsinx/x。",
+    "options": [],
+    "answer": "1",
+    "explanation": "令 t=arcsinx，则 x=sint，x→0 时 t→0，原式=lim t/sint=1。",
+    "difficulty": 3,
+    "tags": [
+      "换元与重要极限"
+    ]
+  },
+  {
+    "id": "math-020",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) tan2x/sin3x。",
+    "options": [],
+    "answer": "2/3",
+    "explanation": "tan2x～2x，sin3x～3x，极限为 2/3。",
+    "difficulty": 2,
+    "tags": [
+      "等价无穷小"
+    ]
+  },
+  {
+    "id": "math-021",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) (x-sinx)/x³。",
+    "options": [],
+    "answer": "1/6",
+    "explanation": "sinx=x-x³/6+o(x³)，分子～x³/6，极限为 1/6（或三次洛必达法则）。",
+    "difficulty": 4,
+    "tags": [
+      "泰勒公式/洛必达法则"
+    ]
+  },
+  {
+    "id": "math-022",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) [1/x - 1/(e^x-1)]。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "通分得 (e^x-1-x)/[x(e^x-1)]，分子～x²/2，分母～x²，极限为 1/2。",
+    "difficulty": 5,
+    "tags": [
+      "∞-∞ 型极限"
+    ]
+  },
+  {
+    "id": "math-023",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "已知 lim(x→1) (x²+ax+b)/(x-1)=3，求常数 a 与 b。",
+    "options": [],
+    "answer": "a=1，b=-2",
+    "explanation": "极限存在则 x²+ax+b 在 x=1 处为零：1+a+b=0；此时原式=(x-1)(x+2)/(x-1)→3，解得 a=1，b=-2。",
+    "difficulty": 3,
+    "tags": [
+      "极限反求参数"
+    ]
+  },
+  {
+    "id": "math-024",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "设 f(x)=x·sin(1/x)（x≠0），f(0)=a。问 a 取何值时 f(x) 在 x=0 处连续？并说明理由。",
+    "options": [],
+    "answer": "a=0",
+    "explanation": "|x·sin(1/x)|≤|x|→0，由夹逼准则 lim(x→0)f(x)=0，故 a=0 时连续。",
+    "difficulty": 4,
+    "tags": [
+      "夹逼准则与连续性"
+    ]
+  },
+  {
+    "id": "math-025",
+    "subjectId": "math",
+    "chapter": "第一章 函数与极限",
+    "type": "简答",
+    "stem": "求数列极限 lim(n→∞) n[√(n²+1)-n]。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "√(n²+1)-n=1/[√(n²+1)+n]，原式=lim n/[√(n²+1)+n]=1/2。",
+    "difficulty": 4,
+    "tags": [
+      "数列极限与有理化"
+    ]
+  },
+  {
+    "id": "math-026",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "单选",
+    "stem": "(x³)' =（ ）。",
+    "options": [
+      "3x²",
+      "x²",
+      "3x",
+      "x³/3"
+    ],
+    "answer": "A",
+    "explanation": "幂函数求导公式 (xⁿ)'=nx^(n-1)，(x³)'=3x²。",
+    "difficulty": 1,
+    "tags": [
+      "基本求导公式"
+    ]
+  },
+  {
+    "id": "math-027",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "单选",
+    "stem": "(sinx)' =（ ）。",
+    "options": [
+      "-cosx",
+      "-sinx",
+      "cosx",
+      "tanx"
+    ],
+    "answer": "C",
+    "explanation": "由基本求导公式，(sinx)'=cosx。",
+    "difficulty": 1,
+    "tags": [
+      "基本求导公式"
+    ]
+  },
+  {
+    "id": "math-028",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "单选",
+    "stem": "设 f(x)=e^x，则 f'(x) =（ ）。",
+    "options": [
+      "xe^(x-1)",
+      "e^x·lnx",
+      "e^x",
+      "e^(x+1)"
+    ],
+    "answer": "C",
+    "explanation": "指数函数求导公式 (e^x)'=e^x。",
+    "difficulty": 1,
+    "tags": [
+      "基本求导公式"
+    ]
+  },
+  {
+    "id": "math-029",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "单选",
+    "stem": "设 f(x)=x·e^x，则 f'(x) =（ ）。",
+    "options": [
+      "e^x",
+      "x·e^x",
+      "(x+1)e^x",
+      "(x-1)e^x"
+    ],
+    "answer": "C",
+    "explanation": "由乘积法则，f'(x)=e^x+x·e^x=(x+1)e^x。",
+    "difficulty": 2,
+    "tags": [
+      "乘积求导法则"
+    ]
+  },
+  {
+    "id": "math-030",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "单选",
+    "stem": "设 f(x)=ln(sinx)，则 f'(x) =（ ）。",
+    "options": [
+      "tanx",
+      "cotx",
+      "-cotx",
+      "1/sinx"
+    ],
+    "answer": "B",
+    "explanation": "链式法则：f'(x)=cosx/sinx=cotx。",
+    "difficulty": 3,
+    "tags": [
+      "复合函数求导"
+    ]
+  },
+  {
+    "id": "math-031",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "单选",
+    "stem": "函数 f(x) 在点 x₀ 处可导是 f(x) 在 x₀ 处连续的（ ）。",
+    "options": [
+      "充分不必要条件",
+      "必要不充分条件",
+      "充要条件",
+      "既不充分也不必要条件"
+    ],
+    "answer": "A",
+    "explanation": "可导必连续，连续未必可导（如 y=|x| 在 x=0 处），故为充分不必要条件。",
+    "difficulty": 4,
+    "tags": [
+      "可导与连续的关系"
+    ]
+  },
+  {
+    "id": "math-032",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "填空",
+    "stem": "设 y=x²·sinx，则 y' = ______。",
+    "options": [],
+    "answer": "2x·sinx+x²·cosx",
+    "explanation": "乘积法则：y'=2x·sinx+x²·cosx。",
+    "difficulty": 1,
+    "tags": [
+      "乘积求导法则"
+    ]
+  },
+  {
+    "id": "math-033",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "填空",
+    "stem": "函数 y=x³ 在 x=1 处的导数为 ______。",
+    "options": [],
+    "answer": "3",
+    "explanation": "y'=3x²，y'(1)=3。",
+    "difficulty": 1,
+    "tags": [
+      "导数的计算"
+    ]
+  },
+  {
+    "id": "math-034",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "填空",
+    "stem": "设 y=(2x+1)^5，则 y' = ______。",
+    "options": [],
+    "answer": "10(2x+1)^4",
+    "explanation": "链式法则：y'=5(2x+1)^4·2=10(2x+1)^4。",
+    "difficulty": 2,
+    "tags": [
+      "复合函数求导"
+    ]
+  },
+  {
+    "id": "math-035",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "填空",
+    "stem": "设 y=arctanx，则 y'(1) = ______。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "y'=1/(1+x²)，y'(1)=1/2。",
+    "difficulty": 2,
+    "tags": [
+      "反三角函数求导"
+    ]
+  },
+  {
+    "id": "math-036",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "填空",
+    "stem": "设参数方程 x=t²，y=t³，则 dy/dx = ______。",
+    "options": [],
+    "answer": "3t/2",
+    "explanation": "dy/dx=(dy/dt)/(dx/dt)=3t²/(2t)=3t/2。",
+    "difficulty": 3,
+    "tags": [
+      "参数方程求导"
+    ]
+  },
+  {
+    "id": "math-037",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "填空",
+    "stem": "设 y=x^x（x>0），则 y' = ______。",
+    "options": [],
+    "answer": "x^x(1+lnx)",
+    "explanation": "取对数 lny=x·lnx，两边求导得 y'=x^x(1+lnx)。",
+    "difficulty": 4,
+    "tags": [
+      "对数求导法"
+    ]
+  },
+  {
+    "id": "math-038",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=x³-3x²+2 的导数。",
+    "options": [],
+    "answer": "y'=3x²-6x",
+    "explanation": "逐项求导：y'=3x²-6x。",
+    "difficulty": 1,
+    "tags": [
+      "求导的四则运算"
+    ]
+  },
+  {
+    "id": "math-039",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=e^x·cosx 的导数。",
+    "options": [],
+    "answer": "y'=e^x(cosx-sinx)",
+    "explanation": "乘积法则：y'=e^x·cosx-e^x·sinx=e^x(cosx-sinx)。",
+    "difficulty": 1,
+    "tags": [
+      "乘积求导法则"
+    ]
+  },
+  {
+    "id": "math-040",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=ln(x²+1) 的导数。",
+    "options": [],
+    "answer": "y'=2x/(x²+1)",
+    "explanation": "链式法则：y'=[1/(x²+1)]·2x=2x/(x²+1)。",
+    "difficulty": 1,
+    "tags": [
+      "复合函数求导"
+    ]
+  },
+  {
+    "id": "math-041",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=sin²x 的导数。",
+    "options": [],
+    "answer": "y'=sin2x",
+    "explanation": "y'=2sinx·cosx=sin2x。",
+    "difficulty": 2,
+    "tags": [
+      "复合函数求导"
+    ]
+  },
+  {
+    "id": "math-042",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=√(1+x²) 的导数。",
+    "options": [],
+    "answer": "y'=x/√(1+x²)",
+    "explanation": "y'=[1/(2√(1+x²))]·2x=x/√(1+x²)。",
+    "difficulty": 3,
+    "tags": [
+      "复合函数求导"
+    ]
+  },
+  {
+    "id": "math-043",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "设 y=y(x) 由方程 x²+y²=1 确定，求 dy/dx。",
+    "options": [],
+    "answer": "dy/dx=-x/y",
+    "explanation": "两边对 x 求导：2x+2y·y'=0，解得 y'=-x/y。",
+    "difficulty": 3,
+    "tags": [
+      "隐函数求导"
+    ]
+  },
+  {
+    "id": "math-044",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=e^(sinx) 的导数。",
+    "options": [],
+    "answer": "y'=e^(sinx)·cosx",
+    "explanation": "链式法则：y'=e^(sinx)·(sinx)'=e^(sinx)cosx。",
+    "difficulty": 2,
+    "tags": [
+      "复合函数求导"
+    ]
+  },
+  {
+    "id": "math-045",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=x·e^x 的二阶导数。",
+    "options": [],
+    "answer": "y''=(x+2)e^x",
+    "explanation": "y'=(x+1)e^x，再求导得 y''=(x+2)e^x。",
+    "difficulty": 3,
+    "tags": [
+      "高阶导数"
+    ]
+  },
+  {
+    "id": "math-046",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=ln[x+√(x²+1)] 的导数。",
+    "options": [],
+    "answer": "y'=1/√(x²+1)",
+    "explanation": "y'=[1+x/√(x²+1)]/[x+√(x²+1)]=1/√(x²+1)。",
+    "difficulty": 4,
+    "tags": [
+      "复合函数求导"
+    ]
+  },
+  {
+    "id": "math-047",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求函数 y=x·sinx 在 x=π/2 处的微分 dy。",
+    "options": [],
+    "answer": "dy=dx",
+    "explanation": "dy=(sinx+x·cosx)dx，代入 x=π/2 得 dy=(1+0)dx=dx。",
+    "difficulty": 4,
+    "tags": [
+      "微分的计算"
+    ]
+  },
+  {
+    "id": "math-048",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "求曲线 y=x² 在点 (1,1) 处的切线方程和法线方程。",
+    "options": [],
+    "answer": "切线：y=2x-1；法线：y=-x/2+3/2",
+    "explanation": "y'=2x，切线斜率 k=2，切线 y-1=2(x-1) 即 y=2x-1；法线斜率 -1/2，法线 y=-x/2+3/2。",
+    "difficulty": 3,
+    "tags": [
+      "导数的几何意义"
+    ]
+  },
+  {
+    "id": "math-049",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "设 y=y(x) 由方程 xy+e^y=e 确定，求 dy/dx 及曲线在点 (0,1) 处的切线斜率。",
+    "options": [],
+    "answer": "y'=-y/(x+e^y)，切线斜率为 -1/e",
+    "explanation": "两边求导：y+xy'+e^y·y'=0，得 y'=-y/(x+e^y)；代入 (0,1) 得 k=-1/e。",
+    "difficulty": 3,
+    "tags": [
+      "隐函数求导与切线"
+    ]
+  },
+  {
+    "id": "math-050",
+    "subjectId": "math",
+    "chapter": "第二章 导数与微分",
+    "type": "简答",
+    "stem": "设 y=x^(sinx)（x>0），求 y'。",
+    "options": [],
+    "answer": "y'=x^(sinx)[cosx·lnx+sinx/x]",
+    "explanation": "取对数 lny=sinx·lnx，求导：y'/y=cosx·lnx+sinx/x，整理得结果。",
+    "difficulty": 5,
+    "tags": [
+      "对数求导法"
+    ]
+  },
+  {
+    "id": "math-051",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "单选",
+    "stem": "函数 f(x)=x² 在区间 [1,2] 上满足拉格朗日中值定理的 ξ =（ ）。",
+    "options": [
+      "1",
+      "3/2",
+      "2",
+      "5/2"
+    ],
+    "answer": "B",
+    "explanation": "[f(2)-f(1)]/(2-1)=3=2ξ，故 ξ=3/2。",
+    "difficulty": 2,
+    "tags": [
+      "拉格朗日中值定理"
+    ]
+  },
+  {
+    "id": "math-052",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "单选",
+    "stem": "若函数 f(x) 在区间 (a,b) 内恒有 f'(x)>0，则 f(x) 在 (a,b) 内（ ）。",
+    "options": [
+      "单调递减",
+      "单调递增",
+      "有最大值",
+      "有拐点"
+    ],
+    "answer": "B",
+    "explanation": "导数恒正是函数单调递增的充分条件。",
+    "difficulty": 1,
+    "tags": [
+      "函数单调性的判定"
+    ]
+  },
+  {
+    "id": "math-053",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "单选",
+    "stem": "函数 y=x³-3x 的驻点为（ ）。",
+    "options": [
+      "x=0",
+      "x=±1",
+      "x=1",
+      "x=±√3"
+    ],
+    "answer": "B",
+    "explanation": "y'=3x²-3=0，解得 x=±1。",
+    "difficulty": 1,
+    "tags": [
+      "驻点"
+    ]
+  },
+  {
+    "id": "math-054",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "单选",
+    "stem": "曲线 y=x³ 的拐点是（ ）。",
+    "options": [
+      "(1,1)",
+      "(0,0)",
+      "(-1,-1)",
+      "不存在"
+    ],
+    "answer": "B",
+    "explanation": "y''=6x，x=0 两侧 y'' 异号，故 (0,0) 为拐点。",
+    "difficulty": 3,
+    "tags": [
+      "拐点的判定"
+    ]
+  },
+  {
+    "id": "math-055",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "单选",
+    "stem": "函数 y=x+1/x（x>0）的最小值为（ ）。",
+    "options": [
+      "1",
+      "2",
+      "√2",
+      "不存在"
+    ],
+    "answer": "B",
+    "explanation": "y'=1-1/x²=0 得 x=1，y''=2/x³>0，极小值 y(1)=2 即最小值。",
+    "difficulty": 3,
+    "tags": [
+      "函数的最值"
+    ]
+  },
+  {
+    "id": "math-056",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "单选",
+    "stem": "lim(x→0) (e^x-e^(-x))/sinx =（ ）。",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "∞"
+    ],
+    "answer": "C",
+    "explanation": "洛必达法则：原式=lim (e^x+e^(-x))/cosx=2/1=2。",
+    "difficulty": 4,
+    "tags": [
+      "洛必达法则"
+    ]
+  },
+  {
+    "id": "math-057",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "填空",
+    "stem": "函数 y=x²-4x+3 的极小值为 ______。",
+    "options": [],
+    "answer": "-1",
+    "explanation": "y'=2x-4=0 得 x=2，极小值 y(2)=-1。",
+    "difficulty": 1,
+    "tags": [
+      "函数的极值"
+    ]
+  },
+  {
+    "id": "math-058",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "填空",
+    "stem": "函数 y=x·e^(-x) 的极大值为 ______。",
+    "options": [],
+    "answer": "1/e",
+    "explanation": "y'=(1-x)e^(-x)=0 得 x=1，x<1 增 x>1 减，极大值 y(1)=1/e。",
+    "difficulty": 3,
+    "tags": [
+      "函数的极值"
+    ]
+  },
+  {
+    "id": "math-059",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "填空",
+    "stem": "曲线 y=x³-3x² 的拐点横坐标为 x = ______。",
+    "options": [],
+    "answer": "1",
+    "explanation": "y''=6x-6=0 得 x=1，两侧 y'' 异号，故 x=1 为拐点横坐标。",
+    "difficulty": 3,
+    "tags": [
+      "拐点的判定"
+    ]
+  },
+  {
+    "id": "math-060",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "填空",
+    "stem": "曲线 y=(2x+1)/(x-1) 的水平渐近线为 ______。",
+    "options": [],
+    "answer": "y=2",
+    "explanation": "lim(x→∞) (2x+1)/(x-1)=2，故水平渐近线为 y=2。",
+    "difficulty": 4,
+    "tags": [
+      "渐近线"
+    ]
+  },
+  {
+    "id": "math-061",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "填空",
+    "stem": "函数 f(x)=x³-3x 在区间 [-2,2] 上的最大值为 ______。",
+    "options": [],
+    "answer": "2",
+    "explanation": "驻点 x=±1，比较 f(-2)=-2，f(-1)=2，f(1)=-2，f(2)=2，最大值为 2。",
+    "difficulty": 3,
+    "tags": [
+      "闭区间上的最值"
+    ]
+  },
+  {
+    "id": "math-062",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "填空",
+    "stem": "lim(x→0) [ln(1+x)-x]/x² = ______。",
+    "options": [],
+    "answer": "-1/2",
+    "explanation": "ln(1+x)=x-x²/2+o(x²)，分子～-x²/2，极限为 -1/2。",
+    "difficulty": 4,
+    "tags": [
+      "洛必达法则/泰勒公式"
+    ]
+  },
+  {
+    "id": "math-063",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "用洛必达法则求 lim(x→0) (e^x-1)/x。",
+    "options": [],
+    "answer": "1",
+    "explanation": "0/0 型，原式=lim e^x/1=1。",
+    "difficulty": 1,
+    "tags": [
+      "洛必达法则"
+    ]
+  },
+  {
+    "id": "math-064",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求函数 y=x²-2x 的单调区间。",
+    "options": [],
+    "answer": "单调递减区间 (-∞,1]，单调递增区间 [1,+∞)",
+    "explanation": "y'=2x-2，x<1 时 y'<0 递减，x>1 时 y'>0 递增。",
+    "difficulty": 1,
+    "tags": [
+      "函数单调性的判定"
+    ]
+  },
+  {
+    "id": "math-065",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求函数 y=x³-3x²-9x+1 的驻点。",
+    "options": [],
+    "answer": "x=-1 和 x=3",
+    "explanation": "y'=3x²-6x-9=3(x-3)(x+1)=0，解得 x=-1，x=3。",
+    "difficulty": 2,
+    "tags": [
+      "驻点"
+    ]
+  },
+  {
+    "id": "math-066",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求极限 lim(x→+∞) lnx/x。",
+    "options": [],
+    "answer": "0",
+    "explanation": "∞/∞ 型，洛必达：原式=lim (1/x)/1=0。",
+    "difficulty": 3,
+    "tags": [
+      "洛必达法则（∞/∞型）"
+    ]
+  },
+  {
+    "id": "math-067",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求函数 y=x²-lnx（x>0）的极值。",
+    "options": [],
+    "answer": "极小值 y(1/√2)=1/2+(ln2)/2，无极大值",
+    "explanation": "y'=2x-1/x=0 得 x=1/√2；y''=2+1/x²>0，故为极小值，y=1/2-ln(1/√2)=1/2+(ln2)/2。",
+    "difficulty": 3,
+    "tags": [
+      "函数的极值"
+    ]
+  },
+  {
+    "id": "math-068",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求函数 y=sinx+cosx 在 [0,π/2] 上的最大值。",
+    "options": [],
+    "answer": "√2",
+    "explanation": "y=√2·sin(x+π/4)，在 x=π/4 处取最大值 √2（端点值为 1）。",
+    "difficulty": 3,
+    "tags": [
+      "闭区间上的最值"
+    ]
+  },
+  {
+    "id": "math-069",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) [x-ln(1+x)]/x²。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "ln(1+x)=x-x²/2+o(x²)，分子～x²/2，极限为 1/2。",
+    "difficulty": 3,
+    "tags": [
+      "泰勒公式/洛必达法则"
+    ]
+  },
+  {
+    "id": "math-070",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) (tanx-x)/x³。",
+    "options": [],
+    "answer": "1/3",
+    "explanation": "tanx=x+x³/3+o(x³)，分子～x³/3，极限为 1/3。",
+    "difficulty": 4,
+    "tags": [
+      "泰勒公式"
+    ]
+  },
+  {
+    "id": "math-071",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求函数 y=x/(1+x²) 的单调区间与极值。",
+    "options": [],
+    "answer": "增区间 [-1,1]，减区间 (-∞,-1] 与 [1,+∞)；极大值 y(1)=1/2，极小值 y(-1)=-1/2",
+    "explanation": "y'=(1-x²)/(1+x²)²，|x|<1 时 y'>0，|x|>1 时 y'<0，故 x=1 极大、x=-1 极小。",
+    "difficulty": 4,
+    "tags": [
+      "单调性与极值综合"
+    ]
+  },
+  {
+    "id": "math-072",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "求极限 lim(x→0⁺) x^x。",
+    "options": [],
+    "answer": "1",
+    "explanation": "x^x=e^(x·lnx)，而 lim(x→0⁺) x·lnx=lim lnx/(1/x)=lim (-x)=0，故原式=e⁰=1。",
+    "difficulty": 5,
+    "tags": [
+      "0⁰ 型未定式"
+    ]
+  },
+  {
+    "id": "math-073",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "证明：当 x>0 时，ln(1+x)<x。",
+    "options": [],
+    "answer": "见解析",
+    "explanation": "设 f(x)=x-ln(1+x)，f'(x)=1-1/(1+x)=x/(1+x)>0（x>0），f 单调增且 f(0)=0，故 x>0 时 f(x)>0，即 ln(1+x)<x。",
+    "difficulty": 3,
+    "tags": [
+      "利用单调性证明不等式"
+    ]
+  },
+  {
+    "id": "math-074",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "从边长为 a 的正方形铁皮四角各截去边长为 x 的小正方形，折成无盖方盒。问 x 为何值时容积最大？",
+    "options": [],
+    "answer": "x=a/6",
+    "explanation": "容积 V=x(a-2x)²，V'=(a-2x)(a-6x)=0，舍去 x=a/2，得 x=a/6，此时 V''<0 为最大值点。",
+    "difficulty": 3,
+    "tags": [
+      "导数的实际应用（最优化）"
+    ]
+  },
+  {
+    "id": "math-075",
+    "subjectId": "math",
+    "chapter": "第三章 微分中值定理与导数的应用",
+    "type": "简答",
+    "stem": "讨论方程 x³-3x+a=0 的实根个数与常数 a 的关系。",
+    "options": [],
+    "answer": "|a|>2 时 1 个实根；a=±2 时 2 个实根；|a|<2 时 3 个实根",
+    "explanation": "f(x)=x³-3x+a，f'=3x²-3，极大值 f(-1)=a+2，极小值 f(1)=a-2；由两极值符号组合判断根的个数。",
+    "difficulty": 5,
+    "tags": [
+      "利用导数讨论方程根的个数"
+    ]
+  },
+  {
+    "id": "math-076",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "单选",
+    "stem": "∫x dx =（ ）。",
+    "options": [
+      "x²/2+C",
+      "x²+C",
+      "2x+C",
+      "1+C"
+    ],
+    "answer": "A",
+    "explanation": "由幂函数积分公式 ∫xⁿdx=x^(n+1)/(n+1)+C。",
+    "difficulty": 1,
+    "tags": [
+      "基本积分公式"
+    ]
+  },
+  {
+    "id": "math-077",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "单选",
+    "stem": "∫cosx dx =（ ）。",
+    "options": [
+      "-sinx+C",
+      "sinx+C",
+      "-cosx+C",
+      "tanx+C"
+    ],
+    "answer": "B",
+    "explanation": "因为 (sinx)'=cosx，故 ∫cosx dx=sinx+C。",
+    "difficulty": 1,
+    "tags": [
+      "基本积分公式"
+    ]
+  },
+  {
+    "id": "math-078",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "单选",
+    "stem": "∫e^x dx =（ ）。",
+    "options": [
+      "xe^x+C",
+      "e^x/x+C",
+      "e^x+C",
+      "e^(x+1)+C"
+    ],
+    "answer": "C",
+    "explanation": "因为 (e^x)'=e^x，故 ∫e^x dx=e^x+C。",
+    "difficulty": 1,
+    "tags": [
+      "基本积分公式"
+    ]
+  },
+  {
+    "id": "math-079",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "单选",
+    "stem": "∫1/(1+x²) dx =（ ）。",
+    "options": [
+      "arcsinx+C",
+      "arctanx+C",
+      "ln(1+x²)+C",
+      "1/x+C"
+    ],
+    "answer": "B",
+    "explanation": "因为 (arctanx)'=1/(1+x²)。",
+    "difficulty": 2,
+    "tags": [
+      "基本积分公式"
+    ]
+  },
+  {
+    "id": "math-080",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "单选",
+    "stem": "∫x·e^(x²) dx =（ ）。",
+    "options": [
+      "e^(x²)+C",
+      "(1/2)e^(x²)+C",
+      "2e^(x²)+C",
+      "x²·e^(x²)+C"
+    ],
+    "answer": "B",
+    "explanation": "凑微分：x dx=(1/2)d(x²)，原式=(1/2)e^(x²)+C。",
+    "difficulty": 3,
+    "tags": [
+      "第一类换元法（凑微分）"
+    ]
+  },
+  {
+    "id": "math-081",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "单选",
+    "stem": "∫lnx dx =（ ）。",
+    "options": [
+      "1/x+C",
+      "x·lnx-x+C",
+      "x·lnx+C",
+      "lnx/x+C"
+    ],
+    "answer": "B",
+    "explanation": "分部积分：∫lnx dx=x·lnx-∫x·(1/x)dx=x·lnx-x+C。",
+    "difficulty": 4,
+    "tags": [
+      "分部积分法"
+    ]
+  },
+  {
+    "id": "math-082",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "填空",
+    "stem": "∫(3x²+2x) dx = ______。",
+    "options": [],
+    "answer": "x³+x²+C",
+    "explanation": "逐项积分：∫3x²dx=x³，∫2x dx=x²。",
+    "difficulty": 1,
+    "tags": [
+      "不定积分的线性性质"
+    ]
+  },
+  {
+    "id": "math-083",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "填空",
+    "stem": "∫1/x dx = ______。",
+    "options": [],
+    "answer": "ln|x|+C",
+    "explanation": "基本积分公式 ∫1/x dx=ln|x|+C。",
+    "difficulty": 1,
+    "tags": [
+      "基本积分公式"
+    ]
+  },
+  {
+    "id": "math-084",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "填空",
+    "stem": "∫sin2x dx = ______。",
+    "options": [],
+    "answer": "-(1/2)cos2x+C",
+    "explanation": "凑微分：原式=(1/2)∫sin2x d(2x)=-(1/2)cos2x+C。",
+    "difficulty": 2,
+    "tags": [
+      "第一类换元法"
+    ]
+  },
+  {
+    "id": "math-085",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "填空",
+    "stem": "∫1/√(1-x²) dx = ______。",
+    "options": [],
+    "answer": "arcsinx+C",
+    "explanation": "因为 (arcsinx)'=1/√(1-x²)。",
+    "difficulty": 2,
+    "tags": [
+      "基本积分公式"
+    ]
+  },
+  {
+    "id": "math-086",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "填空",
+    "stem": "∫x/(1+x²) dx = ______。",
+    "options": [],
+    "answer": "(1/2)ln(1+x²)+C",
+    "explanation": "凑微分：原式=(1/2)∫d(1+x²)/(1+x²)=(1/2)ln(1+x²)+C。",
+    "difficulty": 3,
+    "tags": [
+      "第一类换元法"
+    ]
+  },
+  {
+    "id": "math-087",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "填空",
+    "stem": "∫tanx dx = ______。",
+    "options": [],
+    "answer": "-ln|cosx|+C",
+    "explanation": "∫tanx dx=∫sinx/cosx dx=-∫d(cosx)/cosx=-ln|cosx|+C。",
+    "difficulty": 4,
+    "tags": [
+      "第一类换元法"
+    ]
+  },
+  {
+    "id": "math-088",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫(x²+1/x) dx。",
+    "options": [],
+    "answer": "x³/3+ln|x|+C",
+    "explanation": "分项积分：∫x²dx=x³/3，∫1/x dx=ln|x|。",
+    "difficulty": 1,
+    "tags": [
+      "不定积分的线性性质"
+    ]
+  },
+  {
+    "id": "math-089",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫e^(3x) dx。",
+    "options": [],
+    "answer": "(1/3)e^(3x)+C",
+    "explanation": "凑微分：原式=(1/3)∫e^(3x) d(3x)=(1/3)e^(3x)+C。",
+    "difficulty": 1,
+    "tags": [
+      "第一类换元法"
+    ]
+  },
+  {
+    "id": "math-090",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫(2x+1)^5 dx。",
+    "options": [],
+    "answer": "(2x+1)^6/12+C",
+    "explanation": "原式=(1/2)∫(2x+1)^5 d(2x+1)=(2x+1)^6/12+C。",
+    "difficulty": 2,
+    "tags": [
+      "第一类换元法"
+    ]
+  },
+  {
+    "id": "math-091",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫sec²x dx。",
+    "options": [],
+    "answer": "tanx+C",
+    "explanation": "因为 (tanx)'=sec²x。",
+    "difficulty": 1,
+    "tags": [
+      "基本积分公式"
+    ]
+  },
+  {
+    "id": "math-092",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫x·e^x dx。",
+    "options": [],
+    "answer": "(x-1)e^x+C",
+    "explanation": "分部积分：∫x·e^x dx=x·e^x-∫e^x dx=(x-1)e^x+C。",
+    "difficulty": 3,
+    "tags": [
+      "分部积分法"
+    ]
+  },
+  {
+    "id": "math-093",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫x·cosx dx。",
+    "options": [],
+    "answer": "x·sinx+cosx+C",
+    "explanation": "分部积分：∫x·cosx dx=x·sinx-∫sinx dx=x·sinx+cosx+C。",
+    "difficulty": 3,
+    "tags": [
+      "分部积分法"
+    ]
+  },
+  {
+    "id": "math-094",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫1/(x²+2x+2) dx。",
+    "options": [],
+    "answer": "arctan(x+1)+C",
+    "explanation": "配方 x²+2x+2=(x+1)²+1，原式=arctan(x+1)+C。",
+    "difficulty": 3,
+    "tags": [
+      "配方与基本积分公式"
+    ]
+  },
+  {
+    "id": "math-095",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫x·√(x²+1) dx。",
+    "options": [],
+    "answer": "(1/3)(x²+1)^(3/2)+C",
+    "explanation": "原式=(1/2)∫√(x²+1) d(x²+1)=(1/3)(x²+1)^(3/2)+C。",
+    "difficulty": 3,
+    "tags": [
+      "第一类换元法"
+    ]
+  },
+  {
+    "id": "math-096",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫1/(x²-1) dx。",
+    "options": [],
+    "answer": "(1/2)ln|(x-1)/(x+1)|+C",
+    "explanation": "1/(x²-1)=(1/2)[1/(x-1)-1/(x+1)]，分项积分得 (1/2)ln|(x-1)/(x+1)|+C。",
+    "difficulty": 4,
+    "tags": [
+      "有理函数的积分"
+    ]
+  },
+  {
+    "id": "math-097",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫e^x·sinx dx。",
+    "options": [],
+    "answer": "(e^x/2)(sinx-cosx)+C",
+    "explanation": "两次分部积分得 I=e^x·sinx-e^x·cosx-I，解出 I=(e^x/2)(sinx-cosx)+C。",
+    "difficulty": 5,
+    "tags": [
+      "分部积分法（循环型）"
+    ]
+  },
+  {
+    "id": "math-098",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫x²·e^x dx。",
+    "options": [],
+    "answer": "e^x(x²-2x+2)+C",
+    "explanation": "两次分部积分：∫x²e^x dx=x²e^x-2∫xe^x dx=x²e^x-2(x-1)e^x+C=e^x(x²-2x+2)+C。",
+    "difficulty": 3,
+    "tags": [
+      "分部积分法"
+    ]
+  },
+  {
+    "id": "math-099",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫(x+1)/(x²+2x+5) dx。",
+    "options": [],
+    "answer": "(1/2)ln(x²+2x+5)+C",
+    "explanation": "x+1=(1/2)(2x+2)=(1/2)(x²+2x+5)'，故原式=(1/2)ln(x²+2x+5)+C。",
+    "difficulty": 3,
+    "tags": [
+      "凑微分法"
+    ]
+  },
+  {
+    "id": "math-100",
+    "subjectId": "math",
+    "chapter": "第四章 不定积分",
+    "type": "简答",
+    "stem": "求不定积分 ∫1/(1+√x) dx。",
+    "options": [],
+    "answer": "2√x-2ln(1+√x)+C",
+    "explanation": "令 t=√x，x=t²，dx=2t dt，原式=∫2t/(1+t) dt=∫[2-2/(1+t)]dt=2t-2ln(1+t)+C=2√x-2ln(1+√x)+C。",
+    "difficulty": 4,
+    "tags": [
+      "第二类换元法"
+    ]
+  },
+  {
+    "id": "math-101",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "单选",
+    "stem": "∫₀¹ x dx =（ ）。",
+    "options": [
+      "1",
+      "1/2",
+      "2",
+      "1/4"
+    ],
+    "answer": "B",
+    "explanation": "∫₀¹ x dx=[x²/2]₀¹=1/2。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-102",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "单选",
+    "stem": "∫₀^π sinx dx =（ ）。",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "π"
+    ],
+    "answer": "C",
+    "explanation": "∫₀^π sinx dx=[-cosx]₀^π=1+1=2。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-103",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "单选",
+    "stem": "设 F(x)=∫₀^x sint dt，则 F'(x) =（ ）。",
+    "options": [
+      "sinx",
+      "cosx",
+      "-cosx",
+      "sinx-1"
+    ],
+    "answer": "A",
+    "explanation": "变上限积分求导：F'(x)=sinx。",
+    "difficulty": 2,
+    "tags": [
+      "变限积分的导数"
+    ]
+  },
+  {
+    "id": "math-104",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "单选",
+    "stem": "∫₋₁¹ x³ dx =（ ）。",
+    "options": [
+      "1/4",
+      "1/2",
+      "0",
+      "2"
+    ],
+    "answer": "C",
+    "explanation": "x³ 是奇函数，对称区间上积分为 0。",
+    "difficulty": 3,
+    "tags": [
+      "奇偶函数在对称区间上的积分"
+    ]
+  },
+  {
+    "id": "math-105",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "单选",
+    "stem": "∫₀¹ e^x dx =（ ）。",
+    "options": [
+      "e",
+      "e-1",
+      "e+1",
+      "1"
+    ],
+    "answer": "B",
+    "explanation": "∫₀¹ e^x dx=[e^x]₀¹=e-1。",
+    "difficulty": 2,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-106",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "单选",
+    "stem": "反常积分 ∫₁^(+∞) 1/x² dx =（ ）。",
+    "options": [
+      "1",
+      "发散",
+      "2",
+      "1/2"
+    ],
+    "answer": "A",
+    "explanation": "∫₁^(+∞) x^(-2) dx=lim(b→∞)[-1/x]₁^b=0-(-1)=1。",
+    "difficulty": 4,
+    "tags": [
+      "反常积分"
+    ]
+  },
+  {
+    "id": "math-107",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "填空",
+    "stem": "∫₀² (x+1) dx = ______。",
+    "options": [],
+    "answer": "4",
+    "explanation": "原式=[x²/2+x]₀²=2+2=4。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-108",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "填空",
+    "stem": "∫₀¹ x² dx = ______。",
+    "options": [],
+    "answer": "1/3",
+    "explanation": "原式=[x³/3]₀¹=1/3。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-109",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "填空",
+    "stem": "设 F(x)=∫₀^(x²) e^t dt，则 F'(x) = ______。",
+    "options": [],
+    "answer": "2x·e^(x²)",
+    "explanation": "复合变限求导：F'(x)=e^(x²)·(x²)'=2x·e^(x²)。",
+    "difficulty": 3,
+    "tags": [
+      "变限积分的导数"
+    ]
+  },
+  {
+    "id": "math-110",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "填空",
+    "stem": "∫₀^(π/2) cosx dx = ______。",
+    "options": [],
+    "answer": "1",
+    "explanation": "原式=[sinx]₀^(π/2)=1-0=1。",
+    "difficulty": 2,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-111",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "填空",
+    "stem": "∫₀^π x·sinx dx = ______。",
+    "options": [],
+    "answer": "π",
+    "explanation": "分部积分：原式=[-x·cosx]₀^π+∫₀^π cosx dx=π+0=π。",
+    "difficulty": 3,
+    "tags": [
+      "定积分的分部积分"
+    ]
+  },
+  {
+    "id": "math-112",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "填空",
+    "stem": "∫₋₁¹ (x²+x³) dx = ______。",
+    "options": [],
+    "answer": "2/3",
+    "explanation": "x³ 为奇函数积分为 0，原式=∫₋₁¹ x² dx=[x³/3]₋₁¹=2/3。",
+    "difficulty": 3,
+    "tags": [
+      "对称性与奇偶性"
+    ]
+  },
+  {
+    "id": "math-113",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₁² (2x+1) dx。",
+    "options": [],
+    "answer": "4",
+    "explanation": "原式=[x²+x]₁²=(4+2)-(1+1)=4。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-114",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀¹ x³ dx。",
+    "options": [],
+    "answer": "1/4",
+    "explanation": "原式=[x⁴/4]₀¹=1/4。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-115",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀^(π/2) sinx dx。",
+    "options": [],
+    "answer": "1",
+    "explanation": "原式=[-cosx]₀^(π/2)=0-(-1)=1。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-116",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀^(ln2) e^x dx。",
+    "options": [],
+    "answer": "1",
+    "explanation": "原式=[e^x]₀^(ln2)=2-1=1。",
+    "difficulty": 1,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-117",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀¹ x·e^(x²) dx。",
+    "options": [],
+    "answer": "(e-1)/2",
+    "explanation": "原式=(1/2)∫₀¹ e^(x²) d(x²)=(1/2)[e^(x²)]₀¹=(e-1)/2。",
+    "difficulty": 3,
+    "tags": [
+      "定积分的换元法"
+    ]
+  },
+  {
+    "id": "math-118",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀^(π/2) sin²x dx。",
+    "options": [],
+    "answer": "π/4",
+    "explanation": "sin²x=(1-cos2x)/2，原式=[x/2-sin2x/4]₀^(π/2)=π/4。",
+    "difficulty": 3,
+    "tags": [
+      "降幂公式与定积分"
+    ]
+  },
+  {
+    "id": "math-119",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀¹ 1/(1+x²) dx。",
+    "options": [],
+    "answer": "π/4",
+    "explanation": "原式=[arctanx]₀¹=π/4。",
+    "difficulty": 3,
+    "tags": [
+      "牛顿-莱布尼茨公式"
+    ]
+  },
+  {
+    "id": "math-120",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₁^e lnx dx。",
+    "options": [],
+    "answer": "1",
+    "explanation": "分部积分：原式=[x·lnx-x]₁^e=(e-e)-(0-1)=1。",
+    "difficulty": 3,
+    "tags": [
+      "定积分的分部积分"
+    ]
+  },
+  {
+    "id": "math-121",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀^π x·cosx dx。",
+    "options": [],
+    "answer": "-2",
+    "explanation": "分部积分：原式=[x·sinx]₀^π+[cosx]₀^π=0+(-1-1)=-2。",
+    "difficulty": 4,
+    "tags": [
+      "定积分的分部积分"
+    ]
+  },
+  {
+    "id": "math-122",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀¹ √(1-x²) dx。",
+    "options": [],
+    "answer": "π/4",
+    "explanation": "该积分表示单位圆面积的四分之一（或令 x=sint 换元），故为 π/4。",
+    "difficulty": 4,
+    "tags": [
+      "定积分的几何意义/换元法"
+    ]
+  },
+  {
+    "id": "math-123",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "设 f(x)=∫₀^x (t-1)(t-2) dt，求 f(x) 的极值点，并指出是极大值点还是极小值点。",
+    "options": [],
+    "answer": "x=1 为极大值点，x=2 为极小值点",
+    "explanation": "f'(x)=(x-1)(x-2)，x<1 时 f'>0，1<x<2 时 f'<0，x>2 时 f'>0，故 x=1 取极大值，x=2 取极小值。",
+    "difficulty": 3,
+    "tags": [
+      "变限积分函数的极值"
+    ]
+  },
+  {
+    "id": "math-124",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "求极限 lim(x→0) [∫₀^x sint dt]/x²。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "0/0 型，洛必达：原式=lim sinx/(2x)=1/2。",
+    "difficulty": 3,
+    "tags": [
+      "变限积分与洛必达法则"
+    ]
+  },
+  {
+    "id": "math-125",
+    "subjectId": "math",
+    "chapter": "第五章 定积分",
+    "type": "简答",
+    "stem": "计算定积分 ∫₀¹ x(1-x)^10 dx。",
+    "options": [],
+    "answer": "1/132",
+    "explanation": "令 t=1-x，原式=∫₀¹ (1-t)t^10 dt=1/11-1/12=1/132。",
+    "difficulty": 5,
+    "tags": [
+      "定积分的换元法"
+    ]
+  },
+  {
+    "id": "math-126",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "单选",
+    "stem": "由曲线 y=x²、x 轴及直线 x=1 所围图形的面积为（ ）。",
+    "options": [
+      "1/3",
+      "1/2",
+      "1",
+      "2/3"
+    ],
+    "answer": "A",
+    "explanation": "面积 S=∫₀¹ x² dx=1/3。",
+    "difficulty": 1,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-127",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "单选",
+    "stem": "由曲线 y=x² 与直线 y=x 所围图形的面积为（ ）。",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": "A",
+    "explanation": "交点 x=0,1，S=∫₀¹(x-x²)dx=1/2-1/3=1/6。",
+    "difficulty": 1,
+    "tags": [
+      "两曲线间的面积"
+    ]
+  },
+  {
+    "id": "math-128",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "单选",
+    "stem": "由曲线 y=e^x、直线 x=0、x=1 及 x 轴所围图形的面积为（ ）。",
+    "options": [
+      "e",
+      "e-1",
+      "1",
+      "e+1"
+    ],
+    "answer": "B",
+    "explanation": "S=∫₀¹ e^x dx=e-1。",
+    "difficulty": 1,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-129",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "单选",
+    "stem": "曲线 y=x²（0≤x≤1）绕 x 轴旋转一周所得旋转体的体积为（ ）。",
+    "options": [
+      "π/3",
+      "π/5",
+      "π/2",
+      "π/7"
+    ],
+    "answer": "B",
+    "explanation": "V=π∫₀¹(x²)²dx=π∫₀¹x⁴dx=π/5。",
+    "difficulty": 3,
+    "tags": [
+      "旋转体的体积"
+    ]
+  },
+  {
+    "id": "math-130",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "单选",
+    "stem": "曲线 y=√x（0≤x≤1）绕 x 轴旋转一周所得旋转体的体积为（ ）。",
+    "options": [
+      "π/2",
+      "π/3",
+      "π",
+      "2π/3"
+    ],
+    "answer": "A",
+    "explanation": "V=π∫₀¹(√x)²dx=π∫₀¹x dx=π/2。",
+    "difficulty": 3,
+    "tags": [
+      "旋转体的体积"
+    ]
+  },
+  {
+    "id": "math-131",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "单选",
+    "stem": "曲线 y=sinx（0≤x≤π）绕 x 轴旋转一周所得旋转体的体积为（ ）。",
+    "options": [
+      "π²",
+      "π²/2",
+      "2π",
+      "π²/4"
+    ],
+    "answer": "B",
+    "explanation": "V=π∫₀^π sin²x dx=π·π/2=π²/2。",
+    "difficulty": 4,
+    "tags": [
+      "旋转体的体积"
+    ]
+  },
+  {
+    "id": "math-132",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "填空",
+    "stem": "由曲线 y=cosx（0≤x≤π/2）与两坐标轴所围图形的面积为 ______。",
+    "options": [],
+    "answer": "1",
+    "explanation": "S=∫₀^(π/2) cosx dx=1。",
+    "difficulty": 1,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-133",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "填空",
+    "stem": "由直线 y=2x、x 轴及 x=2 所围图形的面积为 ______。",
+    "options": [],
+    "answer": "4",
+    "explanation": "S=∫₀² 2x dx=[x²]₀²=4。",
+    "difficulty": 1,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-134",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "填空",
+    "stem": "由曲线 y=x² 与 y=2-x² 所围图形的面积为 ______。",
+    "options": [],
+    "answer": "8/3",
+    "explanation": "交点 x=±1，S=∫₋₁¹(2-2x²)dx=2·[2x-2x³/3]₀¹=2·(2-2/3)=8/3。",
+    "difficulty": 3,
+    "tags": [
+      "两曲线间的面积"
+    ]
+  },
+  {
+    "id": "math-135",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "填空",
+    "stem": "由曲线 y²=x 与直线 y=x-2 所围图形的面积为 ______。",
+    "options": [],
+    "answer": "9/2",
+    "explanation": "交点 y=-1,2，对 y 积分：S=∫₋₁²(y+2-y²)dy=[y²/2+2y-y³/3]₋₁²=9/2。",
+    "difficulty": 4,
+    "tags": [
+      "两曲线间的面积"
+    ]
+  },
+  {
+    "id": "math-136",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "填空",
+    "stem": "曲线 y=x²（0≤x≤1）绕 y 轴旋转一周所得旋转体的体积为 ______。",
+    "options": [],
+    "answer": "π/2",
+    "explanation": "柱壳法：V=2π∫₀¹ x·x² dx=2π·1/4=π/2。",
+    "difficulty": 3,
+    "tags": [
+      "旋转体的体积"
+    ]
+  },
+  {
+    "id": "math-137",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "填空",
+    "stem": "曲线 y=e^x（0≤x≤1）绕 x 轴旋转一周所得旋转体的体积为 ______。",
+    "options": [],
+    "answer": "π(e²-1)/2",
+    "explanation": "V=π∫₀¹ e^(2x) dx=π·[e^(2x)/2]₀¹=π(e²-1)/2。",
+    "difficulty": 4,
+    "tags": [
+      "旋转体的体积"
+    ]
+  },
+  {
+    "id": "math-138",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=x²、x 轴及直线 x=0、x=2 所围图形的面积。",
+    "options": [],
+    "answer": "8/3",
+    "explanation": "S=∫₀² x² dx=[x³/3]₀²=8/3。",
+    "difficulty": 1,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-139",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=√x、x 轴及直线 x=4 所围图形的面积。",
+    "options": [],
+    "answer": "16/3",
+    "explanation": "S=∫₀⁴ √x dx=[(2/3)x^(3/2)]₀⁴=(2/3)·8=16/3。",
+    "difficulty": 1,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-140",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求曲线 y=x³（0≤x≤1）绕 x 轴旋转一周所得旋转体的体积。",
+    "options": [],
+    "answer": "π/7",
+    "explanation": "V=π∫₀¹ x⁶ dx=π/7。",
+    "difficulty": 2,
+    "tags": [
+      "旋转体的体积"
+    ]
+  },
+  {
+    "id": "math-141",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=sinx（0≤x≤π）与 x 轴所围图形的面积。",
+    "options": [],
+    "answer": "2",
+    "explanation": "S=∫₀^π sinx dx=[-cosx]₀^π=2。",
+    "difficulty": 1,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-142",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=e^x、y=e^(-x) 及直线 x=1 所围图形的面积。",
+    "options": [],
+    "answer": "e+1/e-2",
+    "explanation": "两曲线交于 x=0，S=∫₀¹(e^x-e^(-x))dx=[e^x+e^(-x)]₀¹=e+1/e-2。",
+    "difficulty": 3,
+    "tags": [
+      "两曲线间的面积"
+    ]
+  },
+  {
+    "id": "math-143",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=x² 与 y=√x 所围图形的面积。",
+    "options": [],
+    "answer": "1/3",
+    "explanation": "交点 x=0,1，S=∫₀¹(√x-x²)dx=2/3-1/3=1/3。",
+    "difficulty": 3,
+    "tags": [
+      "两曲线间的面积"
+    ]
+  },
+  {
+    "id": "math-144",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=lnx、x 轴及直线 x=e 所围图形的面积。",
+    "options": [],
+    "answer": "1",
+    "explanation": "S=∫₁^e lnx dx=[x·lnx-x]₁^e=1。",
+    "difficulty": 3,
+    "tags": [
+      "定积分求面积"
+    ]
+  },
+  {
+    "id": "math-145",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=x² 与 y=x 所围图形绕 x 轴旋转一周所得旋转体的体积。",
+    "options": [],
+    "answer": "2π/15",
+    "explanation": "V=π∫₀¹(x²-x⁴)dx=π(1/3-1/5)=2π/15。",
+    "difficulty": 4,
+    "tags": [
+      "旋转体的体积（圆环法）"
+    ]
+  },
+  {
+    "id": "math-146",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求曲线 y=(2/3)x^(3/2) 上相应于 0≤x≤3 的一段弧的长度。",
+    "options": [],
+    "answer": "14/3",
+    "explanation": "y'=√x，弧长 s=∫₀³√(1+x)dx=[(2/3)(1+x)^(3/2)]₀³=(2/3)(8-1)=14/3。",
+    "difficulty": 4,
+    "tags": [
+      "平面曲线的弧长"
+    ]
+  },
+  {
+    "id": "math-147",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求函数 f(x)=x² 在区间 [0,2] 上的平均值。",
+    "options": [],
+    "answer": "4/3",
+    "explanation": "平均值=(1/2)∫₀² x² dx=(1/2)·(8/3)=4/3。",
+    "difficulty": 4,
+    "tags": [
+      "函数的平均值"
+    ]
+  },
+  {
+    "id": "math-148",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "求由曲线 y=x² 与直线 y=2x 所围图形的面积，以及该图形绕 x 轴旋转一周所得旋转体的体积。",
+    "options": [],
+    "answer": "面积 S=4/3；体积 V=64π/15",
+    "explanation": "交点 x=0,2。S=∫₀²(2x-x²)dx=4-8/3=4/3；V=π∫₀²(4x²-x⁴)dx=π(32/3-32/5)=64π/15。",
+    "difficulty": 3,
+    "tags": [
+      "面积与旋转体体积综合"
+    ]
+  },
+  {
+    "id": "math-149",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "过原点作曲线 y=lnx 的切线，求该切线、曲线 y=lnx 与 x 轴所围图形的面积。",
+    "options": [],
+    "answer": "e/2-1",
+    "explanation": "设切点 (a,lna)，切线 y=x/a 过原点得 lna=1，a=e，切线为 y=x/e。面积 S=∫₀¹(e^y-e·y)dy=[e^y-e·y²/2]₀¹=e/2-1。",
+    "difficulty": 4,
+    "tags": [
+      "切线与面积综合"
+    ]
+  },
+  {
+    "id": "math-150",
+    "subjectId": "math",
+    "chapter": "第六章 定积分的应用",
+    "type": "简答",
+    "stem": "设 D 为由 y=sinx、y=cosx、x=0、x=π/4 所围图形，求 D 的面积及 D 绕 x 轴旋转一周所得旋转体的体积。",
+    "options": [],
+    "answer": "面积 S=√2-1；体积 V=π/2",
+    "explanation": "S=∫₀^(π/4)(cosx-sinx)dx=[sinx+cosx]₀^(π/4)=√2-1；V=π∫₀^(π/4)(cos²x-sin²x)dx=π∫₀^(π/4)cos2x dx=π/2。",
+    "difficulty": 5,
+    "tags": [
+      "面积与旋转体体积综合"
+    ]
+  },
+  {
+    "id": "math-151",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "单选",
+    "stem": "微分方程 y'=y 的通解是（ ）。",
+    "options": [
+      "y=e^x+C",
+      "y=Ce^x",
+      "y=C+x",
+      "y=Ce^(-x)"
+    ],
+    "answer": "B",
+    "explanation": "分离变量 dy/y=dx，积分得 ln|y|=x+C₁，即 y=Ce^x。",
+    "difficulty": 1,
+    "tags": [
+      "可分离变量的微分方程"
+    ]
+  },
+  {
+    "id": "math-152",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "单选",
+    "stem": "微分方程 y''+y=0 的阶数是（ ）。",
+    "options": [
+      "一阶",
+      "二阶",
+      "三阶",
+      "无法确定"
+    ],
+    "answer": "B",
+    "explanation": "方程中最高阶导数为 y''，故为二阶微分方程。",
+    "difficulty": 1,
+    "tags": [
+      "微分方程的阶"
+    ]
+  },
+  {
+    "id": "math-153",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "单选",
+    "stem": "微分方程 y'=2x 的通解是（ ）。",
+    "options": [
+      "y=x²",
+      "y=x²+C",
+      "y=2x+C",
+      "y=2"
+    ],
+    "answer": "B",
+    "explanation": "直接积分 y=∫2x dx=x²+C。",
+    "difficulty": 1,
+    "tags": [
+      "微分方程的通解"
+    ]
+  },
+  {
+    "id": "math-154",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "单选",
+    "stem": "微分方程 y'+y=0 的通解是（ ）。",
+    "options": [
+      "y=Ce^x",
+      "y=Ce^(-x)",
+      "y=C-x",
+      "y=e^(-x)"
+    ],
+    "answer": "B",
+    "explanation": "分离变量得 y=Ce^(-x)。",
+    "difficulty": 2,
+    "tags": [
+      "可分离变量的微分方程"
+    ]
+  },
+  {
+    "id": "math-155",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "单选",
+    "stem": "微分方程 y''-3y'+2y=0 的通解是（ ）。",
+    "options": [
+      "y=C₁e^x+C₂e^(2x)",
+      "y=(C₁+C₂x)e^x",
+      "y=C₁e^(-x)+C₂e^(-2x)",
+      "y=C₁cosx+C₂sinx"
+    ],
+    "answer": "A",
+    "explanation": "特征方程 r²-3r+2=0，根 r=1,2，通解 y=C₁e^x+C₂e^(2x)。",
+    "difficulty": 3,
+    "tags": [
+      "二阶常系数齐次线性方程"
+    ]
+  },
+  {
+    "id": "math-156",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "单选",
+    "stem": "微分方程 y''+y=0 的通解是（ ）。",
+    "options": [
+      "y=C₁e^x+C₂e^(-x)",
+      "y=C₁cosx+C₂sinx",
+      "y=(C₁+C₂x)e^x",
+      "y=Ce^x"
+    ],
+    "answer": "B",
+    "explanation": "特征方程 r²+1=0，r=±i，通解 y=C₁cosx+C₂sinx。",
+    "difficulty": 4,
+    "tags": [
+      "二阶常系数齐次线性方程"
+    ]
+  },
+  {
+    "id": "math-157",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "填空",
+    "stem": "微分方程 y'=x 满足初始条件 y(0)=1 的特解为 ______。",
+    "options": [],
+    "answer": "y=x²/2+1",
+    "explanation": "y=x²/2+C，由 y(0)=1 得 C=1。",
+    "difficulty": 1,
+    "tags": [
+      "微分方程的初值问题"
+    ]
+  },
+  {
+    "id": "math-158",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "填空",
+    "stem": "微分方程 dy/dx=y/x 的通解为 ______。",
+    "options": [],
+    "answer": "y=Cx",
+    "explanation": "分离变量 dy/y=dx/x，ln|y|=ln|x|+C₁，即 y=Cx。",
+    "difficulty": 1,
+    "tags": [
+      "可分离变量的微分方程"
+    ]
+  },
+  {
+    "id": "math-159",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "填空",
+    "stem": "微分方程 y'=e^(x-y) 的通解为 ______。",
+    "options": [],
+    "answer": "e^y=e^x+C",
+    "explanation": "y'=e^x·e^(-y)，分离变量 e^y dy=e^x dx，积分得 e^y=e^x+C。",
+    "difficulty": 3,
+    "tags": [
+      "可分离变量的微分方程"
+    ]
+  },
+  {
+    "id": "math-160",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "填空",
+    "stem": "微分方程 y''=2x 满足 y(0)=y'(0)=0 的特解为 ______。",
+    "options": [],
+    "answer": "y=x³/3",
+    "explanation": "y'=x²+C₁，y'(0)=0 得 C₁=0；y=x³/3+C₂，y(0)=0 得 C₂=0。",
+    "difficulty": 3,
+    "tags": [
+      "可降阶的高阶微分方程"
+    ]
+  },
+  {
+    "id": "math-161",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "填空",
+    "stem": "微分方程 y'+2y=0 的通解为 ______。",
+    "options": [],
+    "answer": "y=Ce^(-2x)",
+    "explanation": "分离变量或用公式，通解 y=Ce^(-2x)。",
+    "difficulty": 2,
+    "tags": [
+      "一阶线性齐次方程"
+    ]
+  },
+  {
+    "id": "math-162",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "填空",
+    "stem": "微分方程 y''-y=0 的通解为 ______。",
+    "options": [],
+    "answer": "y=C₁e^x+C₂e^(-x)",
+    "explanation": "特征方程 r²-1=0，r=±1，通解 y=C₁e^x+C₂e^(-x)。",
+    "difficulty": 4,
+    "tags": [
+      "二阶常系数齐次线性方程"
+    ]
+  },
+  {
+    "id": "math-163",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y'=3x² 满足 y(0)=2 的特解。",
+    "options": [],
+    "answer": "y=x³+2",
+    "explanation": "y=x³+C，由 y(0)=2 得 C=2。",
+    "difficulty": 1,
+    "tags": [
+      "初值问题"
+    ]
+  },
+  {
+    "id": "math-164",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y'=cosx 的通解。",
+    "options": [],
+    "answer": "y=sinx+C",
+    "explanation": "直接积分 y=∫cosx dx=sinx+C。",
+    "difficulty": 1,
+    "tags": [
+      "直接积分法"
+    ]
+  },
+  {
+    "id": "math-165",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y'=xy 的通解。",
+    "options": [],
+    "answer": "y=Ce^(x²/2)",
+    "explanation": "分离变量 dy/y=x dx，ln|y|=x²/2+C₁，即 y=Ce^(x²/2)。",
+    "difficulty": 1,
+    "tags": [
+      "可分离变量的微分方程"
+    ]
+  },
+  {
+    "id": "math-166",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 x·dy+y·dx=0 的通解。",
+    "options": [],
+    "answer": "xy=C",
+    "explanation": "即 y'=-y/x，分离变量得 ln|y|=-ln|x|+C₁，即 xy=C。",
+    "difficulty": 3,
+    "tags": [
+      "可分离变量的微分方程"
+    ]
+  },
+  {
+    "id": "math-167",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求一阶线性微分方程 y'+y=e^x 的通解。",
+    "options": [],
+    "answer": "y=e^x/2+Ce^(-x)",
+    "explanation": "积分因子 e^x，(y·e^x)'=e^(2x)，y·e^x=e^(2x)/2+C，故 y=e^x/2+Ce^(-x)。",
+    "difficulty": 3,
+    "tags": [
+      "一阶线性非齐次方程"
+    ]
+  },
+  {
+    "id": "math-168",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y''-5y'+6y=0 的通解。",
+    "options": [],
+    "answer": "y=C₁e^(2x)+C₂e^(3x)",
+    "explanation": "特征方程 r²-5r+6=0，根 r=2,3，通解 y=C₁e^(2x)+C₂e^(3x)。",
+    "difficulty": 3,
+    "tags": [
+      "二阶常系数齐次线性方程"
+    ]
+  },
+  {
+    "id": "math-169",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求齐次微分方程 y'=1+y/x 的通解。",
+    "options": [],
+    "answer": "y=x·ln|x|+Cx",
+    "explanation": "令 v=y/x，则 v+x·v'=1+v，v'=1/x，v=ln|x|+C，故 y=x·ln|x|+Cx。",
+    "difficulty": 3,
+    "tags": [
+      "齐次方程"
+    ]
+  },
+  {
+    "id": "math-170",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y''+4y=0 的通解。",
+    "options": [],
+    "answer": "y=C₁cos2x+C₂sin2x",
+    "explanation": "特征方程 r²+4=0，r=±2i，通解 y=C₁cos2x+C₂sin2x。",
+    "difficulty": 4,
+    "tags": [
+      "二阶常系数齐次线性方程"
+    ]
+  },
+  {
+    "id": "math-171",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求一阶线性微分方程 y'+y=x 的通解。",
+    "options": [],
+    "answer": "y=x-1+Ce^(-x)",
+    "explanation": "积分因子 e^x，(y·e^x)'=x·e^x，积分得 y·e^x=(x-1)e^x+C，故 y=x-1+Ce^(-x)。",
+    "difficulty": 4,
+    "tags": [
+      "一阶线性非齐次方程"
+    ]
+  },
+  {
+    "id": "math-172",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y''-2y'+y=0 的通解。",
+    "options": [],
+    "answer": "y=(C₁+C₂x)e^x",
+    "explanation": "特征方程 r²-2r+1=0 有重根 r=1，通解 y=(C₁+C₂x)e^x。",
+    "difficulty": 4,
+    "tags": [
+      "二阶常系数齐次线性方程（重根）"
+    ]
+  },
+  {
+    "id": "math-173",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y'=2xy 满足 y(0)=1 的特解，并求 y(1)。",
+    "options": [],
+    "answer": "y=e^(x²)，y(1)=e",
+    "explanation": "分离变量得 y=Ce^(x²)，y(0)=1 得 C=1，故 y=e^(x²)，y(1)=e。",
+    "difficulty": 3,
+    "tags": [
+      "初值问题"
+    ]
+  },
+  {
+    "id": "math-174",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "求微分方程 y''-y'-2y=0 满足 y(0)=0，y'(0)=3 的特解。",
+    "options": [],
+    "answer": "y=e^(2x)-e^(-x)",
+    "explanation": "特征根 r=2,-1，通解 y=C₁e^(2x)+C₂e^(-x)；由初值得 C₁+C₂=0，2C₁-C₂=3，解得 C₁=1，C₂=-1。",
+    "difficulty": 3,
+    "tags": [
+      "二阶常系数方程初值问题"
+    ]
+  },
+  {
+    "id": "math-175",
+    "subjectId": "math",
+    "chapter": "第七章 微分方程",
+    "type": "简答",
+    "stem": "一曲线过点 (1,1)，且其上任一点 (x,y) 处切线的斜率为 y/x+1，求该曲线方程（x>0）。",
+    "options": [],
+    "answer": "y=x·lnx+x",
+    "explanation": "解 y'=y/x+1，令 v=y/x 得 v'=1/x，v=lnx+C，y=x·lnx+Cx；代入 (1,1) 得 C=1。",
+    "difficulty": 5,
+    "tags": [
+      "微分方程的几何应用"
+    ]
+  },
+  {
+    "id": "math-176",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "单选",
+    "stem": "设向量 a=(1,2,3)，b=(1,0,1)，则 a·b =（ ）。",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "B",
+    "explanation": "a·b=1×1+2×0+3×1=4。",
+    "difficulty": 1,
+    "tags": [
+      "向量的数量积"
+    ]
+  },
+  {
+    "id": "math-177",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "单选",
+    "stem": "设 i、j、k 为基本单位向量，则 i×j =（ ）。",
+    "options": [
+      "i",
+      "j",
+      "k",
+      "-k"
+    ],
+    "answer": "C",
+    "explanation": "由右手坐标系中向量积的定义，i×j=k。",
+    "difficulty": 1,
+    "tags": [
+      "向量的向量积"
+    ]
+  },
+  {
+    "id": "math-178",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "单选",
+    "stem": "点 (1,2,3) 到原点的距离为（ ）。",
+    "options": [
+      "6",
+      "√14",
+      "14",
+      "√6"
+    ],
+    "answer": "B",
+    "explanation": "距离 d=√(1²+2²+3²)=√14。",
+    "difficulty": 1,
+    "tags": [
+      "两点间的距离"
+    ]
+  },
+  {
+    "id": "math-179",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "单选",
+    "stem": "设 a=(1,1,0)，b=(0,1,1)，则 a×b =（ ）。",
+    "options": [
+      "(1,1,1)",
+      "(1,-1,1)",
+      "(-1,1,1)",
+      "(1,1,-1)"
+    ],
+    "answer": "B",
+    "explanation": "按行列式展开：a×b=(1·1-0·1, 0·0-1·1, 1·1-1·0)=(1,-1,1)。",
+    "difficulty": 3,
+    "tags": [
+      "向量的向量积"
+    ]
+  },
+  {
+    "id": "math-180",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "单选",
+    "stem": "平面 x+y+z=1 的一个法向量为（ ）。",
+    "options": [
+      "(1,0,0)",
+      "(1,1,1)",
+      "(0,1,1)",
+      "(1,-1,0)"
+    ],
+    "answer": "B",
+    "explanation": "平面 Ax+By+Cz=D 的法向量为 (A,B,C)，即 (1,1,1)。",
+    "difficulty": 2,
+    "tags": [
+      "平面的法向量"
+    ]
+  },
+  {
+    "id": "math-181",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "单选",
+    "stem": "平面 x+y+z=1 与平面 x-y+z=3 的夹角余弦为（ ）。",
+    "options": [
+      "1/3",
+      "1/2",
+      "√3/3",
+      "2/3"
+    ],
+    "answer": "A",
+    "explanation": "cosθ=|n₁·n₂|/(|n₁||n₂|)=|1-1+1|/(√3·√3)=1/3。",
+    "difficulty": 4,
+    "tags": [
+      "两平面的夹角"
+    ]
+  },
+  {
+    "id": "math-182",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "填空",
+    "stem": "向量 a=(1,-2,2) 的模 |a| = ______。",
+    "options": [],
+    "answer": "3",
+    "explanation": "|a|=√(1+4+4)=3。",
+    "difficulty": 1,
+    "tags": [
+      "向量的模"
+    ]
+  },
+  {
+    "id": "math-183",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "填空",
+    "stem": "平面 2x-y+3z=6 在 x 轴上的截距为 ______。",
+    "options": [],
+    "answer": "3",
+    "explanation": "令 y=z=0，得 2x=6，x=3。",
+    "difficulty": 2,
+    "tags": [
+      "平面方程"
+    ]
+  },
+  {
+    "id": "math-184",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "填空",
+    "stem": "过点 (1,0,1) 且以 (1,2,3) 为法向量的平面方程为 ______。",
+    "options": [],
+    "answer": "x+2y+3z=4",
+    "explanation": "点法式：(x-1)+2(y-0)+3(z-1)=0，即 x+2y+3z=4。",
+    "difficulty": 3,
+    "tags": [
+      "平面的点法式方程"
+    ]
+  },
+  {
+    "id": "math-185",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "填空",
+    "stem": "直线 (x-1)/2=(y+1)/3=z/(-1) 的方向向量为 ______。",
+    "options": [],
+    "answer": "(2,3,-1)",
+    "explanation": "对称式方程中分母即方向向量的坐标。",
+    "difficulty": 2,
+    "tags": [
+      "直线的对称式方程"
+    ]
+  },
+  {
+    "id": "math-186",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "填空",
+    "stem": "点 (1,1,1) 到平面 x+y+z=6 的距离为 ______。",
+    "options": [],
+    "answer": "√3",
+    "explanation": "d=|1+1+1-6|/√3=3/√3=√3。",
+    "difficulty": 3,
+    "tags": [
+      "点到平面的距离"
+    ]
+  },
+  {
+    "id": "math-187",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "填空",
+    "stem": "过点 (1,2,3) 与 (2,3,4) 的直线方程为 ______。",
+    "options": [],
+    "answer": "(x-1)/1=(y-2)/1=(z-3)/1",
+    "explanation": "方向向量为两点之差 (1,1,1)，由对称式即得。",
+    "difficulty": 4,
+    "tags": [
+      "直线的对称式方程"
+    ]
+  },
+  {
+    "id": "math-188",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "设 a=(2,1,-1)，b=(1,-1,2)，求 a·b。",
+    "options": [],
+    "answer": "-1",
+    "explanation": "a·b=2×1+1×(-1)+(-1)×2=-1。",
+    "difficulty": 1,
+    "tags": [
+      "向量的数量积"
+    ]
+  },
+  {
+    "id": "math-189",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "设 a=(1,0,1)，b=(1,1,0)，求 a×b。",
+    "options": [],
+    "answer": "(-1,1,1)",
+    "explanation": "a×b=(0·0-1·1, 1·1-1·0, 1·1-0·1)=(-1,1,1)。",
+    "difficulty": 2,
+    "tags": [
+      "向量的向量积"
+    ]
+  },
+  {
+    "id": "math-190",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求向量 a=(1,2,2) 的方向余弦。",
+    "options": [],
+    "answer": "cosα=1/3，cosβ=2/3，cosγ=2/3",
+    "explanation": "|a|=3，方向余弦为各坐标除以模：1/3，2/3，2/3。",
+    "difficulty": 2,
+    "tags": [
+      "方向余弦"
+    ]
+  },
+  {
+    "id": "math-191",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "将平面方程 3x-2y+z-12=0 化为截距式，并写出各截距。",
+    "options": [],
+    "answer": "x/4+y/(-6)+z/12=1，截距分别为 4、-6、12",
+    "explanation": "移项 3x-2y+z=12，两边除 12 得截距式，截距为 4、-6、12。",
+    "difficulty": 2,
+    "tags": [
+      "平面的截距式方程"
+    ]
+  },
+  {
+    "id": "math-192",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求过点 (1,1,1) 且与平面 x+y+z=1 平行的平面方程。",
+    "options": [],
+    "answer": "x+y+z=3",
+    "explanation": "平行平面法向量相同 (1,1,1)，代入点得 x+y+z=3。",
+    "difficulty": 3,
+    "tags": [
+      "平面的位置关系"
+    ]
+  },
+  {
+    "id": "math-193",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求直线 (x-2)/1=(y-3)/2=(z-1)/3 与平面 x+y+z=6 的交点。",
+    "options": [],
+    "answer": "(2,3,1)",
+    "explanation": "设参数 t：(2+t,3+2t,1+3t) 代入平面方程得 6+6t=6，t=0，交点为 (2,3,1)。",
+    "difficulty": 3,
+    "tags": [
+      "直线与平面的交点"
+    ]
+  },
+  {
+    "id": "math-194",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求点 (2,1,0) 到直线 x/1=y/1=z/1 的距离。",
+    "options": [],
+    "answer": "√2",
+    "explanation": "直线过原点、方向 s=(1,1,1)，v=(2,1,0)，v×s=(1,-2,1)，d=|v×s|/|s|=√6/√3=√2。",
+    "difficulty": 3,
+    "tags": [
+      "点到直线的距离"
+    ]
+  },
+  {
+    "id": "math-195",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求球面 x²+y²+z²-2x+4y=0 的球心和半径。",
+    "options": [],
+    "answer": "球心 (1,-2,0)，半径 √5",
+    "explanation": "配方：(x-1)²+(y+2)²+z²=5，球心 (1,-2,0)，半径 √5。",
+    "difficulty": 3,
+    "tags": [
+      "球面方程"
+    ]
+  },
+  {
+    "id": "math-196",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求过点 (1,1,1) 且与直线 x/1=y/2=z/3 垂直的平面方程。",
+    "options": [],
+    "answer": "x+2y+3z=6",
+    "explanation": "直线方向向量 (1,2,3) 即所求平面法向量，点法式得 x+2y+3z=6。",
+    "difficulty": 4,
+    "tags": [
+      "直线与平面垂直"
+    ]
+  },
+  {
+    "id": "math-197",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求直线 x+y+z=1 与 x-y+z=3 交线的方向向量。",
+    "options": [],
+    "answer": "(1,0,-1)（或其倍数，如 (2,0,-2)）",
+    "explanation": "方向向量 s=n₁×n₂=(1,1,1)×(1,-1,1)=(2,0,-2)，与 (1,0,-1) 平行。",
+    "difficulty": 4,
+    "tags": [
+      "直线的一般方程"
+    ]
+  },
+  {
+    "id": "math-198",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求过三点 (1,0,1)、(0,1,1)、(1,1,0) 的平面方程。",
+    "options": [],
+    "answer": "x+y+z=2",
+    "explanation": "两向量 u=(-1,1,0)，v=(0,1,-1)，法向量 u×v=(-1,-1,-1)，平面为 x+y+z=2（代入三点均成立）。",
+    "difficulty": 3,
+    "tags": [
+      "三点确定平面"
+    ]
+  },
+  {
+    "id": "math-199",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "判定直线 (x-1)/1=y/(-1)=(z+1)/2 与平面 x-y+2z=1 的位置关系，若相交求交点。",
+    "options": [],
+    "answer": "直线与平面垂直相交，交点为 (4/3,-1/3,-1/3)",
+    "explanation": "方向向量 s=(1,-1,2) 与法向量 n=(1,-1,2) 平行，故直线垂直于平面；参数代入解得 t=1/3，交点 (4/3,-1/3,-1/3)。",
+    "difficulty": 3,
+    "tags": [
+      "直线与平面的位置关系"
+    ]
+  },
+  {
+    "id": "math-200",
+    "subjectId": "math",
+    "chapter": "第八章 向量代数与空间解析几何",
+    "type": "简答",
+    "stem": "求点 (1,2,3) 关于平面 x+y+z=1 的对称点。",
+    "options": [],
+    "answer": "(-7/3,-4/3,-1/3)",
+    "explanation": "将点坐标代入平面左端得 5，对称点=点-2×(5/3)×(1,1,1)=(-7/3,-4/3,-1/3)。",
+    "difficulty": 5,
+    "tags": [
+      "点关于平面的对称点"
+    ]
+  },
+  {
+    "id": "math-201",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "单选",
+    "stem": "设 z=x²+y²，则 ∂z/∂x =（ ）。",
+    "options": [
+      "2x",
+      "2y",
+      "x²",
+      "2x+2y"
+    ],
+    "answer": "A",
+    "explanation": "对 x 求偏导时 y 视为常数，∂z/∂x=2x。",
+    "difficulty": 1,
+    "tags": [
+      "偏导数的计算"
+    ]
+  },
+  {
+    "id": "math-202",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "单选",
+    "stem": "设 z=xy，则 ∂z/∂y =（ ）。",
+    "options": [
+      "y",
+      "x",
+      "xy",
+      "1"
+    ],
+    "answer": "B",
+    "explanation": "对 y 求偏导时 x 视为常数，∂z/∂y=x。",
+    "difficulty": 1,
+    "tags": [
+      "偏导数的计算"
+    ]
+  },
+  {
+    "id": "math-203",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "单选",
+    "stem": "设 z=e^(xy)，则 ∂z/∂x =（ ）。",
+    "options": [
+      "e^(xy)",
+      "x·e^(xy)",
+      "y·e^(xy)",
+      "xy·e^(xy)"
+    ],
+    "answer": "C",
+    "explanation": "链式法则：∂z/∂x=e^(xy)·y=y·e^(xy)。",
+    "difficulty": 2,
+    "tags": [
+      "复合函数偏导数"
+    ]
+  },
+  {
+    "id": "math-204",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "单选",
+    "stem": "设 z=sin(xy)，则 ∂²z/∂x∂y =（ ）。",
+    "options": [
+      "cos(xy)-xy·sin(xy)",
+      "cos(xy)",
+      "-xy·sin(xy)",
+      "y·cos(xy)"
+    ],
+    "answer": "A",
+    "explanation": "∂z/∂x=y·cos(xy)，再对 y 求导得 cos(xy)-xy·sin(xy)。",
+    "difficulty": 3,
+    "tags": [
+      "高阶偏导数"
+    ]
+  },
+  {
+    "id": "math-205",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "单选",
+    "stem": "函数 f(x,y) 在点 (x₀,y₀) 处可微是 f(x,y) 在该点偏导数存在的（ ）。",
+    "options": [
+      "充分不必要条件",
+      "必要不充分条件",
+      "充要条件",
+      "无关条件"
+    ],
+    "answer": "A",
+    "explanation": "可微必偏导存在，但偏导存在不一定可微。",
+    "difficulty": 4,
+    "tags": [
+      "可微与偏导数的关系"
+    ]
+  },
+  {
+    "id": "math-206",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "单选",
+    "stem": "函数 z=x³+y³-3xy 的极小值点为（ ）。",
+    "options": [
+      "(0,0)",
+      "(1,1)",
+      "(-1,-1)",
+      "(1,-1)"
+    ],
+    "answer": "B",
+    "explanation": "驻点 (0,0)、(1,1)；在 (1,1) 处 AC-B²=36-9>0 且 A=6>0，为极小值点。",
+    "difficulty": 4,
+    "tags": [
+      "二元函数的极值"
+    ]
+  },
+  {
+    "id": "math-207",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "填空",
+    "stem": "设 z=x²y，则 ∂z/∂x = ______。",
+    "options": [],
+    "answer": "2xy",
+    "explanation": "对 x 求偏导时 y 视为常数，∂z/∂x=2xy。",
+    "difficulty": 1,
+    "tags": [
+      "偏导数的计算"
+    ]
+  },
+  {
+    "id": "math-208",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "填空",
+    "stem": "设 z=x/y，则 ∂z/∂y = ______。",
+    "options": [],
+    "answer": "-x/y²",
+    "explanation": "z=x·y^(-1)，∂z/∂y=-x/y²。",
+    "difficulty": 1,
+    "tags": [
+      "偏导数的计算"
+    ]
+  },
+  {
+    "id": "math-209",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "填空",
+    "stem": "函数 z=x²+xy+y² 在点 (1,1) 处的全微分 dz = ______。",
+    "options": [],
+    "answer": "3dx+3dy",
+    "explanation": "∂z/∂x=2x+y=3，∂z/∂y=x+2y=3，dz=3dx+3dy。",
+    "difficulty": 3,
+    "tags": [
+      "全微分"
+    ]
+  },
+  {
+    "id": "math-210",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "填空",
+    "stem": "设 z=e^x·siny，则 ∂²z/∂x² = ______。",
+    "options": [],
+    "answer": "e^x·siny",
+    "explanation": "对 x 求偏导 e^x 不变，∂²z/∂x²=e^x·siny。",
+    "difficulty": 2,
+    "tags": [
+      "高阶偏导数"
+    ]
+  },
+  {
+    "id": "math-211",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "填空",
+    "stem": "设 z=z(x,y) 由方程 x²+y²+z²=1 确定，则 ∂z/∂x = ______。",
+    "options": [],
+    "answer": "-x/z",
+    "explanation": "两边对 x 求偏导：2x+2z·∂z/∂x=0，得 ∂z/∂x=-x/z。",
+    "difficulty": 3,
+    "tags": [
+      "隐函数求偏导"
+    ]
+  },
+  {
+    "id": "math-212",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "填空",
+    "stem": "设 z=f(x²+y²)，f 可导，则 ∂z/∂x = ______。",
+    "options": [],
+    "answer": "2x·f'(x²+y²)",
+    "explanation": "链式法则：∂z/∂x=f'(x²+y²)·2x。",
+    "difficulty": 4,
+    "tags": [
+      "抽象复合函数求偏导"
+    ]
+  },
+  {
+    "id": "math-213",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=x³+2xy，求 ∂z/∂x 与 ∂z/∂y。",
+    "options": [],
+    "answer": "∂z/∂x=3x²+2y，∂z/∂y=2x",
+    "explanation": "分别将 y、x 视为常数求偏导即得。",
+    "difficulty": 1,
+    "tags": [
+      "偏导数的计算"
+    ]
+  },
+  {
+    "id": "math-214",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=ln(x+y)，求 ∂z/∂x。",
+    "options": [],
+    "answer": "1/(x+y)",
+    "explanation": "链式法则：∂z/∂x=1/(x+y)·1=1/(x+y)。",
+    "difficulty": 1,
+    "tags": [
+      "复合函数偏导数"
+    ]
+  },
+  {
+    "id": "math-215",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=x·e^y，求在点 (1,0) 处的两个一阶偏导数。",
+    "options": [],
+    "answer": "∂z/∂x|(1,0)=1，∂z/∂y|(1,0)=1",
+    "explanation": "∂z/∂x=e^y，∂z/∂y=x·e^y，代入 (1,0) 均为 1。",
+    "difficulty": 1,
+    "tags": [
+      "偏导数的求值"
+    ]
+  },
+  {
+    "id": "math-216",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=√(x²+y²)，求 ∂z/∂x。",
+    "options": [],
+    "answer": "x/√(x²+y²)",
+    "explanation": "∂z/∂x=2x/[2√(x²+y²)]=x/√(x²+y²)。",
+    "difficulty": 2,
+    "tags": [
+      "复合函数偏导数"
+    ]
+  },
+  {
+    "id": "math-217",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=e^u，u=x²+y²，求 ∂z/∂x 与 ∂z/∂y。",
+    "options": [],
+    "answer": "∂z/∂x=2x·e^(x²+y²)，∂z/∂y=2y·e^(x²+y²)",
+    "explanation": "链式法则：∂z/∂x=e^u·∂u/∂x=2x·e^(x²+y²)，同理得 ∂z/∂y。",
+    "difficulty": 3,
+    "tags": [
+      "多元复合函数求导"
+    ]
+  },
+  {
+    "id": "math-218",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=z(x,y) 由方程 x+y+z=e^z 确定，求 ∂z/∂x。",
+    "options": [],
+    "answer": "1/(e^z-1)",
+    "explanation": "两边对 x 求偏导：1+∂z/∂x=e^z·∂z/∂x，解得 ∂z/∂x=1/(e^z-1)。",
+    "difficulty": 3,
+    "tags": [
+      "隐函数求偏导"
+    ]
+  },
+  {
+    "id": "math-219",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=xy+x/y（y≠0），求全微分 dz。",
+    "options": [],
+    "answer": "dz=(y+1/y)dx+(x-x/y²)dy",
+    "explanation": "∂z/∂x=y+1/y，∂z/∂y=x-x/y²，dz 为两者分别乘 dx、dy 之和。",
+    "difficulty": 3,
+    "tags": [
+      "全微分"
+    ]
+  },
+  {
+    "id": "math-220",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=x²·siny，求 ∂²z/∂x∂y。",
+    "options": [],
+    "answer": "2x·cosy",
+    "explanation": "∂z/∂x=2x·siny，再对 y 求偏导得 2x·cosy。",
+    "difficulty": 3,
+    "tags": [
+      "混合偏导数"
+    ]
+  },
+  {
+    "id": "math-221",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=arctan(y/x)（x≠0），求 ∂z/∂x 与 ∂z/∂y。",
+    "options": [],
+    "answer": "∂z/∂x=-y/(x²+y²)，∂z/∂y=x/(x²+y²)",
+    "explanation": "∂z/∂x=[1/(1+(y/x)²)]·(-y/x²)=-y/(x²+y²)；∂z/∂y=[1/(1+(y/x)²)]·(1/x)=x/(x²+y²)。",
+    "difficulty": 4,
+    "tags": [
+      "复合函数偏导数"
+    ]
+  },
+  {
+    "id": "math-222",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "设 z=u²+lnv，u=x+y，v=xy，求 ∂z/∂x。",
+    "options": [],
+    "answer": "2(x+y)+1/x",
+    "explanation": "链式法则：∂z/∂x=2u·∂u/∂x+(1/v)·∂v/∂x=2(x+y)+y/(xy)=2(x+y)+1/x。",
+    "difficulty": 4,
+    "tags": [
+      "多元复合函数求导"
+    ]
+  },
+  {
+    "id": "math-223",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "求函数 z=x²+y²-2x 的极值。",
+    "options": [],
+    "answer": "极小值 z(1,0)=-1，无极大值",
+    "explanation": "∂z/∂x=2x-2=0，∂z/∂y=2y=0，驻点 (1,0)；A=2，B=0，C=2，AC-B²>0 且 A>0，为极小值点，极小值 -1。",
+    "difficulty": 3,
+    "tags": [
+      "二元函数的极值"
+    ]
+  },
+  {
+    "id": "math-224",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "求函数 z=xy 在约束条件 x+y=1 下的极大值。",
+    "options": [],
+    "answer": "极大值 1/4（在 x=y=1/2 处取得）",
+    "explanation": "拉格朗日乘数法或代入：z=x(1-x)，x=1/2 时取极大值 1/4。",
+    "difficulty": 4,
+    "tags": [
+      "条件极值"
+    ]
+  },
+  {
+    "id": "math-225",
+    "subjectId": "math",
+    "chapter": "第九章 多元函数微分法及其应用",
+    "type": "简答",
+    "stem": "求曲面 z=x²+y² 在点 (1,1,2) 处的切平面方程。",
+    "options": [],
+    "answer": "2x+2y-z=2",
+    "explanation": "设 F=x²+y²-z，法向量 (2x,2y,-1)|(1,1,2)=(2,2,-1)，切平面 2(x-1)+2(y-1)-(z-2)=0，即 2x+2y-z=2。",
+    "difficulty": 5,
+    "tags": [
+      "曲面的切平面"
+    ]
+  },
+  {
+    "id": "math-226",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "单选",
+    "stem": "设 D：0≤x≤1，0≤y≤2，则 ∬_D dσ =（ ）。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "1/2"
+    ],
+    "answer": "B",
+    "explanation": "∬_D dσ 等于区域面积 1×2=2。",
+    "difficulty": 1,
+    "tags": [
+      "二重积分的几何意义"
+    ]
+  },
+  {
+    "id": "math-227",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "单选",
+    "stem": "∫₀¹dx∫₀¹xy dy =（ ）。",
+    "options": [
+      "1/2",
+      "1/4",
+      "1",
+      "1/3"
+    ],
+    "answer": "B",
+    "explanation": "原式=(∫₀¹x dx)(∫₀¹y dy)=(1/2)(1/2)=1/4。",
+    "difficulty": 1,
+    "tags": [
+      "二重积分的计算"
+    ]
+  },
+  {
+    "id": "math-228",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "单选",
+    "stem": "设 D：x²+y²≤1，则 ∬_D dσ =（ ）。",
+    "options": [
+      "2π",
+      "π",
+      "π/2",
+      "1"
+    ],
+    "answer": "B",
+    "explanation": "∬_D dσ 等于单位圆面积 π。",
+    "difficulty": 1,
+    "tags": [
+      "二重积分的几何意义"
+    ]
+  },
+  {
+    "id": "math-229",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "单选",
+    "stem": "∫₀¹dx∫₀^x dy =（ ）。",
+    "options": [
+      "1",
+      "1/2",
+      "1/3",
+      "2"
+    ],
+    "answer": "B",
+    "explanation": "原式=∫₀¹x dx=1/2。",
+    "difficulty": 3,
+    "tags": [
+      "累次积分"
+    ]
+  },
+  {
+    "id": "math-230",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "单选",
+    "stem": "设 D：x²+y²≤1，则 ∬_D (x²+y²) dσ =（ ）。",
+    "options": [
+      "π/2",
+      "π",
+      "2π",
+      "π/4"
+    ],
+    "answer": "A",
+    "explanation": "极坐标：原式=∫₀^(2π)dθ∫₀¹r²·r dr=2π·1/4=π/2。",
+    "difficulty": 3,
+    "tags": [
+      "极坐标计算二重积分"
+    ]
+  },
+  {
+    "id": "math-231",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "单选",
+    "stem": "交换积分次序：∫₀¹dy∫_y¹ f(x,y) dx =（ ）。",
+    "options": [
+      "∫₀¹dx∫₀^x f(x,y) dy",
+      "∫₀¹dx∫_x¹ f(x,y) dy",
+      "∫₀¹dx∫₀¹ f(x,y) dy",
+      "∫₀¹dx∫₀^y f(x,y) dx"
+    ],
+    "answer": "A",
+    "explanation": "积分区域为 0≤y≤x≤1 的三角形，交换后为 ∫₀¹dx∫₀^x f dy。",
+    "difficulty": 4,
+    "tags": [
+      "交换积分次序"
+    ]
+  },
+  {
+    "id": "math-232",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "填空",
+    "stem": "∫₀¹dx∫₀^x x dy = ______。",
+    "options": [],
+    "answer": "1/3",
+    "explanation": "原式=∫₀¹x·x dx=∫₀¹x²dx=1/3。",
+    "difficulty": 2,
+    "tags": [
+      "累次积分"
+    ]
+  },
+  {
+    "id": "math-233",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "填空",
+    "stem": "设 D=[0,1]×[0,1]，则 ∬_D x dσ = ______。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "原式=∫₀¹x dx·∫₀¹dy=1/2。",
+    "difficulty": 1,
+    "tags": [
+      "二重积分的计算"
+    ]
+  },
+  {
+    "id": "math-234",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "填空",
+    "stem": "∫₀¹dy∫₀^y x dx = ______。",
+    "options": [],
+    "answer": "1/6",
+    "explanation": "原式=∫₀¹(y²/2)dy=1/6。",
+    "difficulty": 3,
+    "tags": [
+      "累次积分"
+    ]
+  },
+  {
+    "id": "math-235",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "填空",
+    "stem": "设 D：x²+y²≤4，则 ∬_D dσ = ______。",
+    "options": [],
+    "answer": "4π",
+    "explanation": "积分值为半径 2 的圆面积 4π。",
+    "difficulty": 2,
+    "tags": [
+      "二重积分的几何意义"
+    ]
+  },
+  {
+    "id": "math-236",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "填空",
+    "stem": "设 D：0≤x≤1，0≤y≤x，则 ∬_D xy dσ = ______。",
+    "options": [],
+    "answer": "1/8",
+    "explanation": "原式=∫₀¹x·(x²/2)dx=∫₀¹x³/2 dx=1/8。",
+    "difficulty": 3,
+    "tags": [
+      "二重积分的计算"
+    ]
+  },
+  {
+    "id": "math-237",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "填空",
+    "stem": "设 D：x²+y²≤1，则 ∬_D e^(x²+y²) dσ = ______。",
+    "options": [],
+    "answer": "π(e-1)",
+    "explanation": "极坐标：原式=∫₀^(2π)dθ∫₀¹e^(r²)r dr=2π·(e-1)/2=π(e-1)。",
+    "difficulty": 4,
+    "tags": [
+      "极坐标计算二重积分"
+    ]
+  },
+  {
+    "id": "math-238",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "计算二重积分 ∫₀¹dx∫₀¹(x+y) dy。",
+    "options": [],
+    "answer": "1",
+    "explanation": "内层 ∫₀¹(x+y)dy=x+1/2，外层 ∫₀¹(x+1/2)dx=1/2+1/2=1。",
+    "difficulty": 1,
+    "tags": [
+      "二重积分的计算"
+    ]
+  },
+  {
+    "id": "math-239",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "计算二重积分 ∫₁²dx∫₀¹x²y dy。",
+    "options": [],
+    "answer": "7/6",
+    "explanation": "原式=(∫₁²x²dx)(∫₀¹y dy)=(7/3)·(1/2)=7/6。",
+    "difficulty": 2,
+    "tags": [
+      "二重积分的计算"
+    ]
+  },
+  {
+    "id": "math-240",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "设 D：0≤x≤1，0≤y≤x²，计算 ∬_D x dσ。",
+    "options": [],
+    "answer": "1/4",
+    "explanation": "原式=∫₀¹x·x²dx=∫₀¹x³dx=1/4。",
+    "difficulty": 3,
+    "tags": [
+      "二重积分的计算"
+    ]
+  },
+  {
+    "id": "math-241",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "计算 ∫₀¹dy∫_y¹ x² dx。",
+    "options": [],
+    "answer": "1/4",
+    "explanation": "内层 ∫_y¹x²dx=(1-y³)/3，外层 ∫₀¹(1-y³)/3 dy=(1/3)(1-1/4)=1/4。",
+    "difficulty": 3,
+    "tags": [
+      "累次积分"
+    ]
+  },
+  {
+    "id": "math-242",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "设 D：x²+y²≤1，x≥0，计算 ∬_D (x+y) dσ。",
+    "options": [],
+    "answer": "2/3",
+    "explanation": "由对称性 ∬_D y dσ=0；∬_D x dσ=∫_(-π/2)^(π/2)cosθ dθ·∫₀¹r²dr=2·(1/3)=2/3。",
+    "difficulty": 3,
+    "tags": [
+      "极坐标与对称性"
+    ]
+  },
+  {
+    "id": "math-243",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "设 D：x²+y²≤1，计算 ∬_D y dσ。",
+    "options": [],
+    "answer": "0",
+    "explanation": "被积函数关于 y 为奇函数，区域关于 x 轴对称，积分为 0。",
+    "difficulty": 2,
+    "tags": [
+      "二重积分的对称性"
+    ]
+  },
+  {
+    "id": "math-244",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "设 D：1≤x²+y²≤4，计算 ∬_D 1/√(x²+y²) dσ。",
+    "options": [],
+    "answer": "2π",
+    "explanation": "极坐标：原式=∫₀^(2π)dθ∫₁²(1/r)·r dr=2π·1=2π。",
+    "difficulty": 3,
+    "tags": [
+      "极坐标计算二重积分"
+    ]
+  },
+  {
+    "id": "math-245",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "设 Ω 为单位立方体 0≤x,y,z≤1，计算三重积分 ∭_Ω (x+y+z) dV。",
+    "options": [],
+    "answer": "3/2",
+    "explanation": "由对称性 ∭x dV=∭y dV=∭z dV=1/2，总和 3/2。",
+    "difficulty": 4,
+    "tags": [
+      "三重积分的计算"
+    ]
+  },
+  {
+    "id": "math-246",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "设 D 由 y=x 与 y=x² 围成，计算 ∬_D xy dσ。",
+    "options": [],
+    "answer": "1/24",
+    "explanation": "原式=∫₀¹dx∫_(x²)^x xy dy=∫₀¹x(x²-x⁴)/2 dx=(1/2)(1/4-1/6)=1/24。",
+    "difficulty": 4,
+    "tags": [
+      "二重积分的计算"
+    ]
+  },
+  {
+    "id": "math-247",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "交换积分次序计算 ∫₀¹dx∫_x¹ e^(y²) dy。",
+    "options": [],
+    "answer": "(e-1)/2",
+    "explanation": "交换次序：原式=∫₀¹dy∫₀^y e^(y²)dx=∫₀¹y·e^(y²)dy=(e-1)/2。",
+    "difficulty": 5,
+    "tags": [
+      "交换积分次序"
+    ]
+  },
+  {
+    "id": "math-248",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "求由旋转抛物面 z=x²+y² 与平面 z=1 所围成立体的体积。",
+    "options": [],
+    "answer": "π/2",
+    "explanation": "V=∬_(x²+y²≤1)(1-x²-y²)dσ=∫₀^(2π)dθ∫₀¹(1-r²)r dr=2π(1/2-1/4)=π/2。",
+    "difficulty": 3,
+    "tags": [
+      "二重积分求体积"
+    ]
+  },
+  {
+    "id": "math-249",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "设 D 由 y=x² 与 y=1 围成，分别计算 ∬_D xy dσ 与 ∬_D y dσ。",
+    "options": [],
+    "answer": "∬_D xy dσ=0；∬_D y dσ=4/5",
+    "explanation": "xy 关于 x 为奇函数、D 关于 y 轴对称，故第一个积分为 0；∬_D y dσ=∫₋₁¹dx∫_(x²)¹y dy=∫₋₁¹(1-x⁴)/2 dx=1-1/5=4/5。",
+    "difficulty": 3,
+    "tags": [
+      "对称性与二重积分"
+    ]
+  },
+  {
+    "id": "math-250",
+    "subjectId": "math",
+    "chapter": "第十章 重积分",
+    "type": "简答",
+    "stem": "用极坐标计算 ∬_D √(x²+y²) dσ，其中 D：x²+y²≤2x。",
+    "options": [],
+    "answer": "32/9",
+    "explanation": "D 为 r≤2cosθ，θ∈[-π/2,π/2]；原式=∫_(-π/2)^(π/2)dθ∫₀^(2cosθ)r²dr=(8/3)∫cos³θ dθ=(8/3)·(4/3)=32/9。",
+    "difficulty": 5,
+    "tags": [
+      "极坐标计算二重积分"
+    ]
+  },
+  {
+    "id": "math-251",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "单选",
+    "stem": "设 L 为从点 (0,0) 到 (3,4) 的直线段，则 ∫_L ds =（ ）。",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "25"
+    ],
+    "answer": "A",
+    "explanation": "对弧长的曲线积分 ∫_L ds 等于弧长 √（3²+4²)=5。",
+    "difficulty": 1,
+    "tags": [
+      "对弧长的曲线积分"
+    ]
+  },
+  {
+    "id": "math-252",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "单选",
+    "stem": "设 L 为单位圆周 x²+y²=1，则 ∮_L (x+y) ds =（ ）。",
+    "options": [
+      "2π",
+      "π",
+      "0",
+      "1"
+    ],
+    "answer": "C",
+    "explanation": "由对称性，∮_L x ds 与 ∮_L y ds 均为 0。",
+    "difficulty": 2,
+    "tags": [
+      "曲线积分的对称性"
+    ]
+  },
+  {
+    "id": "math-253",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "单选",
+    "stem": "设 L 为单位圆周取正向，则 ∮_L x dy-y dx =（ ）。",
+    "options": [
+      "π",
+      "2π",
+      "0",
+      "4π"
+    ],
+    "answer": "B",
+    "explanation": "由格林公式 ∮_L x dy-y dx=∬_D 2 dσ=2×圆面积=2π。",
+    "difficulty": 3,
+    "tags": [
+      "格林公式"
+    ]
+  },
+  {
+    "id": "math-254",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "单选",
+    "stem": "曲线积分 ∫_L P dx+Q dy 在单连通区域内与路径无关的充要条件是（ ）。",
+    "options": [
+      "∂P/∂x=∂Q/∂y",
+      "∂Q/∂x=∂P/∂y",
+      "P=Q",
+      "∂P/∂x+∂Q/∂y=0"
+    ],
+    "answer": "B",
+    "explanation": "与路径无关的充要条件为 ∂Q/∂x=∂P/∂y。",
+    "difficulty": 3,
+    "tags": [
+      "路径无关的条件"
+    ]
+  },
+  {
+    "id": "math-255",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "单选",
+    "stem": "设 Σ 为球面 x²+y²+z²=1，则 ∬_Σ dS =（ ）。",
+    "options": [
+      "2π",
+      "4π",
+      "π",
+      "4π/3"
+    ],
+    "answer": "B",
+    "explanation": "∬_Σ dS 等于球面面积 4π。",
+    "difficulty": 2,
+    "tags": [
+      "对面积的曲面积分"
+    ]
+  },
+  {
+    "id": "math-256",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "单选",
+    "stem": "设 Σ 为球面 x²+y²+z²=1 的外侧，则 ∯_Σ x dy dz+y dz dx+z dx dy =（ ）。",
+    "options": [
+      "4π",
+      "4π/3",
+      "2π",
+      "0"
+    ],
+    "answer": "A",
+    "explanation": "由高斯公式，原式=∭_Ω 3 dV=3×(4π/3)=4π。",
+    "difficulty": 4,
+    "tags": [
+      "高斯公式"
+    ]
+  },
+  {
+    "id": "math-257",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "填空",
+    "stem": "设 L 为 x 轴上从 (0,0) 到 (2,0) 的线段，则 ∫_L ds = ______。",
+    "options": [],
+    "answer": "2",
+    "explanation": "积分值为线段长度 2。",
+    "difficulty": 1,
+    "tags": [
+      "对弧长的曲线积分"
+    ]
+  },
+  {
+    "id": "math-258",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "填空",
+    "stem": "设 L 为单位圆周在第一象限的部分，则 ∫_L x ds = ______。",
+    "options": [],
+    "answer": "1",
+    "explanation": "参数化 x=cost，y=sint，ds=dt，原式=∫₀^(π/2)cost dt=1。",
+    "difficulty": 3,
+    "tags": [
+      "对弧长的曲线积分"
+    ]
+  },
+  {
+    "id": "math-259",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "填空",
+    "stem": "设 L 为从 (0,0) 到 (1,1) 的直线段，则 ∫_L x dy = ______。",
+    "options": [],
+    "answer": "1/2",
+    "explanation": "参数化 x=t，y=t，原式=∫₀¹t dt=1/2。",
+    "difficulty": 3,
+    "tags": [
+      "对坐标的曲线积分"
+    ]
+  },
+  {
+    "id": "math-260",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "填空",
+    "stem": "曲线积分 ∫_((0,0))^((1,1)) x dx+y dy = ______。",
+    "options": [],
+    "answer": "1",
+    "explanation": "被积式为 d[(x²+y²)/2]，与路径无关，积分值=(1+1)/2-0=1。",
+    "difficulty": 3,
+    "tags": [
+      "路径无关的曲线积分"
+    ]
+  },
+  {
+    "id": "math-261",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "填空",
+    "stem": "设 L 为圆周 x²+y²=4 取正向，则 ∮_L (-y)dx+x dy = ______。",
+    "options": [],
+    "answer": "8π",
+    "explanation": "由格林公式，原式=∬_D 2 dσ=2×4π=8π。",
+    "difficulty": 4,
+    "tags": [
+      "格林公式"
+    ]
+  },
+  {
+    "id": "math-262",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "填空",
+    "stem": "设 Σ 为上半球面 z=√(1-x²-y²)，则 ∬_Σ z dS = ______。",
+    "options": [],
+    "answer": "π",
+    "explanation": "球面参数下 dS=sinφ dφ dθ，原式=∫₀^(2π)dθ∫₀^(π/2)cosφsinφ dφ=2π·1/2=π。",
+    "difficulty": 4,
+    "tags": [
+      "对面积的曲面积分"
+    ]
+  },
+  {
+    "id": "math-263",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "设 L 为单位圆周，计算 ∮_L (x²+y²) ds。",
+    "options": [],
+    "answer": "2π",
+    "explanation": "在 L 上 x²+y²=1，原式=∮_L ds=周长 2π。",
+    "difficulty": 2,
+    "tags": [
+      "对弧长的曲线积分"
+    ]
+  },
+  {
+    "id": "math-264",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "计算曲线积分 ∫_L dx+dy，其中 L 为从 (0,0) 到 (2,3) 的任意路径。",
+    "options": [],
+    "answer": "5",
+    "explanation": "被积式为 d(x+y)，与路径无关，积分值=(2+3)-0=5。",
+    "difficulty": 2,
+    "tags": [
+      "路径无关的曲线积分"
+    ]
+  },
+  {
+    "id": "math-265",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "设 L 为从 (0,0) 沿 y=x 到 (1,1) 的线段，计算 ∫_L y dx+x dy。",
+    "options": [],
+    "answer": "1",
+    "explanation": "参数化 x=t，y=t，原式=∫₀¹(t+t)dt=1（亦可由全微分 d(xy) 得 1）。",
+    "difficulty": 2,
+    "tags": [
+      "对坐标的曲线积分"
+    ]
+  },
+  {
+    "id": "math-266",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "设 L 为线段 x=t，y=t（0≤t≤1），计算 ∫_L xy ds。",
+    "options": [],
+    "answer": "√2/3",
+    "explanation": "ds=√2 dt，原式=∫₀¹t²·√2 dt=√2/3。",
+    "difficulty": 3,
+    "tags": [
+      "对弧长的曲线积分"
+    ]
+  },
+  {
+    "id": "math-267",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "用格林公式计算 ∮_L (x²-y)dx+(y²+x)dy，其中 L 为单位圆周取正向。",
+    "options": [],
+    "answer": "2π",
+    "explanation": "∂Q/∂x-∂P/∂y=1-(-1)=2，原式=∬_D 2 dσ=2π。",
+    "difficulty": 3,
+    "tags": [
+      "格林公式"
+    ]
+  },
+  {
+    "id": "math-268",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "验证 ∫_L y dx+x dy 与路径无关，并计算其从 (0,0) 到 (1,2) 的值。",
+    "options": [],
+    "answer": "2",
+    "explanation": "∂Q/∂x=1=∂P/∂y，与路径无关；势函数 u=xy，积分值=1×2-0=2。",
+    "difficulty": 3,
+    "tags": [
+      "路径无关与势函数"
+    ]
+  },
+  {
+    "id": "math-269",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "用高斯公式计算 ∯_Σ x dy dz+y dz dx+z dx dy，其中 Σ 为球面 x²+y²+z²=4 的外侧。",
+    "options": [],
+    "answer": "32π",
+    "explanation": "原式=∭_Ω 3 dV=3×(4π·2³/3)=32π。",
+    "difficulty": 4,
+    "tags": [
+      "高斯公式"
+    ]
+  },
+  {
+    "id": "math-270",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "用格林公式计算 ∮_L (2xy-y)dx+x²dy，其中 L 为单位圆周取正向。",
+    "options": [],
+    "answer": "π",
+    "explanation": "∂Q/∂x-∂P/∂y=2x-(2x-1)=1，原式=∬_D dσ=π。",
+    "difficulty": 4,
+    "tags": [
+      "格林公式"
+    ]
+  },
+  {
+    "id": "math-271",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "计算曲面积分 ∬_Σ z dx dy，其中 Σ 为上半球面 z=√(1-x²-y²) 的上侧。",
+    "options": [],
+    "answer": "2π/3",
+    "explanation": "投影到单位圆盘：原式=∬_D √(1-x²-y²) dxdy=∫₀^(2π)dθ∫₀¹√(1-r²)r dr=2π·(1/3)=2π/3。",
+    "difficulty": 4,
+    "tags": [
+      "对坐标的曲面积分"
+    ]
+  },
+  {
+    "id": "math-272",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "设 L 为抛物线 y=x² 上从 (0,0) 到 (1,1) 的一段，计算 ∫_L x ds。",
+    "options": [],
+    "answer": "(5√5-1)/12",
+    "explanation": "ds=√(1+4x²)dx，原式=∫₀¹x√(1+4x²)dx=[(1+4x²)^(3/2)/12]₀¹=(5√5-1)/12。",
+    "difficulty": 5,
+    "tags": [
+      "对弧长的曲线积分"
+    ]
+  },
+  {
+    "id": "math-273",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "计算 ∫_L (x+y)dx+(x-y)dy，分别沿 (1) 直线 y=x、(2) 抛物线 y=x² 从 (0,0) 到 (1,1)，并解释结果。",
+    "options": [],
+    "answer": "两条路径积分值均为 1",
+    "explanation": "∂Q/∂x=1=∂P/∂y，积分与路径无关；势函数 u=x²/2+xy-y²/2，在 (1,1) 处值为 1。",
+    "difficulty": 3,
+    "tags": [
+      "路径无关的条件"
+    ]
+  },
+  {
+    "id": "math-274",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "用格林公式计算 ∮_L (3y-e^(sinx))dx+(7x+√(y⁴+1))dy，其中 L 为单位圆周取正向。",
+    "options": [],
+    "answer": "4π",
+    "explanation": "∂Q/∂x-∂P/∂y=7-3=4（复杂项求导后抵消），原式=∬_D 4 dσ=4π。",
+    "difficulty": 3,
+    "tags": [
+      "格林公式"
+    ]
+  },
+  {
+    "id": "math-275",
+    "subjectId": "math",
+    "chapter": "第十一章 曲线积分与曲面积分",
+    "type": "简答",
+    "stem": "计算 ∮_L (x dy-y dx)/(x²+y²)，其中 L 为不经过原点的正向分段光滑简单闭曲线（分 L 包围原点与不包围原点讨论）。",
+    "options": [],
+    "answer": "L 不包围原点时为 0；L 包围原点时为 2π",
+    "explanation": "除原点外 ∂Q/∂x=∂P/∂y，不含原点时由格林公式积分为 0；含原点时取小圆抠去奇点，沿小圆 x²+y²=ε² 直接计算得 2π。",
+    "difficulty": 5,
+    "tags": [
+      "格林公式与奇点"
+    ]
+  },
+  {
+    "id": "math-276",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "单选",
+    "stem": "级数 Σ(n=1→∞) (1/2)ⁿ 的和为（ ）。",
+    "options": [
+      "1",
+      "2",
+      "1/2",
+      "发散"
+    ],
+    "answer": "A",
+    "explanation": "等比级数，和=(1/2)/(1-1/2)=1。",
+    "difficulty": 1,
+    "tags": [
+      "等比级数"
+    ]
+  },
+  {
+    "id": "math-277",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "单选",
+    "stem": "p 级数 Σ(n=1→∞) 1/n^p 收敛的充要条件是（ ）。",
+    "options": [
+      "p>1",
+      "p≥1",
+      "p<1",
+      "p>0"
+    ],
+    "answer": "A",
+    "explanation": "p 级数当 p>1 时收敛，p≤1 时发散。",
+    "difficulty": 1,
+    "tags": [
+      "p级数的敛散性"
+    ]
+  },
+  {
+    "id": "math-278",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "单选",
+    "stem": "级数 Σ(n=1→∞) (-1)ⁿ/n（ ）。",
+    "options": [
+      "绝对收敛",
+      "条件收敛",
+      "发散",
+      "无法判定"
+    ],
+    "answer": "B",
+    "explanation": "由莱布尼茨判别法收敛，但 Σ1/n 发散，故为条件收敛。",
+    "difficulty": 3,
+    "tags": [
+      "交错级数与条件收敛"
+    ]
+  },
+  {
+    "id": "math-279",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "单选",
+    "stem": "幂级数 Σ(n=0→∞) xⁿ 的收敛半径 R =（ ）。",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "+∞"
+    ],
+    "answer": "B",
+    "explanation": "由比值法 R=lim|aₙ/aₙ₊₁|=1。",
+    "difficulty": 2,
+    "tags": [
+      "幂级数的收敛半径"
+    ]
+  },
+  {
+    "id": "math-280",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "单选",
+    "stem": "若级数 Σ uₙ 收敛，则 lim(n→∞) uₙ =（ ）。",
+    "options": [
+      "0",
+      "1",
+      "不存在",
+      "任意常数"
+    ],
+    "answer": "A",
+    "explanation": "通项趋于零是级数收敛的必要条件。",
+    "difficulty": 2,
+    "tags": [
+      "级数收敛的必要条件"
+    ]
+  },
+  {
+    "id": "math-281",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "单选",
+    "stem": "级数 Σ(n=1→∞) n!/nⁿ（ ）。",
+    "options": [
+      "收敛",
+      "发散",
+      "条件收敛",
+      "无法判定"
+    ],
+    "answer": "A",
+    "explanation": "比值法：lim uₙ₊₁/uₙ=lim (n/(n+1))ⁿ=1/e<1，故收敛。",
+    "difficulty": 4,
+    "tags": [
+      "比值判别法"
+    ]
+  },
+  {
+    "id": "math-282",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "填空",
+    "stem": "级数 Σ(n=0→∞) (1/3)ⁿ 的和为 ______。",
+    "options": [],
+    "answer": "3/2",
+    "explanation": "等比级数，和=1/(1-1/3)=3/2。",
+    "difficulty": 1,
+    "tags": [
+      "等比级数"
+    ]
+  },
+  {
+    "id": "math-283",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "填空",
+    "stem": "调和级数 Σ(n=1→∞) 1/n 是 ______（收敛/发散）的。",
+    "options": [],
+    "answer": "发散",
+    "explanation": "调和级数为 p=1 的 p 级数，发散。",
+    "difficulty": 1,
+    "tags": [
+      "调和级数"
+    ]
+  },
+  {
+    "id": "math-284",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "填空",
+    "stem": "级数 Σ(n=1→∞) 1/[n(n+1)] 的和为 ______。",
+    "options": [],
+    "answer": "1",
+    "explanation": "1/[n(n+1)]=1/n-1/(n+1)，部分和 telescoping 为 1-1/(n+1)→1。",
+    "difficulty": 3,
+    "tags": [
+      "裂项求和"
+    ]
+  },
+  {
+    "id": "math-285",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "填空",
+    "stem": "幂级数 Σ(n=0→∞) xⁿ/n! 的收敛半径为 ______。",
+    "options": [],
+    "answer": "+∞",
+    "explanation": "比值法：lim|aₙ₊₁x/aₙ|=lim|x|/(n+1)=0<1 对任意 x 成立，R=+∞。",
+    "difficulty": 3,
+    "tags": [
+      "幂级数的收敛半径"
+    ]
+  },
+  {
+    "id": "math-286",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "填空",
+    "stem": "函数 e^x 的麦克劳林级数展开式为 ______。",
+    "options": [],
+    "answer": "Σ(n=0→∞) xⁿ/n!（x∈R）",
+    "explanation": "e^x=1+x+x²/2!+…+xⁿ/n!+…，对一切实数 x 成立。",
+    "difficulty": 3,
+    "tags": [
+      "麦克劳林级数"
+    ]
+  },
+  {
+    "id": "math-287",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "填空",
+    "stem": "函数 ln(1+x) 的麦克劳林级数为 Σ(n=1→∞) (-1)^(n-1)xⁿ/n，其收敛域为 ______。",
+    "options": [],
+    "answer": "(-1,1]",
+    "explanation": "收敛半径 1；x=1 时为交错调和级数收敛，x=-1 时为负调和级数发散，收敛域 (-1,1]。",
+    "difficulty": 4,
+    "tags": [
+      "幂级数的收敛域"
+    ]
+  },
+  {
+    "id": "math-288",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "判定级数 Σ(n=1→∞) 1/n² 的敛散性。",
+    "options": [],
+    "answer": "收敛",
+    "explanation": "这是 p=2>1 的 p 级数，收敛。",
+    "difficulty": 1,
+    "tags": [
+      "p级数的敛散性"
+    ]
+  },
+  {
+    "id": "math-289",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "判定级数 Σ(n=1→∞) 1/√n 的敛散性。",
+    "options": [],
+    "answer": "发散",
+    "explanation": "这是 p=1/2≤1 的 p 级数，发散。",
+    "difficulty": 1,
+    "tags": [
+      "p级数的敛散性"
+    ]
+  },
+  {
+    "id": "math-290",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "求级数 Σ(n=1→∞) (2/3)ⁿ 的和。",
+    "options": [],
+    "answer": "2",
+    "explanation": "等比级数，和=(2/3)/(1-2/3)=2。",
+    "difficulty": 1,
+    "tags": [
+      "等比级数"
+    ]
+  },
+  {
+    "id": "math-291",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "判定级数 Σ(n=1→∞) n/(n+1) 的敛散性。",
+    "options": [],
+    "answer": "发散",
+    "explanation": "通项极限 lim n/(n+1)=1≠0，不满足收敛必要条件，发散。",
+    "difficulty": 2,
+    "tags": [
+      "级数收敛的必要条件"
+    ]
+  },
+  {
+    "id": "math-292",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "用比值判别法判定级数 Σ(n=1→∞) n/2ⁿ 的敛散性。",
+    "options": [],
+    "answer": "收敛",
+    "explanation": "lim uₙ₊₁/uₙ=lim [(n+1)/(2n)]=1/2<1，收敛。",
+    "difficulty": 3,
+    "tags": [
+      "比值判别法"
+    ]
+  },
+  {
+    "id": "math-293",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "判定级数 Σ(n=1→∞) (-1)ⁿ/√n 的敛散性；若收敛，指出是绝对收敛还是条件收敛。",
+    "options": [],
+    "answer": "条件收敛",
+    "explanation": "1/√n 单调递减趋于 0，由莱布尼茨判别法收敛；但 Σ1/√n 为 p=1/2 的 p 级数发散，故条件收敛。",
+    "difficulty": 3,
+    "tags": [
+      "交错级数"
+    ]
+  },
+  {
+    "id": "math-294",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "求幂级数 Σ(n=1→∞) xⁿ/n 的收敛域。",
+    "options": [],
+    "answer": "[-1,1)",
+    "explanation": "收敛半径 R=1；x=1 时为调和级数发散，x=-1 时为交错调和级数收敛，收敛域 [-1,1)。",
+    "difficulty": 3,
+    "tags": [
+      "幂级数的收敛域"
+    ]
+  },
+  {
+    "id": "math-295",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "求幂级数 Σ(n=1→∞) n·x^(n-1) 的和函数（|x|<1）。",
+    "options": [],
+    "answer": "1/(1-x)²",
+    "explanation": "由 Σxⁿ=1/(1-x) 逐项求导得 Σn·x^(n-1)=1/(1-x)²。",
+    "difficulty": 3,
+    "tags": [
+      "幂级数逐项求导"
+    ]
+  },
+  {
+    "id": "math-296",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "求幂级数 Σ(n=1→∞) (x-2)ⁿ/n² 的收敛域。",
+    "options": [],
+    "answer": "[1,3]",
+    "explanation": "收敛半径 R=1，|x-2|<1 即 1<x<3；端点 x=1 与 x=3 处级数均为 p=2 的收敛级数，收敛域 [1,3]。",
+    "difficulty": 4,
+    "tags": [
+      "幂级数的收敛域"
+    ]
+  },
+  {
+    "id": "math-297",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "将函数 f(x)=1/(1+x²) 展开为麦克劳林级数，并写出收敛区间。",
+    "options": [],
+    "answer": "Σ(n=0→∞) (-1)ⁿx^(2n)，|x|<1",
+    "explanation": "由 1/(1+t)=Σ(-1)ⁿtⁿ（|t|<1），令 t=x² 即得。",
+    "difficulty": 4,
+    "tags": [
+      "函数的幂级数展开"
+    ]
+  },
+  {
+    "id": "math-298",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "求幂级数 Σ(n=1→∞) n·xⁿ 的和函数（|x|<1），并求数项级数 Σ(n=1→∞) n/2ⁿ 的和。",
+    "options": [],
+    "answer": "和函数 x/(1-x)²；Σ n/2ⁿ=2",
+    "explanation": "Σn·xⁿ=x·Σn·x^(n-1)=x/(1-x)²；代入 x=1/2 得 (1/2)/(1/2)²=2。",
+    "difficulty": 3,
+    "tags": [
+      "幂级数求和函数"
+    ]
+  },
+  {
+    "id": "math-299",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "将函数 f(x)=1/(x+2) 展开为 x 的幂级数，并写出收敛区间。",
+    "options": [],
+    "answer": "Σ(n=0→∞) (-1)ⁿxⁿ/2^(n+1)，|x|<2",
+    "explanation": "f(x)=(1/2)·1/(1+x/2)=(1/2)Σ(-x/2)ⁿ=Σ(-1)ⁿxⁿ/2^(n+1)，收敛条件 |x/2|<1。",
+    "difficulty": 3,
+    "tags": [
+      "函数的幂级数展开"
+    ]
+  },
+  {
+    "id": "math-300",
+    "subjectId": "math",
+    "chapter": "第十二章 无穷级数",
+    "type": "简答",
+    "stem": "求幂级数 Σ(n=1→∞) xⁿ/n 的和函数（|x|<1），并由此求数项级数 Σ(n=1→∞) 1/(n·2ⁿ) 的和。",
+    "options": [],
+    "answer": "和函数 -ln(1-x)；Σ 1/(n·2ⁿ)=ln2",
+    "explanation": "对 Σx^(n-1)=1/(1-x) 逐项积分得 Σxⁿ/n=-ln(1-x)；代入 x=1/2 得 -ln(1/2)=ln2。",
+    "difficulty": 5,
+    "tags": [
+      "幂级数逐项积分"
+    ]
+  },
+  {
+    "id": "math-301",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "单选",
+    "stem": "曲线 y=x³/(x²-1) 的渐近线情况是（ ）。",
+    "options": [
+      "只有水平渐近线",
+      "只有铅垂渐近线",
+      "既有水平渐近线也有铅垂渐近线",
+      "无渐近线"
+    ],
+    "answer": "B",
+    "explanation": "y=x³/(x²-1)=x+x/(x²-1)，x→∞ 时 y→∞，无水平渐近线；x→±1 时 y→∞，有铅垂渐近线 x=±1，故选 B。",
+    "difficulty": 2,
+    "tags": [
+      "2013年真题",
+      "曲线的渐近线"
+    ]
+  },
+  {
+    "id": "math-302",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "单选",
+    "stem": "下列函数中，在区间 [-1,1] 上满足罗尔(Rolle)定理条件的是（ ）。",
+    "options": [
+      "y=x^(2/3)",
+      "y=|x|",
+      "y=x^(4/3)",
+      "y=x^(5/3)"
+    ],
+    "answer": "C",
+    "explanation": "罗尔定理要求 [-1,1] 上连续、(-1,1) 内可导且 f(-1)=f(1)。y=x^(2/3)、y=|x| 在 x=0 处不可导；y=x^(5/3) 有 f(-1)=-1≠f(1)=1；y=x^(4/3) 处处可导且 f(-1)=f(1)=1，满足条件，故选 C。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "罗尔定理"
+    ]
+  },
+  {
+    "id": "math-303",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "单选",
+    "stem": "设函数 f(x)=x·sinx+cosx，则下列结论正确的是（ ）。",
+    "options": [
+      "f(0) 是 f(x) 的极小值，f(π/2) 是 f(x) 的极大值",
+      "f(0) 是 f(x) 的极大值，f(π/2) 是 f(x) 的极小值",
+      "f(0) 和 f(π/2) 都是 f(x) 的极小值",
+      "f(0) 和 f(π/2) 都是 f(x) 的极大值"
+    ],
+    "answer": "A",
+    "explanation": "f'(x)=x·cosx，驻点为 x=0 与 x=π/2；f''(x)=cosx-x·sinx，f''(0)=1>0 为极小值，f''(π/2)=-π/2<0 为极大值，故选 A。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "函数极值"
+    ]
+  },
+  {
+    "id": "math-304",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "单选",
+    "stem": "若函数 f(x) 和 F(x) 满足 F'(x)=f(x)（x∈R），则下列等式成立的是（ ）。",
+    "options": [
+      "∫(1/x)f(2lnx+1)dx = 2f(2lnx+1)+C",
+      "∫(1/x)f(2lnx+1)dx = (1/2)f(2lnx+1)+C",
+      "∫(1/x)f(2lnx+1)dx = 2F(2lnx+1)+C",
+      "∫(1/x)f(2lnx+1)dx = (1/2)F(2lnx+1)+C"
+    ],
+    "answer": "D",
+    "explanation": "令 u=2lnx+1，则 du=(2/x)dx，即 (1/x)dx=du/2，故 ∫(1/x)f(2lnx+1)dx=(1/2)∫f(u)du=(1/2)F(2lnx+1)+C，选 D。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "换元积分法"
+    ]
+  },
+  {
+    "id": "math-305",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "填空",
+    "stem": "曲线 { x=3^t, y=tant } 在 t=0 相应的点处的切线方程是 y = ______。",
+    "options": [],
+    "answer": "(1/ln3)(x-1)",
+    "explanation": "t=0 时 x=1、y=0；dx/dt=3^t·ln3，dy/dt=sec²t，故 dy/dx=(sec²t)/(3^t·ln3)，t=0 时 dy/dx=1/ln3，切线为 y=(1/ln3)(x-1)。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "参数方程求切线"
+    ]
+  },
+  {
+    "id": "math-306",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "填空",
+    "stem": "函数 f(x)={ x(1-x)^(1/x), x<0; 0, x≥0 } 在 x=0 处的左导数 f'_-(0) = ______。",
+    "options": [],
+    "answer": "e^(-1)",
+    "explanation": "f'_-(0)=lim(x→0⁻)[f(x)-f(0)]/x=lim(x→0⁻)(1-x)^(1/x)=e^(-1)。",
+    "difficulty": 4,
+    "tags": [
+      "2013年真题",
+      "分段函数的左导数"
+    ]
+  },
+  {
+    "id": "math-307",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "填空",
+    "stem": "已知平面图形 G={(x,y)|x≥1, 0≤y≤1/x}，将图形 G 绕 x 轴旋转一周而成的旋转体体积 V = ______。",
+    "options": [],
+    "answer": "π",
+    "explanation": "V=π∫₁^(+∞)(1/x)²dx=π∫₁^(+∞)1/x²dx=π[-1/x]₁^(+∞)=π。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "旋转体体积"
+    ]
+  },
+  {
+    "id": "math-308",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "填空",
+    "stem": "设 D 为圆环域：1≤x²+y²≤4，则二重积分 ∬_D 1/√(x²+y²) dσ = ______。",
+    "options": [],
+    "answer": "2π",
+    "explanation": "用极坐标，∬_D 1/√(x²+y²)dσ=∫₀^(2π)dθ∫₁²(1/r)·r dr=∫₀^(2π)dθ∫₁²dr=2π。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "极坐标计算二重积分"
+    ]
+  },
+  {
+    "id": "math-309",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "计算极限 lim(x→∞) x·sin(e^(1/x)-1)。",
+    "options": [],
+    "answer": "1",
+    "explanation": "令 t=1/x→0，x·sin(e^t-1)=[sin(e^t-1)/(e^t-1)]·[(e^t-1)/t]→1×1=1。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "重要极限"
+    ]
+  },
+  {
+    "id": "math-310",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "已知函数 f(x) 具有连续的一阶导数，且 f(0)f'(0)≠0，求常数 a 和 b 的值，使 lim(x→0)[a·f(x)+b·f(2x)-f(0)]/x = 0。",
+    "options": [],
+    "answer": "a=2，b=-1",
+    "explanation": "由极限为 0 且 f(0)≠0，先有 a+b-1=0；再由洛必达法则，分子导数在 0 处为 (a+2b)f'(0)=0，得 a+2b=0（f'(0)≠0）；联立解得 a=2，b=-1。",
+    "difficulty": 4,
+    "tags": [
+      "2013年真题",
+      "洛必达法则"
+    ]
+  },
+  {
+    "id": "math-311",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "求由方程 xy·lny+y=e^(2x) 所确定的隐函数在 x=0 处的导数 dy/dx|_{x=0}。",
+    "options": [],
+    "answer": "2",
+    "explanation": "x=0 时 y=1；两边对 x 求导得 (y+xy')lny+xy'+y'=2e^(2x)，代入 x=0、y=1（lny=0）得 y'=2。",
+    "difficulty": 4,
+    "tags": [
+      "2013年真题",
+      "隐函数求导"
+    ]
+  },
+  {
+    "id": "math-312",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "求曲线 y=ln(√(x²+4)+x) 的凹、凸区间及其拐点坐标。",
+    "options": [],
+    "answer": "凹区间 (-∞,0)，凸区间 (0,+∞)，拐点 (0, ln2)",
+    "explanation": "y'=1/√(x²+4)，y''=-x/(x²+4)^(3/2)；x<0 时 y''>0 曲线为凹，x>0 时 y''<0 曲线为凸，x=0 处 y=ln2，拐点为 (0, ln2)。",
+    "difficulty": 4,
+    "tags": [
+      "2013年真题",
+      "曲线凹凸性与拐点"
+    ]
+  },
+  {
+    "id": "math-313",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "计算不定积分 ∫ sin³x/cos²x dx。",
+    "options": [],
+    "answer": "1/cosx+cosx+C",
+    "explanation": "∫sin³x/cos²x dx=-∫(1-cos²x)/cos²x d(cosx)=-∫(1/cos²x-1)d(cosx)=1/cosx+cosx+C。",
+    "difficulty": 3,
+    "tags": [
+      "2013年真题",
+      "三角函数不定积分"
+    ]
+  },
+  {
+    "id": "math-314",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "计算定积分 ∫₀² x/[(x+2)√(x+1)] dx。",
+    "options": [],
+    "answer": "2(√3-1)-π/3",
+    "explanation": "令 √(x+1)=t，则 x=t²-1，dx=2tdt，积分化为 2∫₁^(√3)(t²-1)/(t²+1)dt=2∫₁^(√3)(1-2/(t²+1))dt=2(t-2arctant)|₁^(√3)=2(√3-1)-π/3。",
+    "difficulty": 5,
+    "tags": [
+      "2013年真题",
+      "根式换元定积分"
+    ]
+  },
+  {
+    "id": "math-315",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "求二元函数 z=∫₀^(xy) e^(-t²)dt 的全微分 dz 及二阶偏导数 ∂²z/∂x∂y。",
+    "options": [],
+    "answer": "dz=y·e^(-x²y²)dx+x·e^(-x²y²)dy；∂²z/∂x∂y=e^(-x²y²)(1-2x²y²)",
+    "explanation": "∂z/∂x=y·e^(-x²y²)，∂z/∂y=x·e^(-x²y²)，故 dz=e^(-x²y²)(y dx+x dy)；再对 y 求导得 ∂²z/∂x∂y=e^(-x²y²)+y·(-2x²y)e^(-x²y²)=e^(-x²y²)(1-2x²y²)。",
+    "difficulty": 5,
+    "tags": [
+      "2013年真题",
+      "变限积分求偏导数"
+    ]
+  },
+  {
+    "id": "math-316",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "计算",
+    "stem": "求微分方程 y''-2y'+(1-k)y=0（其中常数 k≥0）的通解。",
+    "options": [],
+    "answer": "k=0 时 y=(C₁+C₂x)e^x；k>0 时 y=C₁e^((1+√k)x)+C₂e^((1-√k)x)",
+    "explanation": "特征方程为 r²-2r+(1-k)=0，解得 r=1±√k；k=0 时为二重根 r=1，通解 y=(C₁+C₂x)e^x；k>0 时为两个不等实根 r=1±√k，通解 y=C₁e^((1+√k)x)+C₂e^((1-√k)x)。",
+    "difficulty": 4,
+    "tags": [
+      "2013年真题",
+      "二阶常系数齐次线性微分方程"
+    ]
+  },
+  {
+    "id": "math-317",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "综合",
+    "stem": "交换二次积分 I=∫₀¹dx∫(e^x→e)[(2x+1)(2y+1)/(lny+1)]dy 的积分次序，并求 I 的值。",
+    "options": [],
+    "answer": "换序后 I=∫₁^e dy∫₀^(lny)[(2x+1)(2y+1)/(lny+1)]dx；I=(e²+3)/2",
+    "explanation": "积分区域 D={(x,y)|0≤x≤1, e^x≤y≤e} 也可表示为 {(x,y)|1≤y≤e, 0≤x≤lny}；换序后内层对 x 积分得 (2y+1)lny，再对 y 积分得 (e²+3)/2。",
+    "difficulty": 5,
+    "tags": [
+      "2013年真题",
+      "交换积分次序"
+    ]
+  },
+  {
+    "id": "math-318",
+    "subjectId": "math",
+    "chapter": "2013年真题",
+    "type": "综合",
+    "stem": "已知 f(x) 是定义在区间 [0,+∞) 上的非负可导函数，且曲线 y=f(x) 与直线 y=0、x=0 及 x=t（t≥0）围成的曲边梯形的面积为 f(t)-t²。(1) 求函数 f(x)；(2) 证明：当 x>0 时，f(x)>x²+x³/3。",
+    "options": [],
+    "answer": "f(x)=2(e^x-x-1)（x≥0）；当 x>0 时 f(x)>x²+x³/3",
+    "explanation": "(1) 由 ∫₀^t f(x)dx=f(t)-t² 两边对 t 求导得 f(t)=f'(t)-2t，即 f'(t)-f(t)=2t，且 f(0)=0，解一阶线性方程得 f(t)=2(e^t-t-1)。(2) 令 F(x)=f(x)-x²-x³/3，则 F'(x)=2(e^x-1)-2x-x²，F''(x)=2(e^x-x-1)=f(x)>0（x>0），故 F'(x) 单调递增且 F'(0)=0，得 F'(x)>0，F(x) 单调递增，F(x)>F(0)=0，即 f(x)>x²+x³/3。",
+    "difficulty": 5,
+    "tags": [
+      "2013年真题",
+      "变限积分与不等式证明"
+    ]
+  },
+  {
+    "id": "math-319",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "单选",
+    "stem": "已知三个数列 {aₙ}、{bₙ} 和 {cₙ} 满足 aₙ≤bₙ≤cₙ（n∈N*），且 lim(n→∞)aₙ=a，lim(n→∞)cₙ=c（a、c 为常数，且 a<c），则数列 {bₙ} 必定（ ）。",
+    "options": [
+      "有界",
+      "无界",
+      "收敛",
+      "发散"
+    ],
+    "answer": "A",
+    "explanation": "由 aₙ≤bₙ≤cₙ 及 aₙ→a、cₙ→c 可知 bₙ 被两个收敛数列夹住，因而有界，选 A；但 bₙ 未必收敛（可在 a、c 之间振荡），故 C、D 不必然成立。",
+    "difficulty": 3,
+    "tags": [
+      "2012年真题",
+      "数列的收敛与有界"
+    ]
+  },
+  {
+    "id": "math-320",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "单选",
+    "stem": "x=0 是函数 f(x)={ (1-2x)^(1/x), x<0; e²+x, x≥0 } 的（ ）。",
+    "options": [
+      "连续点",
+      "可去间断点",
+      "跳跃间断点",
+      "第二类间断点"
+    ],
+    "answer": "C",
+    "explanation": "左极限 lim(x→0⁻)(1-2x)^(1/x)=e^(-2)，右极限 lim(x→0⁺)(e²+x)=e²，两个极限都存在但不相等，故 x=0 为跳跃间断点，选 C。",
+    "difficulty": 3,
+    "tags": [
+      "2012年真题",
+      "间断点的分类"
+    ]
+  },
+  {
+    "id": "math-321",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "单选",
+    "stem": "如果曲线 y=ax-x²/(x+1) 的水平渐近线存在，则常数 a=（ ）。",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "-1"
+    ],
+    "answer": "B",
+    "explanation": "x²/(x+1)=x-1+1/(x+1)，故 y=(a-1)x+1-1/(x+1)；水平渐近线存在要求一次项系数为 0，即 a-1=0，得 a=1，选 B。",
+    "difficulty": 3,
+    "tags": [
+      "2012年真题",
+      "曲线的渐近线"
+    ]
+  },
+  {
+    "id": "math-322",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "单选",
+    "stem": "设 f(x,y) 为连续函数，将极坐标形式的二次积分 I=∫₀^(π/4)dθ∫₀^1 f(r cosθ, r sinθ) r dr 化为直角坐标形式，则 I=（ ）。",
+    "options": [
+      "∫₀^(√2/2)dx∫_x^(√(1-x²)) f(x,y)dy",
+      "∫₀^(√2/2)dx∫_0^(√(1-x²)) f(x,y)dy",
+      "∫₀^(√2/2)dy∫_y^(√(1-y²)) f(x,y)dx",
+      "∫₀^(√2/2)dy∫_0^(√(1-y²)) f(x,y)dx"
+    ],
+    "answer": "C",
+    "explanation": "积分区域为圆 x²+y²≤1 在 0≤θ≤π/4 内的部分，即 0≤y≤x。按先 x 后 y 的次序：y∈[0,√2/2]，对每个 y，x 从 y 到 √(1-y²)，故选 C。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "极坐标化直角坐标"
+    ]
+  },
+  {
+    "id": "math-323",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "填空",
+    "stem": "设 f(x) 在点 x₀ 处可导，且 f'(x₀)=3，则 lim(Δx→0)[f(x₀-2Δx)-f(x₀)]/Δx = ______。",
+    "options": [],
+    "answer": "-6",
+    "explanation": "[f(x₀-2Δx)-f(x₀)]/Δx=-2·[f(x₀-2Δx)-f(x₀)]/(-2Δx)→-2f'(x₀)=-6。",
+    "difficulty": 3,
+    "tags": [
+      "2012年真题",
+      "导数的定义"
+    ]
+  },
+  {
+    "id": "math-324",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "填空",
+    "stem": "若 f(x)=∫(tanx)/x dx，则 f''(π) = ______。",
+    "options": [],
+    "answer": "1/π",
+    "explanation": "由变限积分求导公式，f'(x)=tanx/x（原卷此处积分号未标上下限，按变限积分理解）；再求导 f''(x)=(x·sec²x-tanx)/x²，代入 x=π（tanπ=0，sec²π=1）得 f''(π)=π/π²=1/π。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "变限积分求导"
+    ]
+  },
+  {
+    "id": "math-325",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "填空",
+    "stem": "若曲线 y=x³+ax²+bx+1 有拐点 (-1,0)，则常数 b = ______。",
+    "options": [],
+    "answer": "3",
+    "explanation": "y''=6x+2a，拐点处 y''(-1)=0 得 a=3；再把 (-1,0) 代入曲线：-1+3-b+1=0，得 b=3。",
+    "difficulty": 3,
+    "tags": [
+      "2012年真题",
+      "曲线的拐点"
+    ]
+  },
+  {
+    "id": "math-326",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "填空",
+    "stem": "设函数 f(u) 可微，且 f'(0)=1/2，则 z=f(4x²-y²) 在点 (1,2) 处的全微分 dz|_(1,2) = ______。",
+    "options": [],
+    "answer": "4dx-2dy",
+    "explanation": "令 u=4x²-y²，则 u(1,2)=0；dz=f'(u)(8x dx-2y dy)，代入 x=1、y=2 及 f'(0)=1/2 得 dz=(1/2)(8dx-4dy)=4dx-2dy。",
+    "difficulty": 3,
+    "tags": [
+      "2012年真题",
+      "全微分"
+    ]
+  },
+  {
+    "id": "math-327",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "计算 lim(x→+∞) (1/(1+x))^(1/lnx)。",
+    "options": [],
+    "answer": "e^(-1)",
+    "explanation": "取对数：ln[(1/(1+x))^(1/lnx)]=-ln(1+x)/lnx，用洛必达法则得极限为 -1，故原式=e^(-1)。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "幂指函数极限"
+    ]
+  },
+  {
+    "id": "math-328",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "设函数 y=f(x) 由参数方程 { x=ln(√(3+t²)+t), y=√(3+t²) } 所确定，求 dy/dx（结果要化为最简形式）。",
+    "options": [],
+    "answer": "t",
+    "explanation": "dx/dt=(t/√(3+t²)+1)/(√(3+t²)+t)=1/√(3+t²)，dy/dt=t/√(3+t²)，故 dy/dx=(dy/dt)/(dx/dt)=t。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "参数方程求导"
+    ]
+  },
+  {
+    "id": "math-329",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "确定函数 f(x)=(x-1)e^(π/4+arctanx) 的单调区间和极值。",
+    "options": [],
+    "answer": "递增区间 (-∞,-1) 与 (0,+∞)，递减区间 (-1,0)；极大值 f(-1)=-2，极小值 f(0)=-e^(π/4)",
+    "explanation": "f'(x)=e^(π/4+arctanx)[1+(x-1)/(1+x²)]=e^(π/4+arctanx)·x(x+1)/(1+x²)，令 f'(x)=0 得 x=-1、x=0；f'(x)>0 的区间为 (-∞,-1) 与 (0,+∞)，f'(x)<0 的区间为 (-1,0)；故极大值 f(-1)=-2，极小值 f(0)=-e^(π/4)。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "单调性与极值"
+    ]
+  },
+  {
+    "id": "math-330",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "求不定积分 ∫ln(1+x²)dx。",
+    "options": [],
+    "answer": "x·ln(1+x²)-2x+2arctanx+C",
+    "explanation": "分部积分：∫ln(1+x²)dx=x·ln(1+x²)-∫2x²/(1+x²)dx=x·ln(1+x²)-2∫(1-1/(1+x²))dx=x·ln(1+x²)-2x+2arctanx+C。",
+    "difficulty": 3,
+    "tags": [
+      "2012年真题",
+      "分部积分法"
+    ]
+  },
+  {
+    "id": "math-331",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "设 f(x)={ x³e^(x²+1), -1/2≤x≤1/2; 1/x², x>1/2 }，利用定积分的换元法求定积分 ∫_(1/2)^2 f(x-1)dx。",
+    "options": [],
+    "answer": "1",
+    "explanation": "令 x-1=t，则 t∈[-1/2,1]；原式=∫_(-1/2)^1 f(t)dt=∫_(-1/2)^(1/2) t³e^(t²+1)dt+∫_(1/2)^1 (1/t²)dt。前者被积函数为奇函数且积分区间对称，其值为 0；后者=[-1/t]_(1/2)^1=1，故原式=1。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "换元积分法"
+    ]
+  },
+  {
+    "id": "math-332",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "求微分方程 y''-4y'+13y=0 满足初始条件 y|_{x=0}=1、y'|_{x=0}=8 的特解。",
+    "options": [],
+    "answer": "y=e^(2x)(cos3x+2sin3x)",
+    "explanation": "特征方程 r²-4r+13=0，解得 r=2±3i，通解 y=e^(2x)(C₁cos3x+C₂sin3x)；由 y(0)=1 得 C₁=1，由 y'(0)=2C₁+3C₂=8 得 C₂=2，故特解为 y=e^(2x)(cos3x+2sin3x)。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "二阶常系数齐次线性微分方程"
+    ]
+  },
+  {
+    "id": "math-333",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "已知二元函数 z=x(2y+1)^x，求 ∂²z/∂y∂x |_{x=1, y=1}。",
+    "options": [],
+    "answer": "4+2ln3",
+    "explanation": "∂z/∂y=2x²(2y+1)^(x-1)；再对 x 求导得 ∂²z/∂y∂x=4x(2y+1)^(x-1)+2x²(2y+1)^(x-1)·ln(2y+1)；代入 x=1、y=1 得 4+2ln3。",
+    "difficulty": 4,
+    "tags": [
+      "2012年真题",
+      "混合偏导数"
+    ]
+  },
+  {
+    "id": "math-334",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "计算",
+    "stem": "计算二重积分 ∬_D √(y²-x) dσ，其中 D 是由曲线 y=√x 及直线 y=1、x=0 围成的闭区域。",
+    "options": [],
+    "answer": "1/6",
+    "explanation": "区域 D={(x,y)|0≤y≤1, 0≤x≤y²}；∬_D √(y²-x)dσ=∫₀¹dy∫₀^(y²)√(y²-x)dx=∫₀¹(2/3)y³dy=1/6。",
+    "difficulty": 5,
+    "tags": [
+      "2012年真题",
+      "二重积分"
+    ]
+  },
+  {
+    "id": "math-335",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "综合",
+    "stem": "已知曲线 C 经过点 M(1,0)，且曲线 C 上任意点 P(x,y)（x≠0）处的切线斜率与直线 OP（O 为坐标原点）的斜率之差等于 ax（常数 a>0）。(1) 求曲线 C 的方程；(2) 确定 a 的值，使曲线 C 与直线 y=ax 围成的平面图形的面积等于 8/3。",
+    "options": [],
+    "answer": "(1) y=ax²-ax=ax(x-1)；(2) a=2",
+    "explanation": "(1) 由题意 y'-y/x=ax，且 y|_{x=1}=0；解一阶线性微分方程得 y=x(ax+C)，代入 (1,0) 得 C=-a，故曲线 C 的方程为 y=ax²-ax=ax(x-1)。(2) 由 ax²-ax=ax 得 x=0、x=2；围成图形面积=∫₀²(ax-ax²+ax)dx=(ax²-(a/3)x³)|₀²=4a-8a/3=4a/3，令其等于 8/3 得 a=2。",
+    "difficulty": 5,
+    "tags": [
+      "2012年真题",
+      "一阶线性微分方程与平面图形面积"
+    ]
+  },
+  {
+    "id": "math-336",
+    "subjectId": "math",
+    "chapter": "2012年真题",
+    "type": "综合",
+    "stem": "当 x→0，函数 f(x)=∫₀^x 2^(t³-3t+a) dt 与 x 是等价无穷小量。(1) 求常数 a 的值；(2) 证明：1/2≤f(2)≤8。",
+    "options": [],
+    "answer": "(1) a=0；(2) 1/2≤f(2)≤8",
+    "explanation": "(1) lim(x→0)[∫₀^x 2^(t³-3t+a)dt]/x=lim(x→0)2^(x³-3x+a)=2^a=1，故 a=0。(2) f(2)=∫₀² 2^(x³-3x)dx；设 g(x)=2^(x³-3x)，g'(x)=2^(x³-3x)(3x²-3)ln2，令 g'(x)=0 得 x=1；g(0)=1、g(1)=1/4、g(2)=4，故 g(x) 在 [0,2] 上的最大值为 4、最小值为 1/4，由定积分的估值定理得 1/2≤f(2)≤8。（原卷参考答案此处将底数 2 误印为 e，实际被积函数为 2^(x³-3x)。）",
+    "difficulty": 5,
+    "tags": [
+      "2012年真题",
+      "等价无穷小与定积分估值"
+    ]
+  }
+]
